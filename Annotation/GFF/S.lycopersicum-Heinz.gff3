@@ -1,0 +1,3129 @@
+Contig001	Curated	gene	1389	4305	.	+	.	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	mRNA	1389	4305	.	+	.	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	exon	1389	1653	.	+	.	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	exon	1662	2018	.	+	.	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	exon	2069	2130	.	+	.	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	exon	3046	3309	.	+	.	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	exon	3778	4305	.	+	.	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	CDS	1389	1653	.	+	0	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	CDS	1662	2018	.	+	2	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	CDS	2069	2130	.	+	2	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	CDS	3046	3309	.	+	0	ID=Heinz-001-1+I+CNL+G5
+Contig001	Curated	CDS	3778	4305	.	+	0	ID=Heinz-001-1+I+CNL+G5
+ 
+Contig001	Curated	gene	4928	5893	.	+	.	ID=Heinz-001-2+P+N+G5
+Contig001	Curated	mRNA	4928	5893	.	+	.	ID=Heinz-001-2+P+N+G5
+Contig001	Curated	exon	4928	5343	.	+	.	ID=Heinz-001-2+P+N+G5
+Contig001	Curated	exon	5373	5494	.	+	.	ID=Heinz-001-2+P+N+G5
+Contig001	Curated	exon	5524	5696	.	+	.	ID=Heinz-001-2+P+N+G5
+Contig001	Curated	exon	5738	5893	.	+	.	ID=Heinz-001-2+P+N+G5
+Contig001	Curated	CDS	4928	5343	.	+	0	ID=Heinz-001-2+P+N+G5
+Contig001	Curated	CDS	5373	5494	.	+	1	ID=Heinz-001-2+P+N+G5
+Contig001	Curated	CDS	5524	5696	.	+	2	ID=Heinz-001-2+P+N+G5
+Contig001	Curated	CDS	5738	5893	.	+	0	ID=Heinz-001-2+P+N+G5
+ 
+Contig001	Curated	gene	9166	11697	.	+	.	ID=Heinz-001-3+I+CN+G5
+Contig001	Curated	mRNA	9166	11697	.	+	.	ID=Heinz-001-3+I+CN+G5
+Contig001	Curated	exon	9166	11697	.	+	.	ID=Heinz-001-3+I+CN+G5
+Contig001	Curated	CDS	9166	11697	.	+	0	ID=Heinz-001-3+I+CN+G5
+ 
+Contig001	Curated	gene	13998	16437	.	+	.	ID=Heinz-001-4+I+CNL+G5
+Contig001	Curated	mRNA	13998	16437	.	+	.	ID=Heinz-001-4+I+CNL+G5
+Contig001	Curated	exon	13998	14849	.	+	.	ID=Heinz-001-4+I+CNL+G5
+Contig001	Curated	exon	14883	15704	.	+	.	ID=Heinz-001-4+I+CNL+G5
+Contig001	Curated	exon	15732	15956	.	+	.	ID=Heinz-001-4+I+CNL+G5
+Contig001	Curated	exon	15997	16437	.	+	.	ID=Heinz-001-4+I+CNL+G5
+Contig001	Curated	CDS	13998	14849	.	+	0	ID=Heinz-001-4+I+CNL+G5
+Contig001	Curated	CDS	14883	15704	.	+	0	ID=Heinz-001-4+I+CNL+G5
+Contig001	Curated	CDS	15732	15956	.	+	0	ID=Heinz-001-4+I+CNL+G5
+Contig001	Curated	CDS	15997	16437	.	+	0	ID=Heinz-001-4+I+CNL+G5
+ 
+Contig001	Curated	gene	18922	21467	.	+	.	ID=Heinz-001-5+I+CN+G5
+Contig001	Curated	mRNA	18922	21467	.	+	.	ID=Heinz-001-5+I+CN+G5
+Contig001	Curated	exon	18922	20001	.	+	.	ID=Heinz-001-5+I+CN+G5
+Contig001	Curated	exon	20012	21075	.	+	.	ID=Heinz-001-5+I+CN+G5
+Contig001	Curated	exon	21098	21467	.	+	.	ID=Heinz-001-5+I+CN+G5
+Contig001	Curated	CDS	18922	20001	.	+	0	ID=Heinz-001-5+I+CN+G5
+Contig001	Curated	CDS	20012	21075	.	+	0	ID=Heinz-001-5+I+CN+G5
+Contig001	Curated	CDS	21098	21467	.	+	1	ID=Heinz-001-5+I+CN+G5
+ 
+Contig001	Curated	gene	27606	30140	.	+	.	ID=Heinz-001-6+I+CNL+G5
+Contig001	Curated	mRNA	27606	30140	.	+	.	ID=Heinz-001-6+I+CNL+G5
+Contig001	Curated	exon	27606	30140	.	+	.	ID=Heinz-001-6+I+CNL+G5
+Contig001	Curated	CDS	27606	30140	.	+	0	ID=Heinz-001-6+I+CNL+G5
+ 
+Contig001	Curated	gene	32147	34367	.	+	.	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	mRNA	32147	34367	.	+	.	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	exon	32147	32253	.	+	.	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	exon	32299	33105	.	+	.	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	exon	33114	33481	.	+	.	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	exon	33502	33538	.	+	.	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	exon	33554	33646	.	+	.	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	exon	33707	34367	.	+	.	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	CDS	32147	32253	.	+	0	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	CDS	32299	33105	.	+	1	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	CDS	33114	33481	.	+	1	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	CDS	33502	33538	.	+	2	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	CDS	33554	33646	.	+	1	ID=Heinz-001-7+I+CNL+G5
+Contig001	Curated	CDS	33707	34367	.	+	1	ID=Heinz-001-7+I+CNL+G5
+ 
+Contig002	Curated	gene	16501	19958	.	+	.	ID=Heinz-002-1+P+CNL+G4
+Contig002	Curated	mRNA	16501	19958	.	+	.	ID=Heinz-002-1+P+CNL+G4
+Contig002	Curated	exon	16501	17137	.	+	.	ID=Heinz-002-1+P+CNL+G4
+Contig002	Curated	exon	17185	19958	.	+	.	ID=Heinz-002-1+P+CNL+G4
+Contig002	Curated	CDS	16501	17137	.	+	0	ID=Heinz-002-1+P+CNL+G4
+Contig002	Curated	CDS	17185	19958	.	+	2	ID=Heinz-002-1+P+CNL+G4
+ 
+Contig002	Curated	gene	22602	26231	.	+	.	ID=Heinz-002-2+I+CNL+G4
+Contig002	Curated	mRNA	22602	26231	.	+	.	ID=Heinz-002-2+I+CNL+G4
+Contig002	Curated	exon	22602	26231	.	+	.	ID=Heinz-002-2+I+CNL+G4
+Contig002	Curated	CDS	22602	26231	.	+	0	ID=Heinz-002-2+I+CNL+G4
+ 
+Contig002	Curated	gene	30098	33980	.	+	.	ID=Heinz-002-3+I+CNL+G4
+Contig002	Curated	mRNA	30098	33980	.	+	.	ID=Heinz-002-3+I+CNL+G4
+Contig002	Curated	exon	30098	30820	.	+	.	ID=Heinz-002-3+I+CNL+G4
+Contig002	Curated	exon	30882	33980	.	+	.	ID=Heinz-002-3+I+CNL+G4
+Contig002	Curated	CDS	30098	30820	.	+	0	ID=Heinz-002-3+I+CNL+G4
+Contig002	Curated	CDS	30882	33980	.	+	0	ID=Heinz-002-3+I+CNL+G4
+ 
+Contig003	Curated	gene	3879	6413	.	+	.	ID=Heinz-003-1+I+CNL+G5
+Contig003	Curated	mRNA	3879	6413	.	+	.	ID=Heinz-003-1+I+CNL+G5
+Contig003	Curated	exon	3879	6413	.	+	.	ID=Heinz-003-1+I+CNL+G5
+Contig003	Curated	CDS	3879	6413	.	+	0	ID=Heinz-003-1+I+CNL+G5
+ 
+Contig003	Curated	gene	8035	8713	.	+	.	ID=Heinz-003-2+P+CN+G5
+Contig003	Curated	mRNA	8035	8713	.	+	.	ID=Heinz-003-2+P+CN+G5
+Contig003	Curated	exon	8035	8184	.	+	.	ID=Heinz-003-2+P+CN+G5
+Contig003	Curated	exon	8192	8713	.	+	.	ID=Heinz-003-2+P+CN+G5
+Contig003	Curated	CDS	8035	8184	.	+	0	ID=Heinz-003-2+P+CN+G5
+Contig003	Curated	CDS	8192	8713	.	+	0	ID=Heinz-003-2+P+CN+G5
+ 
+Contig003	Curated	gene	11786	14335	.	+	.	ID=Heinz-003-3+I+CNL+G5
+Contig003	Curated	mRNA	11786	14335	.	+	.	ID=Heinz-003-3+I+CNL+G5
+Contig003	Curated	exon	11786	14335	.	+	.	ID=Heinz-003-3+I+CNL+G5
+Contig003	Curated	CDS	11786	14335	.	+	0	ID=Heinz-003-3+I+CNL+G5
+ 
+Contig003	Curated	gene	19966	22488	.	+	.	ID=Heinz-003-4+I+CNL+G5
+Contig003	Curated	mRNA	19966	22488	.	+	.	ID=Heinz-003-4+I+CNL+G5
+Contig003	Curated	exon	19966	22488	.	+	.	ID=Heinz-003-4+I+CNL+G5
+Contig003	Curated	CDS	19966	22488	.	+	0	ID=Heinz-003-4+I+CNL+G5
+ 
+Contig003	Curated	gene	26372	28909	.	+	.	ID=Heinz-003-5+I+CNL+G5
+Contig003	Curated	mRNA	26372	28909	.	+	.	ID=Heinz-003-5+I+CNL+G5
+Contig003	Curated	exon	26372	28909	.	+	.	ID=Heinz-003-5+I+CNL+G5
+Contig003	Curated	CDS	26372	28909	.	+	0	ID=Heinz-003-5+I+CNL+G5
+ 
+Contig004	Curated	gene	5365	8658	.	-	.	ID=Heinz-004-1+I+CNL+NG
+Contig004	Curated	mRNA	5365	8658	.	-	.	ID=Heinz-004-1+I+CNL+NG
+Contig004	Curated	exon	5365	7181	.	-	.	ID=Heinz-004-1+I+CNL+NG
+Contig004	Curated	exon	7704	8658	.	-	.	ID=Heinz-004-1+I+CNL+NG
+Contig004	Curated	CDS	5365	7181	.	-	2	ID=Heinz-004-1+I+CNL+NG
+Contig004	Curated	CDS	7704	8658	.	-	0	ID=Heinz-004-1+I+CNL+NG
+ 
+Contig005	Curated	gene	5134	7389	.	-	.	ID=Heinz-005-1+I+NL+G6
+Contig005	Curated	mRNA	5134	7389	.	-	.	ID=Heinz-005-1+I+NL+G6
+Contig005	Curated	exon	5134	7389	.	-	.	ID=Heinz-005-1+I+NL+G6
+Contig005	Curated	CDS	5134	7389	.	-	0	ID=Heinz-005-1+I+NL+G6
+ 
+Contig005	Curated	gene	10878	17912	.	-	.	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	mRNA	10878	17912	.	-	.	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	exon	10878	11318	.	-	.	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	exon	11397	11627	.	-	.	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	exon	17015	17178	.	-	.	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	exon	17249	17548	.	-	.	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	exon	17577	17656	.	-	.	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	exon	17674	17912	.	-	.	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	CDS	10878	11318	.	-	0	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	CDS	11397	11627	.	-	0	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	CDS	17015	17178	.	-	2	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	CDS	17249	17548	.	-	2	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	CDS	17577	17656	.	-	1	ID=Heinz-005-2+I+N+G6
+Contig005	Curated	CDS	17674	17912	.	-	0	ID=Heinz-005-2+I+N+G6
+ 
+Contig005	Curated	gene	25666	28452	.	-	.	ID=Heinz-005-3+I+NL+G6
+Contig005	Curated	mRNA	25666	28452	.	-	.	ID=Heinz-005-3+I+NL+G6
+Contig005	Curated	exon	25666	25877	.	-	.	ID=Heinz-005-3+I+NL+G6
+Contig005	Curated	exon	26193	28452	.	-	.	ID=Heinz-005-3+I+NL+G6
+Contig005	Curated	CDS	25666	25877	.	-	2	ID=Heinz-005-3+I+NL+G6
+Contig005	Curated	CDS	26193	28452	.	-	0	ID=Heinz-005-3+I+NL+G6
+ 
+Contig006	Curated	gene	3544	7823	.	-	.	ID=Heinz-006-1+I+TNL+GT
+Contig006	Curated	mRNA	3544	7823	.	-	.	ID=Heinz-006-1+I+TNL+GT
+Contig006	Curated	exon	3544	5049	.	-	.	ID=Heinz-006-1+I+TNL+GT
+Contig006	Curated	exon	5443	5718	.	-	.	ID=Heinz-006-1+I+TNL+GT
+Contig006	Curated	exon	6143	7226	.	-	.	ID=Heinz-006-1+I+TNL+GT
+Contig006	Curated	exon	7303	7823	.	-	.	ID=Heinz-006-1+I+TNL+GT
+Contig006	Curated	CDS	3544	5049	.	-	0	ID=Heinz-006-1+I+TNL+GT
+Contig006	Curated	CDS	5443	5718	.	-	0	ID=Heinz-006-1+I+TNL+GT
+Contig006	Curated	CDS	6143	7226	.	-	1	ID=Heinz-006-1+I+TNL+GT
+Contig006	Curated	CDS	7303	7823	.	-	0	ID=Heinz-006-1+I+TNL+GT
+ 
+Contig006	Curated	gene	12336	24703	.	-	.	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	mRNA	12336	24703	.	-	.	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	exon	12336	15716	.	-	.	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	exon	16328	16609	.	-	.	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	exon	17249	18341	.	-	.	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	exon	18848	20751	.	-	.	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	exon	21681	22010	.	-	.	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	exon	23008	24085	.	-	.	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	exon	24156	24703	.	-	.	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	CDS	12336	15716	.	-	0	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	CDS	16328	16609	.	-	0	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	CDS	17249	18341	.	-	1	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	CDS	18848	20751	.	-	0	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	CDS	21681	22010	.	-	0	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	CDS	23008	24085	.	-	1	ID=Heinz-006-2+I+TNL+GT
+Contig006	Curated	CDS	24156	24703	.	-	0	ID=Heinz-006-2+I+TNL+GT
+ 
+Contig007	Curated	gene	6095	11520	.	-	.	ID=Heinz-007-1+I+CNL+G1
+Contig007	Curated	mRNA	6095	11520	.	-	.	ID=Heinz-007-1+I+CNL+G1
+Contig007	Curated	exon	11482	11520	.	-	.	ID=Heinz-007-1+I+CNL+G1
+Contig007	Curated	exon	6095	6349	.	-	.	ID=Heinz-007-1+I+CNL+G1
+Contig007	Curated	exon	7089	10766	.	-	.	ID=Heinz-007-1+I+CNL+G1
+Contig007	Curated	CDS	11482	11520	.	-	0	ID=Heinz-007-1+I+CNL+G1
+Contig007	Curated	CDS	6095	6349	.	-	0	ID=Heinz-007-1+I+CNL+G1
+Contig007	Curated	CDS	7089	10766	.	-	0	ID=Heinz-007-1+I+CNL+G1
+ 
+Contig007	Curated	gene	12854	17241	.	+	.	ID=Heinz-007-2+I+CNL+G1
+Contig007	Curated	mRNA	12854	17241	.	+	.	ID=Heinz-007-2+I+CNL+G1
+Contig007	Curated	exon	12854	12910	.	+	.	ID=Heinz-007-2+I+CNL+G1
+Contig007	Curated	exon	13567	17241	.	+	.	ID=Heinz-007-2+I+CNL+G1
+Contig007	Curated	CDS	12854	12910	.	+	0	ID=Heinz-007-2+I+CNL+G1
+Contig007	Curated	CDS	13567	17241	.	+	0	ID=Heinz-007-2+I+CNL+G1
+ 
+Contig007	Curated	gene	20997	25186	.	+	.	ID=Heinz-007-3+I+CNL+G1
+Contig007	Curated	mRNA	20997	25186	.	+	.	ID=Heinz-007-3+I+CNL+G1
+Contig007	Curated	exon	20997	21053	.	+	.	ID=Heinz-007-3+I+CNL+G1
+Contig007	Curated	exon	21515	25186	.	+	.	ID=Heinz-007-3+I+CNL+G1
+Contig007	Curated	CDS	20997	21053	.	+	0	ID=Heinz-007-3+I+CNL+G1
+Contig007	Curated	CDS	21515	25186	.	+	0	ID=Heinz-007-3+I+CNL+G1
+ 
+Contig008	Curated	gene	3338	7064	.	+	.	ID=Heinz-008-1+I+CNL+G3
+Contig008	Curated	mRNA	3338	7064	.	+	.	ID=Heinz-008-1+I+CNL+G3
+Contig008	Curated	exon	3338	5803	.	+	.	ID=Heinz-008-1+I+CNL+G3
+Contig008	Curated	exon	6015	7064	.	+	.	ID=Heinz-008-1+I+CNL+G3
+Contig008	Curated	CDS	3338	5803	.	+	0	ID=Heinz-008-1+I+CNL+G3
+Contig008	Curated	CDS	6015	7064	.	+	0	ID=Heinz-008-1+I+CNL+G3
+ 
+Contig008	Curated	gene	7385	9728	.	+	.	ID=Heinz-008-2+I+CNL+G3
+Contig008	Curated	mRNA	7385	9728	.	+	.	ID=Heinz-008-2+I+CNL+G3
+Contig008	Curated	exon	7385	8574	.	+	.	ID=Heinz-008-2+I+CNL+G3
+Contig008	Curated	exon	8657	9728	.	+	.	ID=Heinz-008-2+I+CNL+G3
+Contig008	Curated	CDS	7385	8574	.	+	0	ID=Heinz-008-2+I+CNL+G3
+Contig008	Curated	CDS	8657	9728	.	+	1	ID=Heinz-008-2+I+CNL+G3
+ 
+Contig008	Curated	gene	12567	16492	.	-	.	ID=Heinz-008-3+I+CNL+G3
+Contig008	Curated	mRNA	12567	16492	.	-	.	ID=Heinz-008-3+I+CNL+G3
+Contig008	Curated	exon	12567	12646	.	-	.	ID=Heinz-008-3+I+CNL+G3
+Contig008	Curated	exon	12765	13858	.	-	.	ID=Heinz-008-3+I+CNL+G3
+Contig008	Curated	exon	13953	16492	.	-	.	ID=Heinz-008-3+I+CNL+G3
+Contig008	Curated	CDS	12567	12646	.	-	2	ID=Heinz-008-3+I+CNL+G3
+Contig008	Curated	CDS	12765	13858	.	-	1	ID=Heinz-008-3+I+CNL+G3
+Contig008	Curated	CDS	13953	16492	.	-	0	ID=Heinz-008-3+I+CNL+G3
+ 
+Contig008	Curated	gene	17106	20818	.	+	.	ID=Heinz-008-4+I+CNL+G3
+Contig008	Curated	mRNA	17106	20818	.	+	.	ID=Heinz-008-4+I+CNL+G3
+Contig008	Curated	exon	17106	19576	.	+	.	ID=Heinz-008-4+I+CNL+G3
+Contig008	Curated	exon	19687	20818	.	+	.	ID=Heinz-008-4+I+CNL+G3
+Contig008	Curated	CDS	17106	19576	.	+	0	ID=Heinz-008-4+I+CNL+G3
+Contig008	Curated	CDS	19687	20818	.	+	1	ID=Heinz-008-4+I+CNL+G3
+ 
+Contig009	Curated	gene	3379	5980	.	-	.	ID=Heinz-009-1+P+CN+NA
+Contig009	Curated	mRNA	3379	5980	.	-	.	ID=Heinz-009-1+P+CN+NA
+Contig009	Curated	exon	3379	4910	.	-	.	ID=Heinz-009-1+P+CN+NA
+Contig009	Curated	exon	5035	5980	.	-	.	ID=Heinz-009-1+P+CN+NA
+Contig009	Curated	CDS	3379	4910	.	-	2	ID=Heinz-009-1+P+CN+NA
+Contig009	Curated	CDS	5035	5980	.	-	0	ID=Heinz-009-1+P+CN+NA
+ 
+Contig009	Curated	gene	13031	17404	.	-	.	ID=Heinz-009-2+I+CNL+G8
+Contig009	Curated	mRNA	13031	17404	.	-	.	ID=Heinz-009-2+I+CNL+G8
+Contig009	Curated	exon	13031	15193	.	-	.	ID=Heinz-009-2+I+CNL+G8
+Contig009	Curated	exon	16967	17404	.	-	.	ID=Heinz-009-2+I+CNL+G8
+Contig009	Curated	CDS	13031	15193	.	-	0	ID=Heinz-009-2+I+CNL+G8
+Contig009	Curated	CDS	16967	17404	.	-	0	ID=Heinz-009-2+I+CNL+G8
+ 
+Contig009	Curated	gene	19204	21902	.	+	.	ID=Heinz-009-3+I+NL+NG
+Contig009	Curated	mRNA	19204	21902	.	+	.	ID=Heinz-009-3+I+NL+NG
+Contig009	Curated	exon	19204	20128	.	+	.	ID=Heinz-009-3+I+NL+NG
+Contig009	Curated	exon	20215	21902	.	+	.	ID=Heinz-009-3+I+NL+NG
+Contig009	Curated	CDS	19204	20128	.	+	0	ID=Heinz-009-3+I+NL+NG
+Contig009	Curated	CDS	20215	21902	.	+	2	ID=Heinz-009-3+I+NL+NG
+ 
+Contig010	Curated	gene	3716	8289	.	-	.	ID=Heinz-010-1+I+CNL+G3
+Contig010	Curated	mRNA	3716	8289	.	-	.	ID=Heinz-010-1+I+CNL+G3
+Contig010	Curated	exon	3716	4862	.	-	.	ID=Heinz-010-1+I+CNL+G3
+Contig010	Curated	exon	4949	8289	.	-	.	ID=Heinz-010-1+I+CNL+G3
+Contig010	Curated	CDS	3716	4862	.	-	1	ID=Heinz-010-1+I+CNL+G3
+Contig010	Curated	CDS	4949	8289	.	-	0	ID=Heinz-010-1+I+CNL+G3
+ 
+Contig010	Curated	gene	10077	14429	.	-	.	ID=Heinz-010-2+I+CNL+G3
+Contig010	Curated	mRNA	10077	14429	.	-	.	ID=Heinz-010-2+I+CNL+G3
+Contig010	Curated	exon	10077	11258	.	-	.	ID=Heinz-010-2+I+CNL+G3
+Contig010	Curated	exon	11370	14429	.	-	.	ID=Heinz-010-2+I+CNL+G3
+Contig010	Curated	CDS	10077	11258	.	-	0	ID=Heinz-010-2+I+CNL+G3
+Contig010	Curated	CDS	11370	14429	.	-	0	ID=Heinz-010-2+I+CNL+G3
+ 
+Contig011	Curated	gene	4545	7208	.	+	.	ID=Heinz-011-1+I+CNL+NG
+Contig011	Curated	mRNA	4545	7208	.	+	.	ID=Heinz-011-1+I+CNL+NG
+Contig011	Curated	exon	4545	7208	.	+	.	ID=Heinz-011-1+I+CNL+NG
+Contig011	Curated	CDS	4545	7208	.	+	0	ID=Heinz-011-1+I+CNL+NG
+ 
+Contig011	Curated	gene	9561	12200	.	+	.	ID=Heinz-011-2+I+NL+NG
+Contig011	Curated	mRNA	9561	12200	.	+	.	ID=Heinz-011-2+I+NL+NG
+Contig011	Curated	exon	9561	12200	.	+	.	ID=Heinz-011-2+I+NL+NG
+Contig011	Curated	CDS	9561	12200	.	+	0	ID=Heinz-011-2+I+NL+NG
+ 
+Contig011	Curated	gene	15789	18602	.	+	.	ID=Heinz-011-3+I+NL+NG
+Contig011	Curated	mRNA	15789	18602	.	+	.	ID=Heinz-011-3+I+NL+NG
+Contig011	Curated	exon	15789	18602	.	+	.	ID=Heinz-011-3+I+NL+NG
+Contig011	Curated	CDS	15789	18602	.	+	0	ID=Heinz-011-3+I+NL+NG
+ 
+Contig012	Curated	gene	3234	5894	.	+	.	ID=Heinz-012-1+I+CNL+G9
+Contig012	Curated	mRNA	3234	5894	.	+	.	ID=Heinz-012-1+I+CNL+G9
+Contig012	Curated	exon	3234	5894	.	+	.	ID=Heinz-012-1+I+CNL+G9
+Contig012	Curated	CDS	3234	5894	.	+	0	ID=Heinz-012-1+I+CNL+G9
+ 
+Contig012	Curated	gene	8395	8777	.	+	.	ID=Heinz-012-2+P+N+G9
+Contig012	Curated	mRNA	8395	8777	.	+	.	ID=Heinz-012-2+P+N+G9
+Contig012	Curated	exon	8395	8546	.	+	.	ID=Heinz-012-2+P+N+G9
+Contig012	Curated	exon	8585	8777	.	+	.	ID=Heinz-012-2+P+N+G9
+Contig012	Curated	CDS	8395	8546	.	+	0	ID=Heinz-012-2+P+N+G9
+Contig012	Curated	CDS	8585	8777	.	+	1	ID=Heinz-012-2+P+N+G9
+ 
+Contig012	Curated	gene	10165	12825	.	+	.	ID=Heinz-012-3+I+CNL+G9
+Contig012	Curated	mRNA	10165	12825	.	+	.	ID=Heinz-012-3+I+CNL+G9
+Contig012	Curated	exon	10165	12825	.	+	.	ID=Heinz-012-3+I+CNL+G9
+Contig012	Curated	CDS	10165	12825	.	+	0	ID=Heinz-012-3+I+CNL+G9
+ 
+Contig012	Curated	gene	13930	18485	.	-	.	ID=Heinz-012-4+I+CNL+G8
+Contig012	Curated	mRNA	13930	18485	.	-	.	ID=Heinz-012-4+I+CNL+G8
+Contig012	Curated	exon	13930	16101	.	-	.	ID=Heinz-012-4+I+CNL+G8
+Contig012	Curated	exon	18048	18485	.	-	.	ID=Heinz-012-4+I+CNL+G8
+Contig012	Curated	CDS	13930	16101	.	-	0	ID=Heinz-012-4+I+CNL+G8
+Contig012	Curated	CDS	18048	18485	.	-	0	ID=Heinz-012-4+I+CNL+G8
+ 
+Contig013	Curated	gene	3078	4904	.	-	.	ID=Heinz-013-1+P+NL+G6
+Contig013	Curated	mRNA	3078	4904	.	-	.	ID=Heinz-013-1+P+NL+G6
+Contig013	Curated	exon	3078	4904	.	-	.	ID=Heinz-013-1+P+NL+G6
+Contig013	Curated	CDS	3078	4904	.	-	0	ID=Heinz-013-1+P+NL+G6
+ 
+Contig014	Curated	gene	3479	6124	.	+	.	ID=Heinz-014-1+I+CNL+G9
+Contig014	Curated	mRNA	3479	6124	.	+	.	ID=Heinz-014-1+I+CNL+G9
+Contig014	Curated	exon	3479	6124	.	+	.	ID=Heinz-014-1+I+CNL+G9
+Contig014	Curated	CDS	3479	6124	.	+	0	ID=Heinz-014-1+I+CNL+G9
+ 
+Contig014	Curated	gene	7634	10342	.	+	.	ID=Heinz-014-2+I+CNL+G9
+Contig014	Curated	mRNA	7634	10342	.	+	.	ID=Heinz-014-2+I+CNL+G9
+Contig014	Curated	exon	7634	10342	.	+	.	ID=Heinz-014-2+I+CNL+G9
+Contig014	Curated	CDS	7634	10342	.	+	0	ID=Heinz-014-2+I+CNL+G9
+ 
+Contig014	Curated	gene	11788	12243	.	+	.	ID=Heinz-014-3+P+CN+G9
+Contig014	Curated	mRNA	11788	12243	.	+	.	ID=Heinz-014-3+P+CN+G9
+Contig014	Curated	exon	11788	12243	.	+	.	ID=Heinz-014-3+P+CN+G9
+Contig014	Curated	CDS	11788	12243	.	+	0	ID=Heinz-014-3+P+CN+G9
+ 
+Contig014	Curated	gene	13543	16169	.	+	.	ID=Heinz-014-4+I+CNL+G9
+Contig014	Curated	mRNA	13543	16169	.	+	.	ID=Heinz-014-4+I+CNL+G9
+Contig014	Curated	exon	13543	14772	.	+	.	ID=Heinz-014-4+I+CNL+G9
+Contig014	Curated	exon	14811	16169	.	+	.	ID=Heinz-014-4+I+CNL+G9
+Contig014	Curated	CDS	13543	14772	.	+	0	ID=Heinz-014-4+I+CNL+G9
+Contig014	Curated	CDS	14811	16169	.	+	0	ID=Heinz-014-4+I+CNL+G9
+ 
+Contig015	Curated	gene	10088	14508	.	+	.	ID=Heinz-015-1+I+CN+G1
+Contig015	Curated	mRNA	10088	14508	.	+	.	ID=Heinz-015-1+I+CN+G1
+Contig015	Curated	exon	10088	10120	.	+	.	ID=Heinz-015-1+I+CN+G1
+Contig015	Curated	exon	10813	12471	.	+	.	ID=Heinz-015-1+I+CN+G1
+Contig015	Curated	exon	12484	14508	.	+	.	ID=Heinz-015-1+I+CN+G1
+Contig015	Curated	CDS	10088	10120	.	+	0	ID=Heinz-015-1+I+CN+G1
+Contig015	Curated	CDS	10813	12471	.	+	0	ID=Heinz-015-1+I+CN+G1
+Contig015	Curated	CDS	12484	14508	.	+	0	ID=Heinz-015-1+I+CN+G1
+ 
+Contig015	Curated	gene	17232	17501	.	+	.	ID=Heinz-015-2+P+N+G1
+Contig015	Curated	mRNA	17232	17501	.	+	.	ID=Heinz-015-2+P+N+G1
+Contig015	Curated	exon	17232	17501	.	+	.	ID=Heinz-015-2+P+N+G1
+Contig015	Curated	CDS	17232	17501	.	+	0	ID=Heinz-015-2+P+N+G1
+ 
+Contig016	Curated	gene	2430	15255	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	mRNA	2430	15255	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	exon	12883	13156	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	exon	13201	13579	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	exon	13613	13841	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	exon	13933	14029	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	exon	14075	14701	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	exon	14974	15255	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	exon	2430	2939	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	exon	7572	8155	.	-	.	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	CDS	12883	13156	.	-	0	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	CDS	13201	13579	.	-	1	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	CDS	13613	13841	.	-	2	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	CDS	13933	14029	.	-	0	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	CDS	14075	14701	.	-	0	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	CDS	14974	15255	.	-	0	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	CDS	2430	2939	.	-	0	ID=Heinz-016-1+I+CNL+G13
+Contig016	Curated	CDS	7572	8155	.	-	2	ID=Heinz-016-1+I+CNL+G13
+ 
+Contig017	Curated	gene	3956	6733	.	+	.	ID=Heinz-017-1+I+CNL+G14
+Contig017	Curated	mRNA	3956	6733	.	+	.	ID=Heinz-017-1+I+CNL+G14
+Contig017	Curated	exon	3956	4132	.	+	.	ID=Heinz-017-1+I+CNL+G14
+Contig017	Curated	exon	4230	6554	.	+	.	ID=Heinz-017-1+I+CNL+G14
+Contig017	Curated	exon	6689	6733	.	+	.	ID=Heinz-017-1+I+CNL+G14
+Contig017	Curated	CDS	3956	4132	.	+	0	ID=Heinz-017-1+I+CNL+G14
+Contig017	Curated	CDS	4230	6554	.	+	0	ID=Heinz-017-1+I+CNL+G14
+Contig017	Curated	CDS	6689	6733	.	+	0	ID=Heinz-017-1+I+CNL+G14
+ 
+Contig017	Curated	gene	9343	12183	.	+	.	ID=Heinz-017-2+I+CN+G14
+Contig017	Curated	mRNA	9343	12183	.	+	.	ID=Heinz-017-2+I+CN+G14
+Contig017	Curated	exon	12157	12183	.	+	.	ID=Heinz-017-2+I+CN+G14
+Contig017	Curated	exon	9343	9513	.	+	.	ID=Heinz-017-2+I+CN+G14
+Contig017	Curated	exon	9605	12049	.	+	.	ID=Heinz-017-2+I+CN+G14
+Contig017	Curated	CDS	12157	12183	.	+	0	ID=Heinz-017-2+I+CN+G14
+Contig017	Curated	CDS	9343	9513	.	+	0	ID=Heinz-017-2+I+CN+G14
+Contig017	Curated	CDS	9605	12049	.	+	0	ID=Heinz-017-2+I+CN+G14
+ 
+Contig018	Curated	gene	3865	9493	.	+	.	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	mRNA	3865	9493	.	+	.	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	exon	3865	6609	.	+	.	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	exon	6762	7265	.	+	.	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	exon	7490	7987	.	+	.	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	exon	8668	9168	.	+	.	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	exon	9356	9493	.	+	.	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	CDS	3865	6609	.	+	0	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	CDS	6762	7265	.	+	0	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	CDS	7490	7987	.	+	0	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	CDS	8668	9168	.	+	0	ID=Heinz-018-1+I+CNL+G10
+Contig018	Curated	CDS	9356	9493	.	+	0	ID=Heinz-018-1+I+CNL+G10
+ 
+Contig018	Curated	gene	10887	15187	.	+	.	ID=Heinz-018-2+I+CNL+G10
+Contig018	Curated	mRNA	10887	15187	.	+	.	ID=Heinz-018-2+I+CNL+G10
+Contig018	Curated	exon	10887	13601	.	+	.	ID=Heinz-018-2+I+CNL+G10
+Contig018	Curated	exon	13715	14215	.	+	.	ID=Heinz-018-2+I+CNL+G10
+Contig018	Curated	exon	14468	14983	.	+	.	ID=Heinz-018-2+I+CNL+G10
+Contig018	Curated	exon	15074	15187	.	+	.	ID=Heinz-018-2+I+CNL+G10
+Contig018	Curated	CDS	10887	13601	.	+	0	ID=Heinz-018-2+I+CNL+G10
+Contig018	Curated	CDS	13715	14215	.	+	0	ID=Heinz-018-2+I+CNL+G10
+Contig018	Curated	CDS	14468	14983	.	+	0	ID=Heinz-018-2+I+CNL+G10
+Contig018	Curated	CDS	15074	15187	.	+	0	ID=Heinz-018-2+I+CNL+G10
+ 
+Contig019	Curated	gene	3567	4764	.	-	.	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	mRNA	3567	4764	.	-	.	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	exon	3567	3779	.	-	.	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	exon	3835	4228	.	-	.	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	exon	4324	4445	.	-	.	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	exon	4479	4666	.	-	.	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	exon	4689	4764	.	-	.	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	CDS	3567	3779	.	-	0	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	CDS	3835	4228	.	-	1	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	CDS	4324	4445	.	-	0	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	CDS	4479	4666	.	-	2	ID=Heinz-019-1+I+CN+G7
+Contig019	Curated	CDS	4689	4764	.	-	0	ID=Heinz-019-1+I+CN+G7
+ 
+Contig019	Curated	gene	11082	14947	.	+	.	ID=Heinz-019-2+I+CNL+G7
+Contig019	Curated	mRNA	11082	14947	.	+	.	ID=Heinz-019-2+I+CNL+G7
+Contig019	Curated	exon	11082	11514	.	+	.	ID=Heinz-019-2+I+CNL+G7
+Contig019	Curated	exon	12258	14947	.	+	.	ID=Heinz-019-2+I+CNL+G7
+Contig019	Curated	CDS	11082	11514	.	+	0	ID=Heinz-019-2+I+CNL+G7
+Contig019	Curated	CDS	12258	14947	.	+	2	ID=Heinz-019-2+I+CNL+G7
+ 
+Contig020	Curated	gene	3444	5990	.	+	.	ID=Heinz-020-1+I+CNL+G5
+Contig020	Curated	mRNA	3444	5990	.	+	.	ID=Heinz-020-1+I+CNL+G5
+Contig020	Curated	exon	3444	3656	.	+	.	ID=Heinz-020-1+I+CNL+G5
+Contig020	Curated	exon	3690	5990	.	+	.	ID=Heinz-020-1+I+CNL+G5
+Contig020	Curated	CDS	3444	3656	.	+	0	ID=Heinz-020-1+I+CNL+G5
+Contig020	Curated	CDS	3690	5990	.	+	0	ID=Heinz-020-1+I+CNL+G5
+ 
+Contig020	Curated	gene	15509	18462	.	+	.	ID=Heinz-020-2+I+CNL+G5
+Contig020	Curated	mRNA	15509	18462	.	+	.	ID=Heinz-020-2+I+CNL+G5
+Contig020	Curated	exon	15509	15890	.	+	.	ID=Heinz-020-2+I+CNL+G5
+Contig020	Curated	exon	16343	18462	.	+	.	ID=Heinz-020-2+I+CNL+G5
+Contig020	Curated	CDS	15509	15890	.	+	0	ID=Heinz-020-2+I+CNL+G5
+Contig020	Curated	CDS	16343	18462	.	+	2	ID=Heinz-020-2+I+CNL+G5
+ 
+Contig021	Curated	gene	3645	5936	.	+	.	ID=Heinz-021-1+I+NL+G6
+Contig021	Curated	mRNA	3645	5936	.	+	.	ID=Heinz-021-1+I+NL+G6
+Contig021	Curated	exon	3645	5936	.	+	.	ID=Heinz-021-1+I+NL+G6
+Contig021	Curated	CDS	3645	5936	.	+	0	ID=Heinz-021-1+I+NL+G6
+ 
+Contig021	Curated	gene	17919	20207	.	+	.	ID=Heinz-021-2+I+NL+G6
+Contig021	Curated	mRNA	17919	20207	.	+	.	ID=Heinz-021-2+I+NL+G6
+Contig021	Curated	exon	17919	20207	.	+	.	ID=Heinz-021-2+I+NL+G6
+Contig021	Curated	CDS	17919	20207	.	+	0	ID=Heinz-021-2+I+NL+G6
+ 
+Contig022	Curated	gene	5320	9868	.	+	.	ID=Heinz-022-1+I+TN+GT
+Contig022	Curated	mRNA	5320	9868	.	+	.	ID=Heinz-022-1+I+TN+GT
+Contig022	Curated	exon	5320	5822	.	+	.	ID=Heinz-022-1+I+TN+GT
+Contig022	Curated	exon	8459	9563	.	+	.	ID=Heinz-022-1+I+TN+GT
+Contig022	Curated	exon	9596	9868	.	+	.	ID=Heinz-022-1+I+TN+GT
+Contig022	Curated	CDS	5320	5822	.	+	0	ID=Heinz-022-1+I+TN+GT
+Contig022	Curated	CDS	8459	9563	.	+	1	ID=Heinz-022-1+I+TN+GT
+Contig022	Curated	CDS	9596	9868	.	+	0	ID=Heinz-022-1+I+TN+GT
+ 
+Contig022	Curated	gene	12219	16401	.	+	.	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	mRNA	12219	16401	.	+	.	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	exon	12219	12703	.	+	.	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	exon	12795	13899	.	+	.	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	exon	13977	14387	.	+	.	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	exon	14477	15403	.	+	.	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	exon	15494	16178	.	+	.	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	exon	16295	16401	.	+	.	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	CDS	12219	12703	.	+	0	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	CDS	12795	13899	.	+	1	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	CDS	13977	14387	.	+	0	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	CDS	14477	15403	.	+	0	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	CDS	15494	16178	.	+	0	ID=Heinz-022-2+I+TNL+GT
+Contig022	Curated	CDS	16295	16401	.	+	2	ID=Heinz-022-2+I+TNL+GT
+ 
+Contig023	Curated	gene	3280	11183	.	-	.	ID=Heinz-023-1+I+CNL+G3
+Contig023	Curated	mRNA	3280	11183	.	-	.	ID=Heinz-023-1+I+CNL+G3
+Contig023	Curated	exon	3280	4395	.	-	.	ID=Heinz-023-1+I+CNL+G3
+Contig023	Curated	exon	4620	11183	.	-	.	ID=Heinz-023-1+I+CNL+G3
+Contig023	Curated	CDS	3280	4395	.	-	0	ID=Heinz-023-1+I+CNL+G3
+Contig023	Curated	CDS	4620	11183	.	-	0	ID=Heinz-023-1+I+CNL+G3
+ 
+Contig024	Curated	gene	3050	6340	.	+	.	ID=Heinz-024-1+I+CNL+G7
+Contig024	Curated	mRNA	3050	6340	.	+	.	ID=Heinz-024-1+I+CNL+G7
+Contig024	Curated	exon	3050	3460	.	+	.	ID=Heinz-024-1+I+CNL+G7
+Contig024	Curated	exon	3715	4503	.	+	.	ID=Heinz-024-1+I+CNL+G7
+Contig024	Curated	exon	4519	5031	.	+	.	ID=Heinz-024-1+I+CNL+G7
+Contig024	Curated	exon	5084	6340	.	+	.	ID=Heinz-024-1+I+CNL+G7
+Contig024	Curated	CDS	3050	3460	.	+	0	ID=Heinz-024-1+I+CNL+G7
+Contig024	Curated	CDS	3715	4503	.	+	0	ID=Heinz-024-1+I+CNL+G7
+Contig024	Curated	CDS	4519	5031	.	+	0	ID=Heinz-024-1+I+CNL+G7
+Contig024	Curated	CDS	5084	6340	.	+	0	ID=Heinz-024-1+I+CNL+G7
+ 
+Contig024	Curated	gene	13879	17118	.	+	.	ID=Heinz-024-2+I+CNL+G7
+Contig024	Curated	mRNA	13879	17118	.	+	.	ID=Heinz-024-2+I+CNL+G7
+Contig024	Curated	exon	13879	14305	.	+	.	ID=Heinz-024-2+I+CNL+G7
+Contig024	Curated	exon	14686	16751	.	+	.	ID=Heinz-024-2+I+CNL+G7
+Contig024	Curated	exon	16831	17118	.	+	.	ID=Heinz-024-2+I+CNL+G7
+Contig024	Curated	CDS	13879	14305	.	+	0	ID=Heinz-024-2+I+CNL+G7
+Contig024	Curated	CDS	14686	16751	.	+	2	ID=Heinz-024-2+I+CNL+G7
+Contig024	Curated	CDS	16831	17118	.	+	0	ID=Heinz-024-2+I+CNL+G7
+ 
+Contig025	Curated	gene	1523	5281	.	+	.	ID=Heinz-025-1+I+CNL+G1
+Contig025	Curated	mRNA	1523	5281	.	+	.	ID=Heinz-025-1+I+CNL+G1
+Contig025	Curated	exon	1523	5281	.	+	.	ID=Heinz-025-1+I+CNL+G1
+Contig025	Curated	CDS	1523	5281	.	+	0	ID=Heinz-025-1+I+CNL+G1
+ 
+Contig025	Curated	gene	7824	11573	.	+	.	ID=Heinz-025-2+I+CNL+G1
+Contig025	Curated	mRNA	7824	11573	.	+	.	ID=Heinz-025-2+I+CNL+G1
+Contig025	Curated	exon	7824	11573	.	+	.	ID=Heinz-025-2+I+CNL+G1
+Contig025	Curated	CDS	7824	11573	.	+	0	ID=Heinz-025-2+I+CNL+G1
+ 
+Contig026	Curated	gene	3999	7900	.	+	.	ID=Heinz-026-1+I+TNL+GT
+Contig026	Curated	mRNA	3999	7900	.	+	.	ID=Heinz-026-1+I+TNL+GT
+Contig026	Curated	exon	3999	4507	.	+	.	ID=Heinz-026-1+I+TNL+GT
+Contig026	Curated	exon	4701	5802	.	+	.	ID=Heinz-026-1+I+TNL+GT
+Contig026	Curated	exon	5882	6328	.	+	.	ID=Heinz-026-1+I+TNL+GT
+Contig026	Curated	exon	6434	7900	.	+	.	ID=Heinz-026-1+I+TNL+GT
+Contig026	Curated	CDS	3999	4507	.	+	0	ID=Heinz-026-1+I+TNL+GT
+Contig026	Curated	CDS	4701	5802	.	+	1	ID=Heinz-026-1+I+TNL+GT
+Contig026	Curated	CDS	5882	6328	.	+	0	ID=Heinz-026-1+I+TNL+GT
+Contig026	Curated	CDS	6434	7900	.	+	0	ID=Heinz-026-1+I+TNL+GT
+ 
+Contig026	Curated	gene	9639	13960	.	+	.	ID=Heinz-026-2+I+TNL+GT
+Contig026	Curated	mRNA	9639	13960	.	+	.	ID=Heinz-026-2+I+TNL+GT
+Contig026	Curated	exon	10685	11780	.	+	.	ID=Heinz-026-2+I+TNL+GT
+Contig026	Curated	exon	11852	12247	.	+	.	ID=Heinz-026-2+I+TNL+GT
+Contig026	Curated	exon	12353	13960	.	+	.	ID=Heinz-026-2+I+TNL+GT
+Contig026	Curated	exon	9639	10165	.	+	.	ID=Heinz-026-2+I+TNL+GT
+Contig026	Curated	CDS	10685	11780	.	+	1	ID=Heinz-026-2+I+TNL+GT
+Contig026	Curated	CDS	11852	12247	.	+	0	ID=Heinz-026-2+I+TNL+GT
+Contig026	Curated	CDS	12353	13960	.	+	0	ID=Heinz-026-2+I+TNL+GT
+Contig026	Curated	CDS	9639	10165	.	+	0	ID=Heinz-026-2+I+TNL+GT
+ 
+Contig027	Curated	gene	5773	9221	.	+	.	ID=Heinz-027-1+I+CNL+G10
+Contig027	Curated	mRNA	5773	9221	.	+	.	ID=Heinz-027-1+I+CNL+G10
+Contig027	Curated	exon	5773	7809	.	+	.	ID=Heinz-027-1+I+CNL+G10
+Contig027	Curated	exon	7943	8326	.	+	.	ID=Heinz-027-1+I+CNL+G10
+Contig027	Curated	exon	8514	9008	.	+	.	ID=Heinz-027-1+I+CNL+G10
+Contig027	Curated	exon	9168	9221	.	+	.	ID=Heinz-027-1+I+CNL+G10
+Contig027	Curated	CDS	5773	7809	.	+	0	ID=Heinz-027-1+I+CNL+G10
+Contig027	Curated	CDS	7943	8326	.	+	0	ID=Heinz-027-1+I+CNL+G10
+Contig027	Curated	CDS	8514	9008	.	+	0	ID=Heinz-027-1+I+CNL+G10
+Contig027	Curated	CDS	9168	9221	.	+	0	ID=Heinz-027-1+I+CNL+G10
+ 
+Contig028	Curated	gene	8682	12380	.	+	.	ID=Heinz-028-1+I+CNL+G13
+Contig028	Curated	mRNA	8682	12380	.	+	.	ID=Heinz-028-1+I+CNL+G13
+Contig028	Curated	exon	8682	12380	.	+	.	ID=Heinz-028-1+I+CNL+G13
+Contig028	Curated	CDS	8682	12380	.	+	0	ID=Heinz-028-1+I+CNL+G13
+ 
+Contig029	Curated	gene	3263	5860	.	-	.	ID=Heinz-029-1+I+CNL+NG
+Contig029	Curated	mRNA	3263	5860	.	-	.	ID=Heinz-029-1+I+CNL+NG
+Contig029	Curated	exon	3263	4424	.	-	.	ID=Heinz-029-1+I+CNL+NG
+Contig029	Curated	exon	4446	5311	.	-	.	ID=Heinz-029-1+I+CNL+NG
+Contig029	Curated	exon	5341	5764	.	-	.	ID=Heinz-029-1+I+CNL+NG
+Contig029	Curated	exon	5799	5860	.	-	.	ID=Heinz-029-1+I+CNL+NG
+Contig029	Curated	CDS	3263	4424	.	-	1	ID=Heinz-029-1+I+CNL+NG
+Contig029	Curated	CDS	4446	5311	.	-	0	ID=Heinz-029-1+I+CNL+NG
+Contig029	Curated	CDS	5341	5764	.	-	1	ID=Heinz-029-1+I+CNL+NG
+Contig029	Curated	CDS	5799	5860	.	-	0	ID=Heinz-029-1+I+CNL+NG
+ 
+Contig029	Curated	gene	7710	10519	.	-	.	ID=Heinz-029-2+I+CNL+NG
+Contig029	Curated	mRNA	7710	10519	.	-	.	ID=Heinz-029-2+I+CNL+NG
+Contig029	Curated	exon	10195	10366	.	-	.	ID=Heinz-029-2+I+CNL+NG
+Contig029	Curated	exon	10406	10519	.	-	.	ID=Heinz-029-2+I+CNL+NG
+Contig029	Curated	exon	7710	9264	.	-	.	ID=Heinz-029-2+I+CNL+NG
+Contig029	Curated	exon	9278	10190	.	-	.	ID=Heinz-029-2+I+CNL+NG
+Contig029	Curated	CDS	10195	10366	.	-	0	ID=Heinz-029-2+I+CNL+NG
+Contig029	Curated	CDS	10406	10519	.	-	0	ID=Heinz-029-2+I+CNL+NG
+Contig029	Curated	CDS	7710	9264	.	-	1	ID=Heinz-029-2+I+CNL+NG
+Contig029	Curated	CDS	9278	10190	.	-	2	ID=Heinz-029-2+I+CNL+NG
+ 
+Contig030	Curated	gene	2716	5325	.	+	.	ID=Heinz-030-1+I+NL+G2
+Contig030	Curated	mRNA	2716	5325	.	+	.	ID=Heinz-030-1+I+NL+G2
+Contig030	Curated	exon	2716	5325	.	+	.	ID=Heinz-030-1+I+NL+G2
+Contig030	Curated	CDS	2716	5325	.	+	0	ID=Heinz-030-1+I+NL+G2
+ 
+Contig030	Curated	gene	16578	21342	.	+	.	ID=Heinz-030-2+I+CNL+G8
+Contig030	Curated	mRNA	16578	21342	.	+	.	ID=Heinz-030-2+I+CNL+G8
+Contig030	Curated	exon	16578	17054	.	+	.	ID=Heinz-030-2+I+CNL+G8
+Contig030	Curated	exon	18829	21062	.	+	.	ID=Heinz-030-2+I+CNL+G8
+Contig030	Curated	exon	21231	21342	.	+	.	ID=Heinz-030-2+I+CNL+G8
+Contig030	Curated	CDS	16578	17054	.	+	0	ID=Heinz-030-2+I+CNL+G8
+Contig030	Curated	CDS	18829	21062	.	+	0	ID=Heinz-030-2+I+CNL+G8
+Contig030	Curated	CDS	21231	21342	.	+	1	ID=Heinz-030-2+I+CNL+G8
+ 
+Contig031	Curated	gene	7922	11887	.	+	.	ID=Heinz-031-1+I+CNL+G4
+Contig031	Curated	mRNA	7922	11887	.	+	.	ID=Heinz-031-1+I+CNL+G4
+Contig031	Curated	exon	7922	11887	.	+	.	ID=Heinz-031-1+I+CNL+G4
+Contig031	Curated	CDS	7922	11887	.	+	0	ID=Heinz-031-1+I+CNL+G4
+ 
+Contig032	Curated	gene	3731	5776	.	+	.	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	mRNA	3731	5776	.	+	.	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	exon	3731	3842	.	+	.	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	exon	3954	4249	.	+	.	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	exon	4846	5024	.	+	.	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	exon	5094	5145	.	+	.	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	exon	5270	5455	.	+	.	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	exon	5537	5776	.	+	.	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	CDS	3731	3842	.	+	0	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	CDS	3954	4249	.	+	2	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	CDS	4846	5024	.	+	0	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	CDS	5094	5145	.	+	1	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	CDS	5270	5455	.	+	0	ID=Heinz-032-1+P+NL+G13
+Contig032	Curated	CDS	5537	5776	.	+	0	ID=Heinz-032-1+P+NL+G13
+ 
+Contig033	Curated	gene	4949	5218	.	-	.	ID=Heinz-033-1+P+N+NA
+Contig033	Curated	mRNA	4949	5218	.	-	.	ID=Heinz-033-1+P+N+NA
+Contig033	Curated	exon	4949	5218	.	-	.	ID=Heinz-033-1+P+N+NA
+Contig033	Curated	CDS	4949	5218	.	-	0	ID=Heinz-033-1+P+N+NA
+ 
+Contig033	Curated	gene	11432	14224	.	-	.	ID=Heinz-033-2+I+CNL+G12
+Contig033	Curated	mRNA	11432	14224	.	-	.	ID=Heinz-033-2+I+CNL+G12
+Contig033	Curated	exon	11432	14224	.	-	.	ID=Heinz-033-2+I+CNL+G12
+Contig033	Curated	CDS	11432	14224	.	-	0	ID=Heinz-033-2+I+CNL+G12
+ 
+Contig034	Curated	gene	7218	11232	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	mRNA	7218	11232	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	exon	10766	11232	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	exon	7218	7396	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	exon	7467	7662	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	exon	7697	8131	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	exon	8317	8685	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	exon	8785	8863	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	exon	8868	9143	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	exon	9988	10641	.	-	.	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	CDS	10766	11232	.	-	0	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	CDS	7218	7396	.	-	2	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	CDS	7467	7662	.	-	0	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	CDS	7697	8131	.	-	0	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	CDS	8317	8685	.	-	0	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	CDS	8785	8863	.	-	1	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	CDS	8868	9143	.	-	1	ID=Heinz-034-1+P+TNL+GT
+Contig034	Curated	CDS	9988	10641	.	-	1	ID=Heinz-034-1+P+TNL+GT
+ 
+Contig035	Curated	gene	18108	20766	.	-	.	ID=Heinz-035-1+I+CNL+NG
+Contig035	Curated	mRNA	18108	20766	.	-	.	ID=Heinz-035-1+I+CNL+NG
+Contig035	Curated	exon	18108	19778	.	-	.	ID=Heinz-035-1+I+CNL+NG
+Contig035	Curated	exon	19960	20094	.	-	.	ID=Heinz-035-1+I+CNL+NG
+Contig035	Curated	exon	20125	20481	.	-	.	ID=Heinz-035-1+I+CNL+NG
+Contig035	Curated	exon	20575	20766	.	-	.	ID=Heinz-035-1+I+CNL+NG
+Contig035	Curated	CDS	18108	19778	.	-	0	ID=Heinz-035-1+I+CNL+NG
+Contig035	Curated	CDS	19960	20094	.	-	0	ID=Heinz-035-1+I+CNL+NG
+Contig035	Curated	CDS	20125	20481	.	-	0	ID=Heinz-035-1+I+CNL+NG
+Contig035	Curated	CDS	20575	20766	.	-	0	ID=Heinz-035-1+I+CNL+NG
+ 
+Contig036	Curated	gene	8658	8852	.	-	.	ID=Heinz-036-1+P+N+G13
+Contig036	Curated	mRNA	8658	8852	.	-	.	ID=Heinz-036-1+P+N+G13
+Contig036	Curated	exon	8658	8852	.	-	.	ID=Heinz-036-1+P+N+G13
+Contig036	Curated	CDS	8658	8852	.	-	0	ID=Heinz-036-1+P+N+G13
+ 
+Contig036	Curated	gene	12724	15134	.	-	.	ID=Heinz-036-2+P+CN+G13
+Contig036	Curated	mRNA	12724	15134	.	-	.	ID=Heinz-036-2+P+CN+G13
+Contig036	Curated	exon	12724	12933	.	-	.	ID=Heinz-036-2+P+CN+G13
+Contig036	Curated	exon	13461	14003	.	-	.	ID=Heinz-036-2+P+CN+G13
+Contig036	Curated	exon	15075	15134	.	-	.	ID=Heinz-036-2+P+CN+G13
+Contig036	Curated	CDS	12724	12933	.	-	0	ID=Heinz-036-2+P+CN+G13
+Contig036	Curated	CDS	13461	14003	.	-	0	ID=Heinz-036-2+P+CN+G13
+Contig036	Curated	CDS	15075	15134	.	-	0	ID=Heinz-036-2+P+CN+G13
+ 
+Contig037	Curated	gene	6665	10495	.	-	.	ID=Heinz-037-1+I+CNL+G1
+Contig037	Curated	mRNA	6665	10495	.	-	.	ID=Heinz-037-1+I+CNL+G1
+Contig037	Curated	exon	10454	10495	.	-	.	ID=Heinz-037-1+I+CNL+G1
+Contig037	Curated	exon	6665	10378	.	-	.	ID=Heinz-037-1+I+CNL+G1
+Contig037	Curated	CDS	10454	10495	.	-	0	ID=Heinz-037-1+I+CNL+G1
+Contig037	Curated	CDS	6665	10378	.	-	0	ID=Heinz-037-1+I+CNL+G1
+ 
+Contig038	Curated	gene	789	4619	.	+	.	ID=Heinz-038-1+I+CNL+G1
+Contig038	Curated	mRNA	789	4619	.	+	.	ID=Heinz-038-1+I+CNL+G1
+Contig038	Curated	exon	789	830	.	+	.	ID=Heinz-038-1+I+CNL+G1
+Contig038	Curated	exon	906	4619	.	+	.	ID=Heinz-038-1+I+CNL+G1
+Contig038	Curated	CDS	789	830	.	+	0	ID=Heinz-038-1+I+CNL+G1
+Contig038	Curated	CDS	906	4619	.	+	0	ID=Heinz-038-1+I+CNL+G1
+ 
+Contig038	Curated	gene	10504	13490	.	+	.	ID=Heinz-038-2+I+CNL+G1
+Contig038	Curated	mRNA	10504	13490	.	+	.	ID=Heinz-038-2+I+CNL+G1
+Contig038	Curated	exon	10504	10635	.	+	.	ID=Heinz-038-2+I+CNL+G1
+Contig038	Curated	exon	10688	10879	.	+	.	ID=Heinz-038-2+I+CNL+G1
+Contig038	Curated	exon	11392	11842	.	+	.	ID=Heinz-038-2+I+CNL+G1
+Contig038	Curated	exon	11893	13490	.	+	.	ID=Heinz-038-2+I+CNL+G1
+Contig038	Curated	CDS	10504	10635	.	+	0	ID=Heinz-038-2+I+CNL+G1
+Contig038	Curated	CDS	10688	10879	.	+	0	ID=Heinz-038-2+I+CNL+G1
+Contig038	Curated	CDS	11392	11842	.	+	0	ID=Heinz-038-2+I+CNL+G1
+Contig038	Curated	CDS	11893	13490	.	+	2	ID=Heinz-038-2+I+CNL+G1
+ 
+Contig039	Curated	gene	17462	18324	.	+	.	ID=Heinz-039-1+P+CN+G10
+Contig039	Curated	mRNA	17462	18324	.	+	.	ID=Heinz-039-1+P+CN+G10
+Contig039	Curated	exon	17462	17885	.	+	.	ID=Heinz-039-1+P+CN+G10
+Contig039	Curated	exon	17894	18324	.	+	.	ID=Heinz-039-1+P+CN+G10
+Contig039	Curated	CDS	17462	17885	.	+	0	ID=Heinz-039-1+P+CN+G10
+Contig039	Curated	CDS	17894	18324	.	+	2	ID=Heinz-039-1+P+CN+G10
+ 
+Contig040	Curated	gene	7373	7537	.	-	.	ID=Heinz-040-1+P+N+G6
+Contig040	Curated	mRNA	7373	7537	.	-	.	ID=Heinz-040-1+P+N+G6
+Contig040	Curated	exon	7373	7537	.	-	.	ID=Heinz-040-1+P+N+G6
+Contig040	Curated	CDS	7373	7537	.	-	0	ID=Heinz-040-1+P+N+G6
+ 
+Contig041	Curated	gene	3031	5583	.	+	.	ID=Heinz-041-1+I+CN+G11
+Contig041	Curated	mRNA	3031	5583	.	+	.	ID=Heinz-041-1+I+CN+G11
+Contig041	Curated	exon	3031	5583	.	+	.	ID=Heinz-041-1+I+CN+G11
+Contig041	Curated	CDS	3031	5583	.	+	0	ID=Heinz-041-1+I+CN+G11
+ 
+Contig041	Curated	gene	13917	16484	.	+	.	ID=Heinz-041-2+I+CN+G11
+Contig041	Curated	mRNA	13917	16484	.	+	.	ID=Heinz-041-2+I+CN+G11
+Contig041	Curated	exon	13917	16484	.	+	.	ID=Heinz-041-2+I+CN+G11
+Contig041	Curated	CDS	13917	16484	.	+	0	ID=Heinz-041-2+I+CN+G11
+ 
+Contig042	Curated	gene	6185	9906	.	-	.	ID=Heinz-042-1+I+CNL+G4
+Contig042	Curated	mRNA	6185	9906	.	-	.	ID=Heinz-042-1+I+CNL+G4
+Contig042	Curated	exon	6185	8434	.	-	.	ID=Heinz-042-1+I+CNL+G4
+Contig042	Curated	exon	8547	9155	.	-	.	ID=Heinz-042-1+I+CNL+G4
+Contig042	Curated	exon	9184	9906	.	-	.	ID=Heinz-042-1+I+CNL+G4
+Contig042	Curated	CDS	6185	8434	.	-	0	ID=Heinz-042-1+I+CNL+G4
+Contig042	Curated	CDS	8547	9155	.	-	0	ID=Heinz-042-1+I+CNL+G4
+Contig042	Curated	CDS	9184	9906	.	-	0	ID=Heinz-042-1+I+CNL+G4
+ 
+Contig042	Curated	gene	11828	12357	.	-	.	ID=Heinz-042-2+P+N+G4
+Contig042	Curated	mRNA	11828	12357	.	-	.	ID=Heinz-042-2+P+N+G4
+Contig042	Curated	exon	11828	12253	.	-	.	ID=Heinz-042-2+P+N+G4
+Contig042	Curated	exon	12328	12357	.	-	.	ID=Heinz-042-2+P+N+G4
+Contig042	Curated	CDS	11828	12253	.	-	0	ID=Heinz-042-2+P+N+G4
+Contig042	Curated	CDS	12328	12357	.	-	0	ID=Heinz-042-2+P+N+G4
+ 
+Contig043	Curated	gene	5234	7892	.	+	.	ID=Heinz-043-1+I+CNL+G14
+Contig043	Curated	mRNA	5234	7892	.	+	.	ID=Heinz-043-1+I+CNL+G14
+Contig043	Curated	exon	5234	5410	.	+	.	ID=Heinz-043-1+I+CNL+G14
+Contig043	Curated	exon	5499	7892	.	+	.	ID=Heinz-043-1+I+CNL+G14
+Contig043	Curated	CDS	5234	5410	.	+	0	ID=Heinz-043-1+I+CNL+G14
+Contig043	Curated	CDS	5499	7892	.	+	0	ID=Heinz-043-1+I+CNL+G14
+ 
+Contig043	Curated	gene	10186	12978	.	+	.	ID=Heinz-043-2+I+CN+G14
+Contig043	Curated	mRNA	10186	12978	.	+	.	ID=Heinz-043-2+I+CN+G14
+Contig043	Curated	exon	10186	10362	.	+	.	ID=Heinz-043-2+I+CN+G14
+Contig043	Curated	exon	10447	12978	.	+	.	ID=Heinz-043-2+I+CN+G14
+Contig043	Curated	CDS	10186	10362	.	+	0	ID=Heinz-043-2+I+CN+G14
+Contig043	Curated	CDS	10447	12978	.	+	0	ID=Heinz-043-2+I+CN+G14
+ 
+Contig044	Curated	gene	4536	7463	.	-	.	ID=Heinz-044-1+I+CNL+G10
+Contig044	Curated	mRNA	4536	7463	.	-	.	ID=Heinz-044-1+I+CNL+G10
+Contig044	Curated	exon	4536	7463	.	-	.	ID=Heinz-044-1+I+CNL+G10
+Contig044	Curated	CDS	4536	7463	.	-	0	ID=Heinz-044-1+I+CNL+G10
+ 
+Contig045	Curated	gene	12910	13647	.	+	.	ID=Heinz-045-1+P+CN+NG
+Contig045	Curated	mRNA	12910	13647	.	+	.	ID=Heinz-045-1+P+CN+NG
+Contig045	Curated	exon	12910	13647	.	+	.	ID=Heinz-045-1+P+CN+NG
+Contig045	Curated	CDS	12910	13647	.	+	0	ID=Heinz-045-1+P+CN+NG
+ 
+Contig046	Curated	gene	5864	11487	.	-	.	ID=Heinz-046-1+I+CNL+G10
+Contig046	Curated	mRNA	5864	11487	.	-	.	ID=Heinz-046-1+I+CNL+G10
+Contig046	Curated	exon	10957	11487	.	-	.	ID=Heinz-046-1+I+CNL+G10
+Contig046	Curated	exon	5864	8239	.	-	.	ID=Heinz-046-1+I+CNL+G10
+Contig046	Curated	CDS	10957	11487	.	-	0	ID=Heinz-046-1+I+CNL+G10
+Contig046	Curated	CDS	5864	8239	.	-	0	ID=Heinz-046-1+I+CNL+G10
+ 
+Contig047	Curated	gene	1973	7555	.	-	.	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	mRNA	1973	7555	.	-	.	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	exon	1973	2953	.	-	.	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	exon	3032	4180	.	-	.	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	exon	4598	4894	.	-	.	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	exon	5039	6146	.	-	.	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	exon	7074	7555	.	-	.	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	CDS	1973	2953	.	-	0	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	CDS	3032	4180	.	-	0	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	CDS	4598	4894	.	-	0	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	CDS	5039	6146	.	-	1	ID=Heinz-047-1+I+TNL+GT
+Contig047	Curated	CDS	7074	7555	.	-	0	ID=Heinz-047-1+I+TNL+GT
+ 
+Contig048	Curated	gene	3546	5651	.	+	.	ID=Heinz-048-1+I+NL+G6
+Contig048	Curated	mRNA	3546	5651	.	+	.	ID=Heinz-048-1+I+NL+G6
+Contig048	Curated	exon	3546	5651	.	+	.	ID=Heinz-048-1+I+NL+G6
+Contig048	Curated	CDS	3546	5651	.	+	0	ID=Heinz-048-1+I+NL+G6
+ 
+Contig048	Curated	gene	7336	9463	.	+	.	ID=Heinz-048-2+I+NL+G6
+Contig048	Curated	mRNA	7336	9463	.	+	.	ID=Heinz-048-2+I+NL+G6
+Contig048	Curated	exon	7336	7647	.	+	.	ID=Heinz-048-2+I+NL+G6
+Contig048	Curated	exon	7700	9463	.	+	.	ID=Heinz-048-2+I+NL+G6
+Contig048	Curated	CDS	7336	7647	.	+	0	ID=Heinz-048-2+I+NL+G6
+Contig048	Curated	CDS	7700	9463	.	+	0	ID=Heinz-048-2+I+NL+G6
+ 
+Contig048	Curated	gene	11478	13721	.	+	.	ID=Heinz-048-3+I+NL+G6
+Contig048	Curated	mRNA	11478	13721	.	+	.	ID=Heinz-048-3+I+NL+G6
+Contig048	Curated	exon	11478	13721	.	+	.	ID=Heinz-048-3+I+NL+G6
+Contig048	Curated	CDS	11478	13721	.	+	0	ID=Heinz-048-3+I+NL+G6
+ 
+Contig049	Curated	gene	3559	8206	.	-	.	ID=Heinz-049-1+I+CNL+G8
+Contig049	Curated	mRNA	3559	8206	.	-	.	ID=Heinz-049-1+I+CNL+G8
+Contig049	Curated	exon	3559	5922	.	-	.	ID=Heinz-049-1+I+CNL+G8
+Contig049	Curated	exon	7787	8206	.	-	.	ID=Heinz-049-1+I+CNL+G8
+Contig049	Curated	CDS	3559	5922	.	-	0	ID=Heinz-049-1+I+CNL+G8
+Contig049	Curated	CDS	7787	8206	.	-	0	ID=Heinz-049-1+I+CNL+G8
+ 
+Contig050	Curated	gene	3765	8629	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	mRNA	3765	8629	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	exon	3765	3874	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	exon	4016	4496	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	exon	4675	5192	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	exon	5345	5873	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	exon	6269	6938	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	exon	6997	7206	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	exon	7263	7640	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	exon	7648	8036	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	exon	8057	8629	.	-	.	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	CDS	3765	3874	.	-	2	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	CDS	4016	4496	.	-	0	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	CDS	4675	5192	.	-	2	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	CDS	5345	5873	.	-	0	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	CDS	6269	6938	.	-	1	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	CDS	6997	7206	.	-	1	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	CDS	7263	7640	.	-	1	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	CDS	7648	8036	.	-	0	ID=Heinz-050-1+I+CN+G10
+Contig050	Curated	CDS	8057	8629	.	-	0	ID=Heinz-050-1+I+CN+G10
+ 
+Contig051	Curated	gene	3815	7148	.	+	.	ID=Heinz-051-1+I+CNL+NG
+Contig051	Curated	mRNA	3815	7148	.	+	.	ID=Heinz-051-1+I+CNL+NG
+Contig051	Curated	exon	3815	4308	.	+	.	ID=Heinz-051-1+I+CNL+NG
+Contig051	Curated	exon	4379	7148	.	+	.	ID=Heinz-051-1+I+CNL+NG
+Contig051	Curated	CDS	3815	4308	.	+	0	ID=Heinz-051-1+I+CNL+NG
+Contig051	Curated	CDS	4379	7148	.	+	1	ID=Heinz-051-1+I+CNL+NG
+ 
+Contig052	Curated	gene	9122	10659	.	-	.	ID=Heinz-052-1+I+NL+G10
+Contig052	Curated	mRNA	9122	10659	.	-	.	ID=Heinz-052-1+I+NL+G10
+Contig052	Curated	exon	9122	9233	.	-	.	ID=Heinz-052-1+I+NL+G10
+Contig052	Curated	exon	9271	9473	.	-	.	ID=Heinz-052-1+I+NL+G10
+Contig052	Curated	exon	9509	9710	.	-	.	ID=Heinz-052-1+I+NL+G10
+Contig052	Curated	exon	9815	10659	.	-	.	ID=Heinz-052-1+I+NL+G10
+Contig052	Curated	CDS	9122	9233	.	-	1	ID=Heinz-052-1+I+NL+G10
+Contig052	Curated	CDS	9271	9473	.	-	0	ID=Heinz-052-1+I+NL+G10
+Contig052	Curated	CDS	9509	9710	.	-	1	ID=Heinz-052-1+I+NL+G10
+Contig052	Curated	CDS	9815	10659	.	-	0	ID=Heinz-052-1+I+NL+G10
+ 
+Contig053	Curated	gene	6548	11553	.	-	.	ID=Heinz-053-1+I+TNL+GT
+Contig053	Curated	mRNA	6548	11553	.	-	.	ID=Heinz-053-1+I+TNL+GT
+Contig053	Curated	exon	11042	11553	.	-	.	ID=Heinz-053-1+I+TNL+GT
+Contig053	Curated	exon	6548	8188	.	-	.	ID=Heinz-053-1+I+TNL+GT
+Contig053	Curated	exon	8989	9261	.	-	.	ID=Heinz-053-1+I+TNL+GT
+Contig053	Curated	exon	9651	10740	.	-	.	ID=Heinz-053-1+I+TNL+GT
+Contig053	Curated	CDS	11042	11553	.	-	0	ID=Heinz-053-1+I+TNL+GT
+Contig053	Curated	CDS	6548	8188	.	-	0	ID=Heinz-053-1+I+TNL+GT
+Contig053	Curated	CDS	8989	9261	.	-	0	ID=Heinz-053-1+I+TNL+GT
+Contig053	Curated	CDS	9651	10740	.	-	1	ID=Heinz-053-1+I+TNL+GT
+ 
+Contig054	Curated	gene	3753	8759	.	+	.	ID=Heinz-054-1+I+CNL+G10
+Contig054	Curated	mRNA	3753	8759	.	+	.	ID=Heinz-054-1+I+CNL+G10
+Contig054	Curated	exon	3753	4283	.	+	.	ID=Heinz-054-1+I+CNL+G10
+Contig054	Curated	exon	4516	4611	.	+	.	ID=Heinz-054-1+I+CNL+G10
+Contig054	Curated	exon	6327	8759	.	+	.	ID=Heinz-054-1+I+CNL+G10
+Contig054	Curated	CDS	3753	4283	.	+	0	ID=Heinz-054-1+I+CNL+G10
+Contig054	Curated	CDS	4516	4611	.	+	0	ID=Heinz-054-1+I+CNL+G10
+Contig054	Curated	CDS	6327	8759	.	+	0	ID=Heinz-054-1+I+CNL+G10
+ 
+Contig055	Curated	gene	3783	7836	.	+	.	ID=Heinz-055-1+I+CNL+G4
+Contig055	Curated	mRNA	3783	7836	.	+	.	ID=Heinz-055-1+I+CNL+G4
+Contig055	Curated	exon	3783	3866	.	+	.	ID=Heinz-055-1+I+CNL+G4
+Contig055	Curated	exon	3894	4497	.	+	.	ID=Heinz-055-1+I+CNL+G4
+Contig055	Curated	exon	4553	7836	.	+	.	ID=Heinz-055-1+I+CNL+G4
+Contig055	Curated	CDS	3783	3866	.	+	0	ID=Heinz-055-1+I+CNL+G4
+Contig055	Curated	CDS	3894	4497	.	+	0	ID=Heinz-055-1+I+CNL+G4
+Contig055	Curated	CDS	4553	7836	.	+	2	ID=Heinz-055-1+I+CNL+G4
+ 
+Contig055	Curated	gene	11622	13264	.	+	.	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	mRNA	11622	13264	.	+	.	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	exon	11622	11891	.	+	.	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	exon	12142	12484	.	+	.	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	exon	12510	12691	.	+	.	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	exon	12768	13110	.	+	.	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	exon	13170	13264	.	+	.	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	CDS	11622	11891	.	+	0	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	CDS	12142	12484	.	+	0	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	CDS	12510	12691	.	+	2	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	CDS	12768	13110	.	+	0	ID=Heinz-055-2+P+CN+G4
+Contig055	Curated	CDS	13170	13264	.	+	2	ID=Heinz-055-2+P+CN+G4
+ 
+Contig056	Curated	gene	3535	7095	.	-	.	ID=Heinz-056-1+I+CN+G1
+Contig056	Curated	mRNA	3535	7095	.	-	.	ID=Heinz-056-1+I+CN+G1
+Contig056	Curated	exon	3535	7095	.	-	.	ID=Heinz-056-1+I+CN+G1
+Contig056	Curated	CDS	3535	7095	.	-	0	ID=Heinz-056-1+I+CN+G1
+ 
+Contig057	Curated	gene	2169	6167	.	-	.	ID=Heinz-057-1+I+TNL+GT
+Contig057	Curated	mRNA	2169	6167	.	-	.	ID=Heinz-057-1+I+TNL+GT
+Contig057	Curated	exon	2169	3653	.	-	.	ID=Heinz-057-1+I+TNL+GT
+Contig057	Curated	exon	3825	4178	.	-	.	ID=Heinz-057-1+I+TNL+GT
+Contig057	Curated	exon	4292	5381	.	-	.	ID=Heinz-057-1+I+TNL+GT
+Contig057	Curated	exon	5656	6167	.	-	.	ID=Heinz-057-1+I+TNL+GT
+Contig057	Curated	CDS	2169	3653	.	-	0	ID=Heinz-057-1+I+TNL+GT
+Contig057	Curated	CDS	3825	4178	.	-	0	ID=Heinz-057-1+I+TNL+GT
+Contig057	Curated	CDS	4292	5381	.	-	1	ID=Heinz-057-1+I+TNL+GT
+Contig057	Curated	CDS	5656	6167	.	-	0	ID=Heinz-057-1+I+TNL+GT
+ 
+Contig058	Curated	gene	4028	8085	.	-	.	ID=Heinz-058-1+I+CNL+G8
+Contig058	Curated	mRNA	4028	8085	.	-	.	ID=Heinz-058-1+I+CNL+G8
+Contig058	Curated	exon	4028	6250	.	-	.	ID=Heinz-058-1+I+CNL+G8
+Contig058	Curated	exon	7510	8085	.	-	.	ID=Heinz-058-1+I+CNL+G8
+Contig058	Curated	CDS	4028	6250	.	-	0	ID=Heinz-058-1+I+CNL+G8
+Contig058	Curated	CDS	7510	8085	.	-	0	ID=Heinz-058-1+I+CNL+G8
+ 
+Contig059	Curated	gene	2642	5379	.	+	.	ID=Heinz-059-1+I+CN+G14
+Contig059	Curated	mRNA	2642	5379	.	+	.	ID=Heinz-059-1+I+CN+G14
+Contig059	Curated	exon	2642	2815	.	+	.	ID=Heinz-059-1+I+CN+G14
+Contig059	Curated	exon	2912	3607	.	+	.	ID=Heinz-059-1+I+CN+G14
+Contig059	Curated	exon	3613	5379	.	+	.	ID=Heinz-059-1+I+CN+G14
+Contig059	Curated	CDS	2642	2815	.	+	0	ID=Heinz-059-1+I+CN+G14
+Contig059	Curated	CDS	2912	3607	.	+	0	ID=Heinz-059-1+I+CN+G14
+Contig059	Curated	CDS	3613	5379	.	+	0	ID=Heinz-059-1+I+CN+G14
+ 
+Contig059	Curated	gene	10576	10966	.	+	.	ID=Heinz-059-2+P+N+G14
+Contig059	Curated	mRNA	10576	10966	.	+	.	ID=Heinz-059-2+P+N+G14
+Contig059	Curated	exon	10576	10637	.	+	.	ID=Heinz-059-2+P+N+G14
+Contig059	Curated	exon	10664	10819	.	+	.	ID=Heinz-059-2+P+N+G14
+Contig059	Curated	exon	10840	10966	.	+	.	ID=Heinz-059-2+P+N+G14
+Contig059	Curated	CDS	10576	10637	.	+	0	ID=Heinz-059-2+P+N+G14
+Contig059	Curated	CDS	10664	10819	.	+	1	ID=Heinz-059-2+P+N+G14
+Contig059	Curated	CDS	10840	10966	.	+	1	ID=Heinz-059-2+P+N+G14
+ 
+Contig060	Curated	gene	2535	6503	.	+	.	ID=Heinz-060-1+I+NL+G6
+Contig060	Curated	mRNA	2535	6503	.	+	.	ID=Heinz-060-1+I+NL+G6
+Contig060	Curated	exon	2535	6503	.	+	.	ID=Heinz-060-1+I+NL+G6
+Contig060	Curated	CDS	2535	6503	.	+	0	ID=Heinz-060-1+I+NL+G6
+ 
+Contig060	Curated	gene	9688	13473	.	+	.	ID=Heinz-060-2+I+NL+G6
+Contig060	Curated	mRNA	9688	13473	.	+	.	ID=Heinz-060-2+I+NL+G6
+Contig060	Curated	exon	9688	13473	.	+	.	ID=Heinz-060-2+I+NL+G6
+Contig060	Curated	CDS	9688	13473	.	+	0	ID=Heinz-060-2+I+NL+G6
+ 
+Contig061	Curated	gene	10040	12700	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	mRNA	10040	12700	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	exon	10040	10377	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	exon	10488	10649	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	exon	10721	10952	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	exon	10966	11022	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	exon	11228	11365	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	exon	11496	11636	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	exon	11963	12012	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	exon	12100	12700	.	+	.	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	CDS	10040	10377	.	+	0	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	CDS	10488	10649	.	+	1	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	CDS	10721	10952	.	+	1	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	CDS	10966	11022	.	+	0	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	CDS	11228	11365	.	+	0	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	CDS	11496	11636	.	+	0	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	CDS	11963	12012	.	+	0	ID=Heinz-061-1+P+CNL+G12
+Contig061	Curated	CDS	12100	12700	.	+	1	ID=Heinz-061-1+P+CNL+G12
+ 
+Contig062	Curated	gene	4868	8679	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	mRNA	4868	8679	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	exon	4868	5735	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	exon	5766	6182	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	exon	6188	6339	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	exon	6513	6677	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	exon	6706	7460	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	exon	8002	8187	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	exon	8271	8406	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	exon	8572	8679	.	+	.	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	CDS	4868	5735	.	+	0	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	CDS	5766	6182	.	+	2	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	CDS	6188	6339	.	+	2	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	CDS	6513	6677	.	+	0	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	CDS	6706	7460	.	+	0	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	CDS	8002	8187	.	+	1	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	CDS	8271	8406	.	+	1	ID=Heinz-062-1+I+CNL+G10
+Contig062	Curated	CDS	8572	8679	.	+	0	ID=Heinz-062-1+I+CNL+G10
+ 
+Contig063	Curated	gene	6431	11634	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	mRNA	6431	11634	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	10508	11235	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	11317	11634	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	6431	6469	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	6692	6709	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	6752	6898	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	6925	7229	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	7267	7442	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	7474	7559	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	7583	7734	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	exon	7752	8023	.	+	.	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	10508	11235	.	+	2	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	11317	11634	.	+	0	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	6431	6469	.	+	0	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	6692	6709	.	+	0	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	6752	6898	.	+	0	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	6925	7229	.	+	0	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	7267	7442	.	+	1	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	7474	7559	.	+	2	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	7583	7734	.	+	0	ID=Heinz-063-1+I+N+G8
+Contig063	Curated	CDS	7752	8023	.	+	1	ID=Heinz-063-1+I+N+G8
+ 
+Contig064	Curated	gene	3580	8196	.	-	.	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	mRNA	3580	8196	.	-	.	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	exon	3580	4086	.	-	.	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	exon	4184	5134	.	-	.	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	exon	5241	5621	.	-	.	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	exon	5711	6809	.	-	.	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	exon	7778	8196	.	-	.	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	CDS	3580	4086	.	-	0	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	CDS	4184	5134	.	-	0	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	CDS	5241	5621	.	-	0	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	CDS	5711	6809	.	-	1	ID=Heinz-064-1+I+TNL+GT
+Contig064	Curated	CDS	7778	8196	.	-	0	ID=Heinz-064-1+I+TNL+GT
+ 
+Contig065	Curated	gene	3759	11301	.	-	.	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	mRNA	3759	11301	.	-	.	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	exon	10775	11301	.	-	.	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	exon	3759	4439	.	-	.	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	exon	4512	5420	.	-	.	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	exon	5539	5976	.	-	.	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	exon	6059	7160	.	-	.	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	CDS	10775	11301	.	-	0	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	CDS	3759	4439	.	-	0	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	CDS	4512	5420	.	-	0	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	CDS	5539	5976	.	-	0	ID=Heinz-065-1+I+TNL+GT
+Contig065	Curated	CDS	6059	7160	.	-	1	ID=Heinz-065-1+I+TNL+GT
+ 
+Contig066	Curated	gene	2289	9607	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	mRNA	2289	9607	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	2289	2834	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	2964	3088	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	3126	3205	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	8072	8273	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	8300	8434	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	8447	8552	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	8603	9061	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	9101	9294	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	9343	9490	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	exon	9566	9607	.	-	.	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	2289	2834	.	-	0	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	2964	3088	.	-	2	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	3126	3205	.	-	1	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	8072	8273	.	-	2	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	8300	8434	.	-	2	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	8447	8552	.	-	0	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	8603	9061	.	-	0	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	9101	9294	.	-	2	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	9343	9490	.	-	0	ID=Heinz-066-1+P+NL+G7
+Contig066	Curated	CDS	9566	9607	.	-	0	ID=Heinz-066-1+P+NL+G7
+ 
+Contig067	Curated	gene	10683	12498	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	mRNA	10683	12498	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	exon	10683	10690	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	exon	10731	10764	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	exon	10778	10900	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	exon	10934	11051	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	exon	11067	11213	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	exon	11273	11571	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	exon	11592	11710	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	exon	11839	12125	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	exon	12152	12498	.	+	.	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	CDS	10683	10690	.	+	0	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	CDS	10731	10764	.	+	1	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	CDS	10778	10900	.	+	0	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	CDS	10934	11051	.	+	0	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	CDS	11067	11213	.	+	2	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	CDS	11273	11571	.	+	2	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	CDS	11592	11710	.	+	0	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	CDS	11839	12125	.	+	1	ID=Heinz-067-1+I+N+G9
+Contig067	Curated	CDS	12152	12498	.	+	2	ID=Heinz-067-1+I+N+G9
+ 
+Contig068	Curated	gene	4682	8119	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	mRNA	4682	8119	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	4682	4873	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	4961	5108	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	5610	6021	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	6189	6373	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	6503	6541	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	6667	6821	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	6865	7081	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	7111	7451	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	7497	7805	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	exon	7955	8119	.	-	.	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	4682	4873	.	-	0	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	4961	5108	.	-	1	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	5610	6021	.	-	2	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	6189	6373	.	-	1	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	6503	6541	.	-	1	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	6667	6821	.	-	0	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	6865	7081	.	-	1	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	7111	7451	.	-	0	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	7497	7805	.	-	0	ID=Heinz-068-1+I+CNL+G10
+Contig068	Curated	CDS	7955	8119	.	-	0	ID=Heinz-068-1+I+CNL+G10
+ 
+Contig069	Curated	gene	5343	7952	.	+	.	ID=Heinz-069-1+I+CNL+G9
+Contig069	Curated	mRNA	5343	7952	.	+	.	ID=Heinz-069-1+I+CNL+G9
+Contig069	Curated	exon	5343	7952	.	+	.	ID=Heinz-069-1+I+CNL+G9
+Contig069	Curated	CDS	5343	7952	.	+	0	ID=Heinz-069-1+I+CNL+G9
+ 
+Contig070	Curated	gene	4168	6768	.	-	.	ID=Heinz-070-1+I+CNL+G14
+Contig070	Curated	mRNA	4168	6768	.	-	.	ID=Heinz-070-1+I+CNL+G14
+Contig070	Curated	exon	4168	6768	.	-	.	ID=Heinz-070-1+I+CNL+G14
+Contig070	Curated	CDS	4168	6768	.	-	0	ID=Heinz-070-1+I+CNL+G14
+ 
+Contig071	Curated	gene	5792	10410	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	mRNA	5792	10410	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	exon	10238	10410	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	exon	5792	5968	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	exon	5989	6389	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	exon	6487	6662	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	exon	6846	7019	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	exon	7041	7163	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	exon	7284	7412	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	exon	8888	9030	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	exon	9663	10155	.	+	.	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	CDS	10238	10410	.	+	2	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	CDS	5792	5968	.	+	0	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	CDS	5989	6389	.	+	0	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	CDS	6487	6662	.	+	1	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	CDS	6846	7019	.	+	2	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	CDS	7041	7163	.	+	2	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	CDS	7284	7412	.	+	2	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	CDS	8888	9030	.	+	2	ID=Heinz-071-1+P+CNL+G3
+Contig071	Curated	CDS	9663	10155	.	+	0	ID=Heinz-071-1+P+CNL+G3
+ 
+Contig072	Curated	gene	9925	12642	.	+	.	ID=Heinz-072-1+I+CNL+G2
+Contig072	Curated	mRNA	9925	12642	.	+	.	ID=Heinz-072-1+I+CNL+G2
+Contig072	Curated	exon	12157	12642	.	+	.	ID=Heinz-072-1+I+CNL+G2
+Contig072	Curated	exon	9925	12141	.	+	.	ID=Heinz-072-1+I+CNL+G2
+Contig072	Curated	CDS	12157	12642	.	+	0	ID=Heinz-072-1+I+CNL+G2
+Contig072	Curated	CDS	9925	12141	.	+	0	ID=Heinz-072-1+I+CNL+G2
+ 
+Contig073	Curated	gene	6927	9350	.	+	.	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	mRNA	6927	9350	.	+	.	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	exon	6927	7876	.	+	.	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	exon	7900	8074	.	+	.	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	exon	8146	8157	.	+	.	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	exon	8177	8357	.	+	.	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	exon	8580	9255	.	+	.	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	exon	9266	9350	.	+	.	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	CDS	6927	7876	.	+	0	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	CDS	7900	8074	.	+	1	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	CDS	8146	8157	.	+	0	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	CDS	8177	8357	.	+	0	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	CDS	8580	9255	.	+	2	ID=Heinz-073-1+I+CNL+G5
+Contig073	Curated	CDS	9266	9350	.	+	1	ID=Heinz-073-1+I+CNL+G5
+ 
+Contig074	Curated	gene	6130	13599	.	+	.	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	mRNA	6130	13599	.	+	.	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	exon	12821	13221	.	+	.	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	exon	13327	13481	.	+	.	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	exon	13528	13599	.	+	.	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	exon	6130	6412	.	+	.	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	exon	6459	6933	.	+	.	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	CDS	12821	13221	.	+	1	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	CDS	13327	13481	.	+	2	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	CDS	13528	13599	.	+	0	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	CDS	6130	6412	.	+	0	ID=Heinz-074-1+I+N+GT
+Contig074	Curated	CDS	6459	6933	.	+	2	ID=Heinz-074-1+I+N+GT
+ 
+Contig075	Curated	gene	2996	5334	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	mRNA	2996	5334	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	2996	3198	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	3235	3412	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	3560	3670	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	3784	3863	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	3913	3979	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	3998	4120	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	4130	4206	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	4282	4343	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	4417	4681	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	4695	4817	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	exon	5019	5334	.	-	.	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	2996	3198	.	-	2	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	3235	3412	.	-	0	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	3560	3670	.	-	0	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	3784	3863	.	-	2	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	3913	3979	.	-	0	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	3998	4120	.	-	0	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	4130	4206	.	-	2	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	4282	4343	.	-	1	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	4417	4681	.	-	2	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	4695	4817	.	-	2	ID=Heinz-075-1+P+CN+G14
+Contig075	Curated	CDS	5019	5334	.	-	0	ID=Heinz-075-1+P+CN+G14
+ 
+Contig076	Curated	gene	4222	9812	.	+	.	ID=Heinz-076-1+I+CNL+G3
+Contig076	Curated	mRNA	4222	9812	.	+	.	ID=Heinz-076-1+I+CNL+G3
+Contig076	Curated	exon	4222	8534	.	+	.	ID=Heinz-076-1+I+CNL+G3
+Contig076	Curated	exon	8648	9812	.	+	.	ID=Heinz-076-1+I+CNL+G3
+Contig076	Curated	CDS	4222	8534	.	+	0	ID=Heinz-076-1+I+CNL+G3
+Contig076	Curated	CDS	8648	9812	.	+	1	ID=Heinz-076-1+I+CNL+G3
+ 
+Contig077	Curated	gene	3729	8431	.	-	.	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	mRNA	3729	8431	.	-	.	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	exon	3729	4250	.	-	.	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	exon	4389	4838	.	-	.	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	exon	4938	5018	.	-	.	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	exon	5048	5392	.	-	.	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	exon	5864	8431	.	-	.	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	CDS	3729	4250	.	-	0	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	CDS	4389	4838	.	-	0	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	CDS	4938	5018	.	-	0	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	CDS	5048	5392	.	-	0	ID=Heinz-077-1+I+CNL+G10
+Contig077	Curated	CDS	5864	8431	.	-	0	ID=Heinz-077-1+I+CNL+G10
+ 
+Contig078	Curated	gene	3198	5906	.	-	.	ID=Heinz-078-1+I+CNL+G9
+Contig078	Curated	mRNA	3198	5906	.	-	.	ID=Heinz-078-1+I+CNL+G9
+Contig078	Curated	exon	3198	5906	.	-	.	ID=Heinz-078-1+I+CNL+G9
+Contig078	Curated	CDS	3198	5906	.	-	0	ID=Heinz-078-1+I+CNL+G9
+ 
+Contig078	Curated	gene	11717	14091	.	-	.	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	mRNA	11717	14091	.	-	.	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	exon	11717	12354	.	-	.	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	exon	12384	13119	.	-	.	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	exon	13160	13318	.	-	.	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	exon	13325	13535	.	-	.	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	exon	13613	14091	.	-	.	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	CDS	11717	12354	.	-	2	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	CDS	12384	13119	.	-	0	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	CDS	13160	13318	.	-	0	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	CDS	13325	13535	.	-	1	ID=Heinz-078-2+I+CN+G9
+Contig078	Curated	CDS	13613	14091	.	-	0	ID=Heinz-078-2+I+CN+G9
+ 
+Contig079	Curated	gene	4047	4955	.	+	.	ID=Heinz-079-1+P+N+G14
+Contig079	Curated	mRNA	4047	4955	.	+	.	ID=Heinz-079-1+P+N+G14
+Contig079	Curated	exon	4047	4285	.	+	.	ID=Heinz-079-1+P+N+G14
+Contig079	Curated	exon	4310	4955	.	+	.	ID=Heinz-079-1+P+N+G14
+Contig079	Curated	CDS	4047	4285	.	+	0	ID=Heinz-079-1+P+N+G14
+Contig079	Curated	CDS	4310	4955	.	+	1	ID=Heinz-079-1+P+N+G14
+ 
+Contig080	Curated	gene	4761	9074	.	-	.	ID=Heinz-080-1+I+CNL+G10
+Contig080	Curated	mRNA	4761	9074	.	-	.	ID=Heinz-080-1+I+CNL+G10
+Contig080	Curated	exon	4761	5357	.	-	.	ID=Heinz-080-1+I+CNL+G10
+Contig080	Curated	exon	6402	9074	.	-	.	ID=Heinz-080-1+I+CNL+G10
+Contig080	Curated	CDS	4761	5357	.	-	0	ID=Heinz-080-1+I+CNL+G10
+Contig080	Curated	CDS	6402	9074	.	-	0	ID=Heinz-080-1+I+CNL+G10
+ 
+Contig081	Curated	gene	4340	9352	.	-	.	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	mRNA	4340	9352	.	-	.	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	exon	4340	4468	.	-	.	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	exon	4558	5061	.	-	.	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	exon	5198	5472	.	-	.	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	exon	5506	5668	.	-	.	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	exon	6785	7407	.	-	.	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	exon	7426	9352	.	-	.	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	CDS	4340	4468	.	-	0	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	CDS	4558	5061	.	-	0	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	CDS	5198	5472	.	-	2	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	CDS	5506	5668	.	-	0	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	CDS	6785	7407	.	-	2	ID=Heinz-081-1+I+CNL+G10
+Contig081	Curated	CDS	7426	9352	.	-	0	ID=Heinz-081-1+I+CNL+G10
+ 
+Contig082	Curated	gene	3682	7350	.	-	.	ID=Heinz-082-1+I+CNL+G3
+Contig082	Curated	mRNA	3682	7350	.	-	.	ID=Heinz-082-1+I+CNL+G3
+Contig082	Curated	exon	3682	4801	.	-	.	ID=Heinz-082-1+I+CNL+G3
+Contig082	Curated	exon	4889	7350	.	-	.	ID=Heinz-082-1+I+CNL+G3
+Contig082	Curated	CDS	3682	4801	.	-	1	ID=Heinz-082-1+I+CNL+G3
+Contig082	Curated	CDS	4889	7350	.	-	0	ID=Heinz-082-1+I+CNL+G3
+ 
+Contig083	Curated	gene	7489	11051	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	mRNA	7489	11051	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	exon	10285	10595	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	exon	10643	10828	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	exon	10955	11051	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	exon	7489	7666	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	exon	7766	7841	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	exon	8121	8213	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	exon	8225	8524	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	exon	8576	8762	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	exon	8937	9872	.	+	.	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	CDS	10285	10595	.	+	0	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	CDS	10643	10828	.	+	1	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	CDS	10955	11051	.	+	1	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	CDS	7489	7666	.	+	0	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	CDS	7766	7841	.	+	2	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	CDS	8121	8213	.	+	1	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	CDS	8225	8524	.	+	1	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	CDS	8576	8762	.	+	1	ID=Heinz-083-1+P+CNL+G10
+Contig083	Curated	CDS	8937	9872	.	+	0	ID=Heinz-083-1+P+CNL+G10
+ 
+Contig084	Curated	gene	3050	9005	.	-	.	ID=Heinz-084-1+I+CNL+G10
+Contig084	Curated	mRNA	3050	9005	.	-	.	ID=Heinz-084-1+I+CNL+G10
+Contig084	Curated	exon	3050	5431	.	-	.	ID=Heinz-084-1+I+CNL+G10
+Contig084	Curated	exon	8475	9005	.	-	.	ID=Heinz-084-1+I+CNL+G10
+Contig084	Curated	CDS	3050	5431	.	-	0	ID=Heinz-084-1+I+CNL+G10
+Contig084	Curated	CDS	8475	9005	.	-	0	ID=Heinz-084-1+I+CNL+G10
+ 
+Contig085	Curated	gene	3910	5361	.	+	.	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	mRNA	3910	5361	.	+	.	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	exon	3910	3938	.	+	.	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	exon	4041	4138	.	+	.	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	exon	4176	4318	.	+	.	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	exon	4403	4471	.	+	.	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	exon	4618	5361	.	+	.	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	CDS	3910	3938	.	+	0	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	CDS	4041	4138	.	+	1	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	CDS	4176	4318	.	+	2	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	CDS	4403	4471	.	+	0	ID=Heinz-085-1+I+TN+GT
+Contig085	Curated	CDS	4618	5361	.	+	0	ID=Heinz-085-1+I+TN+GT
+ 
+Contig085	Curated	gene	10391	11665	.	+	.	ID=Heinz-085-2+P+TN+NA
+Contig085	Curated	mRNA	10391	11665	.	+	.	ID=Heinz-085-2+P+TN+NA
+Contig085	Curated	exon	10391	10419	.	+	.	ID=Heinz-085-2+P+TN+NA
+Contig085	Curated	exon	10686	10845	.	+	.	ID=Heinz-085-2+P+TN+NA
+Contig085	Curated	exon	11153	11309	.	+	.	ID=Heinz-085-2+P+TN+NA
+Contig085	Curated	exon	11406	11665	.	+	.	ID=Heinz-085-2+P+TN+NA
+Contig085	Curated	CDS	10391	10419	.	+	0	ID=Heinz-085-2+P+TN+NA
+Contig085	Curated	CDS	10686	10845	.	+	1	ID=Heinz-085-2+P+TN+NA
+Contig085	Curated	CDS	11153	11309	.	+	0	ID=Heinz-085-2+P+TN+NA
+Contig085	Curated	CDS	11406	11665	.	+	2	ID=Heinz-085-2+P+TN+NA
+ 
+Contig086	Curated	gene	4027	9017	.	+	.	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	mRNA	4027	9017	.	+	.	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	exon	4027	4496	.	+	.	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	exon	5589	6696	.	+	.	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	exon	6885	7164	.	+	.	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	exon	7375	8132	.	+	.	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	exon	8212	8663	.	+	.	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	exon	8747	9017	.	+	.	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	CDS	4027	4496	.	+	0	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	CDS	5589	6696	.	+	1	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	CDS	6885	7164	.	+	0	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	CDS	7375	8132	.	+	2	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	CDS	8212	8663	.	+	0	ID=Heinz-086-1+I+TNL+GT
+Contig086	Curated	CDS	8747	9017	.	+	1	ID=Heinz-086-1+I+TNL+GT
+ 
+Contig087	Curated	gene	2685	5390	.	+	.	ID=Heinz-087-1+I+CNL+G2
+Contig087	Curated	mRNA	2685	5390	.	+	.	ID=Heinz-087-1+I+CNL+G2
+Contig087	Curated	exon	2685	5390	.	+	.	ID=Heinz-087-1+I+CNL+G2
+Contig087	Curated	CDS	2685	5390	.	+	0	ID=Heinz-087-1+I+CNL+G2
+ 
+Contig088	Curated	gene	3406	5959	.	-	.	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	mRNA	3406	5959	.	-	.	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	exon	3406	3536	.	-	.	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	exon	3682	3827	.	-	.	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	exon	3874	3998	.	-	.	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	exon	4013	4673	.	-	.	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	exon	4746	5695	.	-	.	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	exon	5777	5959	.	-	.	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	CDS	3406	3536	.	-	2	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	CDS	3682	3827	.	-	1	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	CDS	3874	3998	.	-	0	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	CDS	4013	4673	.	-	1	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	CDS	4746	5695	.	-	0	ID=Heinz-088-1+I+NL+G6
+Contig088	Curated	CDS	5777	5959	.	-	0	ID=Heinz-088-1+I+NL+G6
+ 
+Contig089	Curated	gene	5709	8294	.	+	.	ID=Heinz-089-1+I+CNL+G11
+Contig089	Curated	mRNA	5709	8294	.	+	.	ID=Heinz-089-1+I+CNL+G11
+Contig089	Curated	exon	5709	8294	.	+	.	ID=Heinz-089-1+I+CNL+G11
+Contig089	Curated	CDS	5709	8294	.	+	0	ID=Heinz-089-1+I+CNL+G11
+ 
+Contig090	Curated	gene	4160	8195	.	-	.	ID=Heinz-090-1+I+CNL+G4
+Contig090	Curated	mRNA	4160	8195	.	-	.	ID=Heinz-090-1+I+CNL+G4
+Contig090	Curated	exon	4160	5104	.	-	.	ID=Heinz-090-1+I+CNL+G4
+Contig090	Curated	exon	5129	5266	.	-	.	ID=Heinz-090-1+I+CNL+G4
+Contig090	Curated	exon	5289	8195	.	-	.	ID=Heinz-090-1+I+CNL+G4
+Contig090	Curated	CDS	4160	5104	.	-	0	ID=Heinz-090-1+I+CNL+G4
+Contig090	Curated	CDS	5129	5266	.	-	0	ID=Heinz-090-1+I+CNL+G4
+Contig090	Curated	CDS	5289	8195	.	-	0	ID=Heinz-090-1+I+CNL+G4
+ 
+Contig091	Curated	gene	3793	7548	.	-	.	ID=Heinz-091-1+I+CNL+G4
+Contig091	Curated	mRNA	3793	7548	.	-	.	ID=Heinz-091-1+I+CNL+G4
+Contig091	Curated	exon	3793	4034	.	-	.	ID=Heinz-091-1+I+CNL+G4
+Contig091	Curated	exon	4101	6034	.	-	.	ID=Heinz-091-1+I+CNL+G4
+Contig091	Curated	exon	6042	6519	.	-	.	ID=Heinz-091-1+I+CNL+G4
+Contig091	Curated	exon	6558	7548	.	-	.	ID=Heinz-091-1+I+CNL+G4
+Contig091	Curated	CDS	3793	4034	.	-	2	ID=Heinz-091-1+I+CNL+G4
+Contig091	Curated	CDS	4101	6034	.	-	1	ID=Heinz-091-1+I+CNL+G4
+Contig091	Curated	CDS	6042	6519	.	-	2	ID=Heinz-091-1+I+CNL+G4
+Contig091	Curated	CDS	6558	7548	.	-	0	ID=Heinz-091-1+I+CNL+G4
+ 
+Contig092	Curated	gene	2969	7214	.	+	.	ID=Heinz-092-1+I+CNL+G8
+Contig092	Curated	mRNA	2969	7214	.	+	.	ID=Heinz-092-1+I+CNL+G8
+Contig092	Curated	exon	2969	3409	.	+	.	ID=Heinz-092-1+I+CNL+G8
+Contig092	Curated	exon	5016	7214	.	+	.	ID=Heinz-092-1+I+CNL+G8
+Contig092	Curated	CDS	2969	3409	.	+	0	ID=Heinz-092-1+I+CNL+G8
+Contig092	Curated	CDS	5016	7214	.	+	0	ID=Heinz-092-1+I+CNL+G8
+ 
+Contig093	Curated	gene	3164	6863	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	mRNA	3164	6863	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	3164	3640	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	3737	4118	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	4400	4671	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	4730	5191	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	5227	5286	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	5316	5437	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	5446	5764	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	5808	5883	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	5914	6137	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	6294	6361	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	6405	6579	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	exon	6669	6863	.	-	.	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	3164	3640	.	-	0	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	3737	4118	.	-	1	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	4400	4671	.	-	0	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	4730	5191	.	-	0	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	5227	5286	.	-	0	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	5316	5437	.	-	2	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	5446	5764	.	-	0	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	5808	5883	.	-	1	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	5914	6137	.	-	0	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	6294	6361	.	-	2	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	6405	6579	.	-	0	ID=Heinz-093-1+I+CNL+G4
+Contig093	Curated	CDS	6669	6863	.	-	0	ID=Heinz-093-1+I+CNL+G4
+ 
+Contig094	Curated	gene	4257	7106	.	-	.	ID=Heinz-094-1+I+CNL+G15
+Contig094	Curated	mRNA	4257	7106	.	-	.	ID=Heinz-094-1+I+CNL+G15
+Contig094	Curated	exon	4257	6716	.	-	.	ID=Heinz-094-1+I+CNL+G15
+Contig094	Curated	exon	6744	7106	.	-	.	ID=Heinz-094-1+I+CNL+G15
+Contig094	Curated	CDS	4257	6716	.	-	0	ID=Heinz-094-1+I+CNL+G15
+Contig094	Curated	CDS	6744	7106	.	-	0	ID=Heinz-094-1+I+CNL+G15
+ 
+Contig095	Curated	gene	6031	6953	.	-	.	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	mRNA	6031	6953	.	-	.	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	exon	6031	6360	.	-	.	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	exon	6366	6466	.	-	.	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	exon	6577	6697	.	-	.	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	exon	6711	6763	.	-	.	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	exon	6923	6953	.	-	.	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	CDS	6031	6360	.	-	0	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	CDS	6366	6466	.	-	2	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	CDS	6577	6697	.	-	0	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	CDS	6711	6763	.	-	2	ID=Heinz-095-1+P+N+NA
+Contig095	Curated	CDS	6923	6953	.	-	0	ID=Heinz-095-1+P+N+NA
+ 
+Contig096	Curated	gene	3873	7527	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	mRNA	3873	7527	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	3873	4273	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	4392	4739	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	4866	5023	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	5096	5461	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	5468	5739	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	5766	6143	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	6193	6298	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	6339	6627	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	6633	6834	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	exon	6892	7527	.	-	.	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	3873	4273	.	-	2	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	4392	4739	.	-	2	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	4866	5023	.	-	1	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	5096	5461	.	-	1	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	5468	5739	.	-	0	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	5766	6143	.	-	0	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	6193	6298	.	-	1	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	6339	6627	.	-	2	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	6633	6834	.	-	0	ID=Heinz-096-1+I+CNL+G4
+Contig096	Curated	CDS	6892	7527	.	-	0	ID=Heinz-096-1+I+CNL+G4
+ 
+Contig097	Curated	gene	7027	9534	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	mRNA	7027	9534	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	exon	7027	7382	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	exon	7442	7661	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	exon	7867	8031	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	exon	8064	8217	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	exon	8316	8453	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	exon	8462	8721	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	exon	8900	9259	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	exon	9268	9534	.	-	.	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	CDS	7027	7382	.	-	2	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	CDS	7442	7661	.	-	0	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	CDS	7867	8031	.	-	0	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	CDS	8064	8217	.	-	1	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	CDS	8316	8453	.	-	1	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	CDS	8462	8721	.	-	0	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	CDS	8900	9259	.	-	0	ID=Heinz-097-1+I+CNL+G5
+Contig097	Curated	CDS	9268	9534	.	-	0	ID=Heinz-097-1+I+CNL+G5
+ 
+Contig098	Curated	gene	4468	6956	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	mRNA	4468	6956	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	exon	4468	4821	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	exon	5160	5297	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	exon	5302	5423	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	exon	5444	5538	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	exon	5726	5802	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	exon	5842	6045	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	exon	6277	6525	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	exon	6618	6956	.	+	.	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	CDS	4468	4821	.	+	0	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	CDS	5160	5297	.	+	0	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	CDS	5302	5423	.	+	0	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	CDS	5444	5538	.	+	1	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	CDS	5726	5802	.	+	2	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	CDS	5842	6045	.	+	0	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	CDS	6277	6525	.	+	0	ID=Heinz-098-1+P+TNL+GT
+Contig098	Curated	CDS	6618	6956	.	+	0	ID=Heinz-098-1+P+TNL+GT
+ 
+Contig099	Curated	gene	3376	6306	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	mRNA	3376	6306	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	exon	3376	3465	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	exon	3529	3941	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	exon	3983	4375	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	exon	4859	4910	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	exon	5109	5371	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	exon	5485	5588	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	exon	5805	5956	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	exon	6055	6306	.	+	.	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	CDS	3376	3465	.	+	0	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	CDS	3529	3941	.	+	0	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	CDS	3983	4375	.	+	1	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	CDS	4859	4910	.	+	1	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	CDS	5109	5371	.	+	0	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	CDS	5485	5588	.	+	1	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	CDS	5805	5956	.	+	2	ID=Heinz-099-1+P+CN+NG
+Contig099	Curated	CDS	6055	6306	.	+	0	ID=Heinz-099-1+P+CN+NG
+ 
+Contig100	Curated	gene	3655	6291	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	mRNA	3655	6291	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	3655	3945	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	4101	4220	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	4239	4370	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	4406	4636	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	4642	4827	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	4856	5156	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	5174	5396	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	5485	5740	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	5895	5944	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	exon	5985	6291	.	+	.	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	3655	3945	.	+	0	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	4101	4220	.	+	0	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	4239	4370	.	+	0	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	4406	4636	.	+	0	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	4642	4827	.	+	0	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	4856	5156	.	+	0	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	5174	5396	.	+	2	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	5485	5740	.	+	1	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	5895	5944	.	+	0	ID=Heinz-100-1+P+NL+G10
+Contig100	Curated	CDS	5985	6291	.	+	1	ID=Heinz-100-1+P+NL+G10
+ 
+Contig101	Curated	gene	6042	10521	.	-	.	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	mRNA	6042	10521	.	-	.	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	exon	10139	10521	.	-	.	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	exon	6042	6221	.	-	.	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	exon	6289	6543	.	-	.	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	exon	6697	7623	.	-	.	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	exon	7720	7941	.	-	.	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	exon	8017	9112	.	-	.	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	CDS	10139	10521	.	-	0	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	CDS	6042	6221	.	-	0	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	CDS	6289	6543	.	-	0	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	CDS	6697	7623	.	-	0	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	CDS	7720	7941	.	-	0	ID=Heinz-101-1+I+TNL+GT
+Contig101	Curated	CDS	8017	9112	.	-	1	ID=Heinz-101-1+I+TNL+GT
+ 
+Contig102	Curated	gene	2907	4762	.	+	.	ID=Heinz-102-1+P+N+G13
+Contig102	Curated	mRNA	2907	4762	.	+	.	ID=Heinz-102-1+P+N+G13
+Contig102	Curated	exon	2907	2966	.	+	.	ID=Heinz-102-1+P+N+G13
+Contig102	Curated	exon	3220	3389	.	+	.	ID=Heinz-102-1+P+N+G13
+Contig102	Curated	exon	3497	3606	.	+	.	ID=Heinz-102-1+P+N+G13
+Contig102	Curated	exon	4563	4762	.	+	.	ID=Heinz-102-1+P+N+G13
+Contig102	Curated	CDS	2907	2966	.	+	0	ID=Heinz-102-1+P+N+G13
+Contig102	Curated	CDS	3220	3389	.	+	0	ID=Heinz-102-1+P+N+G13
+Contig102	Curated	CDS	3497	3606	.	+	1	ID=Heinz-102-1+P+N+G13
+Contig102	Curated	CDS	4563	4762	.	+	2	ID=Heinz-102-1+P+N+G13
+ 
+Contig103	Curated	gene	10367	12474	.	-	.	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	mRNA	10367	12474	.	-	.	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	exon	10367	10564	.	-	.	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	exon	10591	10775	.	-	.	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	exon	10965	11615	.	-	.	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	exon	11739	12291	.	-	.	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	exon	12304	12474	.	-	.	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	CDS	10367	10564	.	-	0	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	CDS	10591	10775	.	-	2	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	CDS	10965	11615	.	-	2	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	CDS	11739	12291	.	-	0	ID=Heinz-103-1+I+CNL+G5
+Contig103	Curated	CDS	12304	12474	.	-	0	ID=Heinz-103-1+I+CNL+G5
+ 
+Contig104	Curated	gene	4894	7467	.	-	.	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	mRNA	4894	7467	.	-	.	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	exon	4894	5617	.	-	.	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	exon	5700	6385	.	-	.	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	exon	6391	6558	.	-	.	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	exon	6583	6708	.	-	.	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	exon	6740	7100	.	-	.	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	exon	7142	7346	.	-	.	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	exon	7374	7467	.	-	.	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	CDS	4894	5617	.	-	1	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	CDS	5700	6385	.	-	0	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	CDS	6391	6558	.	-	0	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	CDS	6583	6708	.	-	0	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	CDS	6740	7100	.	-	1	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	CDS	7142	7346	.	-	2	ID=Heinz-104-1+I+CNL+NG
+Contig104	Curated	CDS	7374	7467	.	-	0	ID=Heinz-104-1+I+CNL+NG
+ 
+Contig105	Curated	gene	5197	5651	.	+	.	ID=Heinz-105-1+P+N+NA
+Contig105	Curated	mRNA	5197	5651	.	+	.	ID=Heinz-105-1+P+N+NA
+Contig105	Curated	exon	5197	5294	.	+	.	ID=Heinz-105-1+P+N+NA
+Contig105	Curated	exon	5330	5651	.	+	.	ID=Heinz-105-1+P+N+NA
+Contig105	Curated	CDS	5197	5294	.	+	0	ID=Heinz-105-1+P+N+NA
+Contig105	Curated	CDS	5330	5651	.	+	1	ID=Heinz-105-1+P+N+NA
+ 
+Contig106	Curated	gene	5100	5459	.	-	.	ID=Heinz-106-1+P+N+GT
+Contig106	Curated	mRNA	5100	5459	.	-	.	ID=Heinz-106-1+P+N+GT
+Contig106	Curated	exon	5100	5245	.	-	.	ID=Heinz-106-1+P+N+GT
+Contig106	Curated	exon	5303	5459	.	-	.	ID=Heinz-106-1+P+N+GT
+Contig106	Curated	CDS	5100	5245	.	-	2	ID=Heinz-106-1+P+N+GT
+Contig106	Curated	CDS	5303	5459	.	-	0	ID=Heinz-106-1+P+N+GT
+ 
+Contig107	Curated	gene	9696	12241	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	mRNA	9696	12241	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	10175	10216	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	10261	10631	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	10658	10746	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	10855	11037	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	11069	11219	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	11258	11506	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	11550	11780	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	11941	12241	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	9696	9818	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	9861	9924	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	exon	9949	10136	.	-	.	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	10175	10216	.	-	0	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	10261	10631	.	-	2	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	10658	10746	.	-	1	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	10855	11037	.	-	1	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	11069	11219	.	-	2	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	11258	11506	.	-	2	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	11550	11780	.	-	2	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	11941	12241	.	-	0	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	9696	9818	.	-	0	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	9861	9924	.	-	1	ID=Heinz-107-1+I+CNL+G13
+Contig107	Curated	CDS	9949	10136	.	-	0	ID=Heinz-107-1+I+CNL+G13
+ 
+Contig108	Curated	gene	3644	7408	.	-	.	ID=Heinz-108-1+I+CNL+G4
+Contig108	Curated	mRNA	3644	7408	.	-	.	ID=Heinz-108-1+I+CNL+G4
+Contig108	Curated	exon	3644	4112	.	-	.	ID=Heinz-108-1+I+CNL+G4
+Contig108	Curated	exon	4143	6520	.	-	.	ID=Heinz-108-1+I+CNL+G4
+Contig108	Curated	exon	6548	7408	.	-	.	ID=Heinz-108-1+I+CNL+G4
+Contig108	Curated	CDS	3644	4112	.	-	1	ID=Heinz-108-1+I+CNL+G4
+Contig108	Curated	CDS	4143	6520	.	-	0	ID=Heinz-108-1+I+CNL+G4
+Contig108	Curated	CDS	6548	7408	.	-	0	ID=Heinz-108-1+I+CNL+G4
+ 
+Contig109	Curated	gene	6570	10403	.	-	.	ID=Heinz-109-1+I+CNL+G1
+Contig109	Curated	mRNA	6570	10403	.	-	.	ID=Heinz-109-1+I+CNL+G1
+Contig109	Curated	exon	10362	10403	.	-	.	ID=Heinz-109-1+I+CNL+G1
+Contig109	Curated	exon	6570	7271	.	-	.	ID=Heinz-109-1+I+CNL+G1
+Contig109	Curated	exon	7350	10286	.	-	.	ID=Heinz-109-1+I+CNL+G1
+Contig109	Curated	CDS	10362	10403	.	-	0	ID=Heinz-109-1+I+CNL+G1
+Contig109	Curated	CDS	6570	7271	.	-	0	ID=Heinz-109-1+I+CNL+G1
+Contig109	Curated	CDS	7350	10286	.	-	0	ID=Heinz-109-1+I+CNL+G1
+ 
+Contig110	Curated	gene	2951	6955	.	+	.	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	mRNA	2951	6955	.	+	.	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	exon	2951	4423	.	+	.	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	exon	4465	5340	.	+	.	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	exon	5622	6092	.	+	.	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	exon	6229	6729	.	+	.	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	exon	6896	6955	.	+	.	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	CDS	2951	4423	.	+	0	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	CDS	4465	5340	.	+	0	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	CDS	5622	6092	.	+	0	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	CDS	6229	6729	.	+	0	ID=Heinz-110-1+I+CNL+G10
+Contig110	Curated	CDS	6896	6955	.	+	0	ID=Heinz-110-1+I+CNL+G10
+ 
+Contig111	Curated	gene	3390	6005	.	-	.	ID=Heinz-111-1+I+CNL+G9
+Contig111	Curated	mRNA	3390	6005	.	-	.	ID=Heinz-111-1+I+CNL+G9
+Contig111	Curated	exon	3390	6005	.	-	.	ID=Heinz-111-1+I+CNL+G9
+Contig111	Curated	CDS	3390	6005	.	-	0	ID=Heinz-111-1+I+CNL+G9
+ 
+Contig111	Curated	gene	6872	7201	.	+	.	ID=Heinz-111-2+P+N+G9
+Contig111	Curated	mRNA	6872	7201	.	+	.	ID=Heinz-111-2+P+N+G9
+Contig111	Curated	exon	6872	7201	.	+	.	ID=Heinz-111-2+P+N+G9
+Contig111	Curated	CDS	6872	7201	.	+	0	ID=Heinz-111-2+P+N+G9
+ 
+Contig112	Curated	gene	2604	7474	.	+	.	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	mRNA	2604	7474	.	+	.	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	exon	2604	3106	.	+	.	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	exon	3968	5063	.	+	.	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	exon	5152	5427	.	+	.	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	exon	5521	6612	.	+	.	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	exon	6686	7474	.	+	.	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	CDS	2604	3106	.	+	0	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	CDS	3968	5063	.	+	1	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	CDS	5152	5427	.	+	0	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	CDS	5521	6612	.	+	0	ID=Heinz-112-1+I+TNL+GT
+Contig112	Curated	CDS	6686	7474	.	+	0	ID=Heinz-112-1+I+TNL+GT
+ 
+Contig113	Curated	gene	3538	7542	.	+	.	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	mRNA	3538	7542	.	+	.	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	exon	3538	3974	.	+	.	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	exon	4327	5434	.	+	.	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	exon	5759	6034	.	+	.	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	exon	6130	6987	.	+	.	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	exon	7066	7542	.	+	.	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	CDS	3538	3974	.	+	0	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	CDS	4327	5434	.	+	1	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	CDS	5759	6034	.	+	0	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	CDS	6130	6987	.	+	0	ID=Heinz-113-1+I+TNL+GT
+Contig113	Curated	CDS	7066	7542	.	+	0	ID=Heinz-113-1+I+TNL+GT
+ 
+Contig114	Curated	gene	2414	3398	.	+	.	ID=Heinz-114-1+P+N+G14
+Contig114	Curated	mRNA	2414	3398	.	+	.	ID=Heinz-114-1+P+N+G14
+Contig114	Curated	exon	2414	2618	.	+	.	ID=Heinz-114-1+P+N+G14
+Contig114	Curated	exon	2632	2752	.	+	.	ID=Heinz-114-1+P+N+G14
+Contig114	Curated	exon	2766	3178	.	+	.	ID=Heinz-114-1+P+N+G14
+Contig114	Curated	exon	3208	3398	.	+	.	ID=Heinz-114-1+P+N+G14
+Contig114	Curated	CDS	2414	2618	.	+	0	ID=Heinz-114-1+P+N+G14
+Contig114	Curated	CDS	2632	2752	.	+	2	ID=Heinz-114-1+P+N+G14
+Contig114	Curated	CDS	2766	3178	.	+	1	ID=Heinz-114-1+P+N+G14
+Contig114	Curated	CDS	3208	3398	.	+	2	ID=Heinz-114-1+P+N+G14
+ 
+Contig115	Curated	gene	3760	6543	.	+	.	ID=Heinz-115-1+I+CNL+G15
+Contig115	Curated	mRNA	3760	6543	.	+	.	ID=Heinz-115-1+I+CNL+G15
+Contig115	Curated	exon	3760	6543	.	+	.	ID=Heinz-115-1+I+CNL+G15
+Contig115	Curated	CDS	3760	6543	.	+	0	ID=Heinz-115-1+I+CNL+G15
+ 
+Contig116	Curated	gene	3103	6927	.	+	.	ID=Heinz-116-1+I+CNL+G1
+Contig116	Curated	mRNA	3103	6927	.	+	.	ID=Heinz-116-1+I+CNL+G1
+Contig116	Curated	exon	3103	3144	.	+	.	ID=Heinz-116-1+I+CNL+G1
+Contig116	Curated	exon	3220	6927	.	+	.	ID=Heinz-116-1+I+CNL+G1
+Contig116	Curated	CDS	3103	3144	.	+	0	ID=Heinz-116-1+I+CNL+G1
+Contig116	Curated	CDS	3220	6927	.	+	0	ID=Heinz-116-1+I+CNL+G1
+ 
+Contig117	Curated	gene	5180	5614	.	-	.	ID=Heinz-117-1+P+N+G6
+Contig117	Curated	mRNA	5180	5614	.	-	.	ID=Heinz-117-1+P+N+G6
+Contig117	Curated	exon	5180	5316	.	-	.	ID=Heinz-117-1+P+N+G6
+Contig117	Curated	exon	5338	5614	.	-	.	ID=Heinz-117-1+P+N+G6
+Contig117	Curated	CDS	5180	5316	.	-	2	ID=Heinz-117-1+P+N+G6
+Contig117	Curated	CDS	5338	5614	.	-	0	ID=Heinz-117-1+P+N+G6
+ 
+Contig118	Curated	gene	3149	5701	.	-	.	ID=Heinz-118-1+I+CNL+G16
+Contig118	Curated	mRNA	3149	5701	.	-	.	ID=Heinz-118-1+I+CNL+G16
+Contig118	Curated	exon	3149	5701	.	-	.	ID=Heinz-118-1+I+CNL+G16
+Contig118	Curated	CDS	3149	5701	.	-	0	ID=Heinz-118-1+I+CNL+G16
+ 
+Contig119	Curated	gene	4295	7084	.	-	.	ID=Heinz-119-1+I+NL+NG
+Contig119	Curated	mRNA	4295	7084	.	-	.	ID=Heinz-119-1+I+NL+NG
+Contig119	Curated	exon	4295	7084	.	-	.	ID=Heinz-119-1+I+NL+NG
+Contig119	Curated	CDS	4295	7084	.	-	0	ID=Heinz-119-1+I+NL+NG
+ 
+Contig120	Curated	gene	3833	6643	.	-	.	ID=Heinz-120-1+I+CNL+NG
+Contig120	Curated	mRNA	3833	6643	.	-	.	ID=Heinz-120-1+I+CNL+NG
+Contig120	Curated	exon	3833	6643	.	-	.	ID=Heinz-120-1+I+CNL+NG
+Contig120	Curated	CDS	3833	6643	.	-	0	ID=Heinz-120-1+I+CNL+NG
+ 
+Contig121	Curated	gene	3155	8002	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	mRNA	3155	8002	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	exon	3155	3380	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	exon	3436	3746	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	exon	4170	4503	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	exon	5892	6086	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	exon	6318	7170	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	exon	7203	7231	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	exon	7307	7583	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	exon	7879	8002	.	-	.	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	CDS	3155	3380	.	-	1	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	CDS	3436	3746	.	-	0	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	CDS	4170	4503	.	-	1	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	CDS	5892	6086	.	-	1	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	CDS	6318	7170	.	-	2	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	CDS	7203	7231	.	-	1	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	CDS	7307	7583	.	-	2	ID=Heinz-121-1+P+NL+G10
+Contig121	Curated	CDS	7879	8002	.	-	0	ID=Heinz-121-1+P+NL+G10
+ 
+Contig122	Curated	gene	2528	6265	.	+	.	ID=Heinz-122-1+I+NL+G6
+Contig122	Curated	mRNA	2528	6265	.	+	.	ID=Heinz-122-1+I+NL+G6
+Contig122	Curated	exon	2528	6265	.	+	.	ID=Heinz-122-1+I+NL+G6
+Contig122	Curated	CDS	2528	6265	.	+	0	ID=Heinz-122-1+I+NL+G6
+ 
+Contig123	Curated	gene	3209	4162	.	+	.	ID=Heinz-123-1+P+N+G5
+Contig123	Curated	mRNA	3209	4162	.	+	.	ID=Heinz-123-1+P+N+G5
+Contig123	Curated	exon	3209	3586	.	+	.	ID=Heinz-123-1+P+N+G5
+Contig123	Curated	exon	3611	3856	.	+	.	ID=Heinz-123-1+P+N+G5
+Contig123	Curated	exon	3908	4162	.	+	.	ID=Heinz-123-1+P+N+G5
+Contig123	Curated	CDS	3209	3586	.	+	0	ID=Heinz-123-1+P+N+G5
+Contig123	Curated	CDS	3611	3856	.	+	0	ID=Heinz-123-1+P+N+G5
+Contig123	Curated	CDS	3908	4162	.	+	0	ID=Heinz-123-1+P+N+G5
+ 
+Contig124	Curated	gene	2753	6080	.	-	.	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	mRNA	2753	6080	.	-	.	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	exon	2753	3585	.	-	.	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	exon	3671	3876	.	-	.	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	exon	3990	4345	.	-	.	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	exon	4444	4853	.	-	.	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	exon	5283	5692	.	-	.	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	exon	5806	6080	.	-	.	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	CDS	2753	3585	.	-	2	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	CDS	3671	3876	.	-	1	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	CDS	3990	4345	.	-	0	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	CDS	4444	4853	.	-	2	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	CDS	5283	5692	.	-	1	ID=Heinz-124-1+I+RNL+GR
+Contig124	Curated	CDS	5806	6080	.	-	0	ID=Heinz-124-1+I+RNL+GR
+ 
+Contig125	Curated	gene	3521	3810	.	+	.	ID=Heinz-125-1+P+N+NA
+Contig125	Curated	mRNA	3521	3810	.	+	.	ID=Heinz-125-1+P+N+NA
+Contig125	Curated	exon	3521	3585	.	+	.	ID=Heinz-125-1+P+N+NA
+Contig125	Curated	exon	3597	3810	.	+	.	ID=Heinz-125-1+P+N+NA
+Contig125	Curated	CDS	3521	3585	.	+	0	ID=Heinz-125-1+P+N+NA
+Contig125	Curated	CDS	3597	3810	.	+	1	ID=Heinz-125-1+P+N+NA
+ 
+Contig126	Curated	gene	2863	7920	.	+	.	ID=Heinz-126-1+I+TNL+GT
+Contig126	Curated	mRNA	2863	7920	.	+	.	ID=Heinz-126-1+I+TNL+GT
+Contig126	Curated	exon	2863	3377	.	+	.	ID=Heinz-126-1+I+TNL+GT
+Contig126	Curated	exon	3566	4643	.	+	.	ID=Heinz-126-1+I+TNL+GT
+Contig126	Curated	exon	5516	5677	.	+	.	ID=Heinz-126-1+I+TNL+GT
+Contig126	Curated	exon	5782	7920	.	+	.	ID=Heinz-126-1+I+TNL+GT
+Contig126	Curated	CDS	2863	3377	.	+	0	ID=Heinz-126-1+I+TNL+GT
+Contig126	Curated	CDS	3566	4643	.	+	1	ID=Heinz-126-1+I+TNL+GT
+Contig126	Curated	CDS	5516	5677	.	+	0	ID=Heinz-126-1+I+TNL+GT
+Contig126	Curated	CDS	5782	7920	.	+	0	ID=Heinz-126-1+I+TNL+GT
+ 
+Contig127	Curated	gene	2908	4834	.	-	.	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	mRNA	2908	4834	.	-	.	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	exon	2908	3402	.	-	.	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	exon	3514	3693	.	-	.	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	exon	3876	4181	.	-	.	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	exon	4283	4566	.	-	.	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	exon	4735	4834	.	-	.	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	CDS	2908	3402	.	-	0	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	CDS	3514	3693	.	-	0	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	CDS	3876	4181	.	-	0	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	CDS	4283	4566	.	-	2	ID=Heinz-127-1+P+NL+NA
+Contig127	Curated	CDS	4735	4834	.	-	0	ID=Heinz-127-1+P+NL+NA
+ 
+Contig128	Curated	gene	4022	6688	.	+	.	ID=Heinz-128-1+I+CNL+G9
+Contig128	Curated	mRNA	4022	6688	.	+	.	ID=Heinz-128-1+I+CNL+G9
+Contig128	Curated	exon	4022	6688	.	+	.	ID=Heinz-128-1+I+CNL+G9
+Contig128	Curated	CDS	4022	6688	.	+	0	ID=Heinz-128-1+I+CNL+G9
+ 
+Contig129	Curated	gene	3277	7154	.	+	.	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	mRNA	3277	7154	.	+	.	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	exon	3277	3784	.	+	.	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	exon	5535	5619	.	+	.	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	exon	5698	5889	.	+	.	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	exon	5904	6004	.	+	.	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	exon	6019	6746	.	+	.	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	exon	6773	6988	.	+	.	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	exon	7062	7154	.	+	.	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	CDS	3277	3784	.	+	0	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	CDS	5535	5619	.	+	2	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	CDS	5698	5889	.	+	1	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	CDS	5904	6004	.	+	1	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	CDS	6019	6746	.	+	2	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	CDS	6773	6988	.	+	0	ID=Heinz-129-1+I+CN+G1
+Contig129	Curated	CDS	7062	7154	.	+	0	ID=Heinz-129-1+I+CN+G1
+ 
+Contig130	Curated	gene	9126	9989	.	+	.	ID=Heinz-130-1+P+CN+G10
+Contig130	Curated	mRNA	9126	9989	.	+	.	ID=Heinz-130-1+P+CN+G10
+Contig130	Curated	exon	9126	9989	.	+	.	ID=Heinz-130-1+P+CN+G10
+Contig130	Curated	CDS	9126	9989	.	+	0	ID=Heinz-130-1+P+CN+G10
+ 
+Contig131	Curated	gene	3866	7498	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	mRNA	3866	7498	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	exon	3866	4048	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	exon	4219	4472	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	exon	4557	4850	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	exon	4952	5081	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	exon	5143	5471	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	exon	6033	6233	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	exon	6536	7095	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	exon	7275	7498	.	+	.	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	CDS	3866	4048	.	+	0	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	CDS	4219	4472	.	+	0	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	CDS	4557	4850	.	+	1	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	CDS	4952	5081	.	+	1	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	CDS	5143	5471	.	+	0	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	CDS	6033	6233	.	+	1	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	CDS	6536	7095	.	+	1	ID=Heinz-131-1+P+CNL+G13
+Contig131	Curated	CDS	7275	7498	.	+	2	ID=Heinz-131-1+P+CNL+G13
+ 
+Contig132	Curated	gene	5999	8914	.	-	.	ID=Heinz-132-1+I+CNL+G15
+Contig132	Curated	mRNA	5999	8914	.	-	.	ID=Heinz-132-1+I+CNL+G15
+Contig132	Curated	exon	5999	8914	.	-	.	ID=Heinz-132-1+I+CNL+G15
+Contig132	Curated	CDS	5999	8914	.	-	0	ID=Heinz-132-1+I+CNL+G15
+ 
+Contig133	Curated	gene	3313	7978	.	+	.	ID=Heinz-133-1+I+CN+G1
+Contig133	Curated	mRNA	3313	7978	.	+	.	ID=Heinz-133-1+I+CN+G1
+Contig133	Curated	exon	3313	3369	.	+	.	ID=Heinz-133-1+I+CN+G1
+Contig133	Curated	exon	4322	4886	.	+	.	ID=Heinz-133-1+I+CN+G1
+Contig133	Curated	exon	4929	7978	.	+	.	ID=Heinz-133-1+I+CN+G1
+Contig133	Curated	CDS	3313	3369	.	+	0	ID=Heinz-133-1+I+CN+G1
+Contig133	Curated	CDS	4322	4886	.	+	0	ID=Heinz-133-1+I+CN+G1
+Contig133	Curated	CDS	4929	7978	.	+	2	ID=Heinz-133-1+I+CN+G1
+ 
+Contig134	Curated	gene	4107	6746	.	-	.	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	mRNA	4107	6746	.	-	.	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	exon	4107	4508	.	-	.	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	exon	4676	4862	.	-	.	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	exon	4872	5015	.	-	.	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	exon	5340	6001	.	-	.	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	exon	6045	6242	.	-	.	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	exon	6248	6597	.	-	.	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	exon	6632	6746	.	-	.	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	CDS	4107	4508	.	-	0	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	CDS	4676	4862	.	-	1	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	CDS	4872	5015	.	-	1	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	CDS	5340	6001	.	-	0	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	CDS	6045	6242	.	-	0	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	CDS	6248	6597	.	-	2	ID=Heinz-134-1+I+NL+G10
+Contig134	Curated	CDS	6632	6746	.	-	0	ID=Heinz-134-1+I+NL+G10
+ 
+Contig135	Curated	gene	5469	6353	.	-	.	ID=Heinz-135-1+P+N+G6
+Contig135	Curated	mRNA	5469	6353	.	-	.	ID=Heinz-135-1+P+N+G6
+Contig135	Curated	exon	5469	5720	.	-	.	ID=Heinz-135-1+P+N+G6
+Contig135	Curated	exon	5779	6240	.	-	.	ID=Heinz-135-1+P+N+G6
+Contig135	Curated	exon	6327	6353	.	-	.	ID=Heinz-135-1+P+N+G6
+Contig135	Curated	CDS	5469	5720	.	-	0	ID=Heinz-135-1+P+N+G6
+Contig135	Curated	CDS	5779	6240	.	-	0	ID=Heinz-135-1+P+N+G6
+Contig135	Curated	CDS	6327	6353	.	-	0	ID=Heinz-135-1+P+N+G6
+ 
+Contig136	Curated	gene	8316	8941	.	-	.	ID=Heinz-136-1+P+N+G10
+Contig136	Curated	mRNA	8316	8941	.	-	.	ID=Heinz-136-1+P+N+G10
+Contig136	Curated	exon	8316	8477	.	-	.	ID=Heinz-136-1+P+N+G10
+Contig136	Curated	exon	8491	8759	.	-	.	ID=Heinz-136-1+P+N+G10
+Contig136	Curated	exon	8788	8941	.	-	.	ID=Heinz-136-1+P+N+G10
+Contig136	Curated	CDS	8316	8477	.	-	0	ID=Heinz-136-1+P+N+G10
+Contig136	Curated	CDS	8491	8759	.	-	2	ID=Heinz-136-1+P+N+G10
+Contig136	Curated	CDS	8788	8941	.	-	0	ID=Heinz-136-1+P+N+G10
+ 
+Contig137	Curated	gene	4765	6221	.	+	.	ID=Heinz-137-1+P+NL+G9
+Contig137	Curated	mRNA	4765	6221	.	+	.	ID=Heinz-137-1+P+NL+G9
+Contig137	Curated	exon	4765	5446	.	+	.	ID=Heinz-137-1+P+NL+G9
+Contig137	Curated	exon	5581	5928	.	+	.	ID=Heinz-137-1+P+NL+G9
+Contig137	Curated	exon	6010	6221	.	+	.	ID=Heinz-137-1+P+NL+G9
+Contig137	Curated	CDS	4765	5446	.	+	0	ID=Heinz-137-1+P+NL+G9
+Contig137	Curated	CDS	5581	5928	.	+	2	ID=Heinz-137-1+P+NL+G9
+Contig137	Curated	CDS	6010	6221	.	+	2	ID=Heinz-137-1+P+NL+G9
+ 
+Contig138	Curated	gene	4129	8306	.	+	.	ID=Heinz-138-1+I+TNL+GT
+Contig138	Curated	mRNA	4129	8306	.	+	.	ID=Heinz-138-1+I+TNL+GT
+Contig138	Curated	exon	4129	4625	.	+	.	ID=Heinz-138-1+I+TNL+GT
+Contig138	Curated	exon	5205	6300	.	+	.	ID=Heinz-138-1+I+TNL+GT
+Contig138	Curated	exon	6376	7713	.	+	.	ID=Heinz-138-1+I+TNL+GT
+Contig138	Curated	exon	7794	8306	.	+	.	ID=Heinz-138-1+I+TNL+GT
+Contig138	Curated	CDS	4129	4625	.	+	0	ID=Heinz-138-1+I+TNL+GT
+Contig138	Curated	CDS	5205	6300	.	+	1	ID=Heinz-138-1+I+TNL+GT
+Contig138	Curated	CDS	6376	7713	.	+	0	ID=Heinz-138-1+I+TNL+GT
+Contig138	Curated	CDS	7794	8306	.	+	0	ID=Heinz-138-1+I+TNL+GT
+ 
+Contig139	Curated	gene	3483	7530	.	+	.	ID=Heinz-139-1+I+CNL+G8
+Contig139	Curated	mRNA	3483	7530	.	+	.	ID=Heinz-139-1+I+CNL+G8
+Contig139	Curated	exon	3483	3926	.	+	.	ID=Heinz-139-1+I+CNL+G8
+Contig139	Curated	exon	5425	7530	.	+	.	ID=Heinz-139-1+I+CNL+G8
+Contig139	Curated	CDS	3483	3926	.	+	0	ID=Heinz-139-1+I+CNL+G8
+Contig139	Curated	CDS	5425	7530	.	+	0	ID=Heinz-139-1+I+CNL+G8
+Contig140	Curated	gene	5577	6006	.	-	.	ID=Heinz-140-1+P+N+G9
+Contig140	Curated	mRNA	5577	6006	.	-	.	ID=Heinz-140-1+P+N+G9
+Contig140	Curated	exon	5577	5638	.	-	.	ID=Heinz-140-1+P+N+G9
+Contig140	Curated	exon	5670	6006	.	-	.	ID=Heinz-140-1+P+N+G9
+Contig140	Curated	CDS	5577	5638	.	-	2	ID=Heinz-140-1+P+N+G9
+Contig140	Curated	CDS	5670	6006	.	-	0	ID=Heinz-140-1+P+N+G9
+ 
+Contig141	Curated	gene	6037	7966	.	-	.	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	mRNA	6037	7966	.	-	.	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	exon	6037	6159	.	-	.	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	exon	6272	6351	.	-	.	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	exon	6446	7289	.	-	.	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	exon	7586	7785	.	-	.	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	exon	7885	7966	.	-	.	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	CDS	6037	6159	.	-	0	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	CDS	6272	6351	.	-	2	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	CDS	6446	7289	.	-	0	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	CDS	7586	7785	.	-	2	ID=Heinz-141-1+P+TN+GT
+Contig141	Curated	CDS	7885	7966	.	-	0	ID=Heinz-141-1+P+TN+GT
+ 
+Contig142	Curated	gene	5756	9114	.	-	.	ID=Heinz-142-1+I+CNL+G1
+Contig142	Curated	mRNA	5756	9114	.	-	.	ID=Heinz-142-1+I+CNL+G1
+Contig142	Curated	exon	5756	7029	.	-	.	ID=Heinz-142-1+I+CNL+G1
+Contig142	Curated	exon	7091	8498	.	-	.	ID=Heinz-142-1+I+CNL+G1
+Contig142	Curated	exon	8545	9114	.	-	.	ID=Heinz-142-1+I+CNL+G1
+Contig142	Curated	CDS	5756	7029	.	-	2	ID=Heinz-142-1+I+CNL+G1
+Contig142	Curated	CDS	7091	8498	.	-	0	ID=Heinz-142-1+I+CNL+G1
+Contig142	Curated	CDS	8545	9114	.	-	0	ID=Heinz-142-1+I+CNL+G1
+ 
+Contig143	Curated	gene	2779	6588	.	+	.	ID=Heinz-143-1+I+CNL+G1
+Contig143	Curated	mRNA	2779	6588	.	+	.	ID=Heinz-143-1+I+CNL+G1
+Contig143	Curated	exon	2779	2820	.	+	.	ID=Heinz-143-1+I+CNL+G1
+Contig143	Curated	exon	2896	6588	.	+	.	ID=Heinz-143-1+I+CNL+G1
+Contig143	Curated	CDS	2779	2820	.	+	0	ID=Heinz-143-1+I+CNL+G1
+Contig143	Curated	CDS	2896	6588	.	+	0	ID=Heinz-143-1+I+CNL+G1
+ 
+Contig144	Curated	gene	3419	6122	.	-	.	ID=Heinz-144-1+I+CNL+NG
+Contig144	Curated	mRNA	3419	6122	.	-	.	ID=Heinz-144-1+I+CNL+NG
+Contig144	Curated	exon	3419	4867	.	-	.	ID=Heinz-144-1+I+CNL+NG
+Contig144	Curated	exon	4874	5244	.	-	.	ID=Heinz-144-1+I+CNL+NG
+Contig144	Curated	exon	5405	6122	.	-	.	ID=Heinz-144-1+I+CNL+NG
+Contig144	Curated	CDS	3419	4867	.	-	0	ID=Heinz-144-1+I+CNL+NG
+Contig144	Curated	CDS	4874	5244	.	-	2	ID=Heinz-144-1+I+CNL+NG
+Contig144	Curated	CDS	5405	6122	.	-	0	ID=Heinz-144-1+I+CNL+NG
+ 
+Contig145	Curated	gene	3279	6568	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	mRNA	3279	6568	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	3279	3463	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	3555	3589	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	3652	3792	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	3833	4000	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	4047	4063	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	4072	5038	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	5114	5655	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	5687	5954	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	6030	6451	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	exon	6503	6568	.	-	.	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	3279	3463	.	-	2	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	3555	3589	.	-	1	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	3652	3792	.	-	1	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	3833	4000	.	-	1	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	4047	4063	.	-	0	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	4072	5038	.	-	1	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	5114	5655	.	-	0	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	5687	5954	.	-	1	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	6030	6451	.	-	0	ID=Heinz-145-1+P+CN+NA
+Contig145	Curated	CDS	6503	6568	.	-	0	ID=Heinz-145-1+P+CN+NA
+ 
+Contig146	Curated	gene	1369	3900	.	+	.	ID=Heinz-146-1+I+CNL+G14
+Contig146	Curated	mRNA	1369	3900	.	+	.	ID=Heinz-146-1+I+CNL+G14
+Contig146	Curated	exon	1369	3900	.	+	.	ID=Heinz-146-1+I+CNL+G14
+Contig146	Curated	CDS	1369	3900	.	+	0	ID=Heinz-146-1+I+CNL+G14
+ 
+Contig146	Curated	gene	6899	7871	.	+	.	ID=Heinz-146-2+P+N+G14
+Contig146	Curated	mRNA	6899	7871	.	+	.	ID=Heinz-146-2+P+N+G14
+Contig146	Curated	exon	6899	7061	.	+	.	ID=Heinz-146-2+P+N+G14
+Contig146	Curated	exon	7134	7521	.	+	.	ID=Heinz-146-2+P+N+G14
+Contig146	Curated	exon	7542	7686	.	+	.	ID=Heinz-146-2+P+N+G14
+Contig146	Curated	exon	7734	7871	.	+	.	ID=Heinz-146-2+P+N+G14
+Contig146	Curated	CDS	6899	7061	.	+	0	ID=Heinz-146-2+P+N+G14
+Contig146	Curated	CDS	7134	7521	.	+	2	ID=Heinz-146-2+P+N+G14
+Contig146	Curated	CDS	7542	7686	.	+	1	ID=Heinz-146-2+P+N+G14
+Contig146	Curated	CDS	7734	7871	.	+	0	ID=Heinz-146-2+P+N+G14
+ 
+Contig147	Curated	gene	5564	8988	.	-	.	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	mRNA	5564	8988	.	-	.	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	exon	5564	5843	.	-	.	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	exon	5888	6897	.	-	.	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	exon	6909	7567	.	-	.	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	exon	7622	8276	.	-	.	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	exon	8307	8522	.	-	.	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	exon	8644	8988	.	-	.	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	CDS	5564	5843	.	-	1	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	CDS	5888	6897	.	-	0	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	CDS	6909	7567	.	-	2	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	CDS	7622	8276	.	-	0	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	CDS	8307	8522	.	-	0	ID=Heinz-147-1+I+CNL+G4
+Contig147	Curated	CDS	8644	8988	.	-	0	ID=Heinz-147-1+I+CNL+G4
+ 
+Contig148	Curated	gene	3258	5122	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	mRNA	3258	5122	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	exon	3258	3500	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	exon	3640	3852	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	exon	3870	3979	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	exon	4028	4150	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	exon	4215	4313	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	exon	4412	4586	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	exon	4622	4761	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	exon	4834	5122	.	-	.	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	CDS	3258	3500	.	-	0	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	CDS	3640	3852	.	-	0	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	CDS	3870	3979	.	-	2	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	CDS	4028	4150	.	-	2	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	CDS	4215	4313	.	-	2	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	CDS	4412	4586	.	-	0	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	CDS	4622	4761	.	-	2	ID=Heinz-148-1+I+CN+G4
+Contig148	Curated	CDS	4834	5122	.	-	0	ID=Heinz-148-1+I+CN+G4
+ 
+Contig149	Curated	gene	4287	8101	.	+	.	ID=Heinz-149-1+I+CNL+G4
+Contig149	Curated	mRNA	4287	8101	.	+	.	ID=Heinz-149-1+I+CNL+G4
+Contig149	Curated	exon	4287	7361	.	+	.	ID=Heinz-149-1+I+CNL+G4
+Contig149	Curated	exon	7367	8101	.	+	.	ID=Heinz-149-1+I+CNL+G4
+Contig149	Curated	CDS	4287	7361	.	+	0	ID=Heinz-149-1+I+CNL+G4
+Contig149	Curated	CDS	7367	8101	.	+	0	ID=Heinz-149-1+I+CNL+G4
+ 
+Contig150	Curated	gene	1216	1623	.	-	.	ID=Heinz-150-1+P+N+G13
+Contig150	Curated	mRNA	1216	1623	.	-	.	ID=Heinz-150-1+P+N+G13
+Contig150	Curated	exon	1216	1623	.	-	.	ID=Heinz-150-1+P+N+G13
+Contig150	Curated	CDS	1216	1623	.	-	0	ID=Heinz-150-1+P+N+G13
+ 
+Contig151	Curated	gene	3561	7899	.	+	.	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	mRNA	3561	7899	.	+	.	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	exon	3561	4009	.	+	.	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	exon	4350	5451	.	+	.	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	exon	5616	6050	.	+	.	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	exon	6140	7087	.	+	.	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	exon	7180	7899	.	+	.	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	CDS	3561	4009	.	+	0	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	CDS	4350	5451	.	+	1	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	CDS	5616	6050	.	+	0	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	CDS	6140	7087	.	+	0	ID=Heinz-151-1+I+TNL+GT
+Contig151	Curated	CDS	7180	7899	.	+	0	ID=Heinz-151-1+I+TNL+GT
+ 
+Contig152	Curated	gene	3409	7434	.	-	.	ID=Heinz-152-1+I+CNL+G4
+Contig152	Curated	mRNA	3409	7434	.	-	.	ID=Heinz-152-1+I+CNL+G4
+Contig152	Curated	exon	3409	7434	.	-	.	ID=Heinz-152-1+I+CNL+G4
+Contig152	Curated	CDS	3409	7434	.	-	0	ID=Heinz-152-1+I+CNL+G4
+ 
+Contig153	Curated	gene	3054	6665	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	mRNA	3054	6665	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	3054	3504	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	3534	4133	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	4319	4563	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	4612	4682	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	4831	5004	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	5074	5346	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	5504	5599	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	5686	6037	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	6092	6313	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	exon	6483	6665	.	-	.	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	3054	3504	.	-	1	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	3534	4133	.	-	1	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	4319	4563	.	-	0	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	4612	4682	.	-	2	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	4831	5004	.	-	2	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	5074	5346	.	-	2	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	5504	5599	.	-	2	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	5686	6037	.	-	0	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	6092	6313	.	-	0	ID=Heinz-153-1+P+CNL+G13
+Contig153	Curated	CDS	6483	6665	.	-	0	ID=Heinz-153-1+P+CNL+G13
+ 
+Contig154	Curated	gene	4909	5196	.	+	.	ID=Heinz-154-1+P+N+G14
+Contig154	Curated	mRNA	4909	5196	.	+	.	ID=Heinz-154-1+P+N+G14
+Contig154	Curated	exon	4909	5196	.	+	.	ID=Heinz-154-1+P+N+G14
+Contig154	Curated	CDS	4909	5196	.	+	0	ID=Heinz-154-1+P+N+G14
+ 
+Contig156	Curated	gene	4515	8493	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	mRNA	4515	8493	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	4515	4543	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	4756	5311	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	5394	5735	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	5915	6227	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	6388	6422	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	6541	6861	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	6994	7214	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	7313	7429	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	7766	7856	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	exon	8080	8493	.	-	.	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	4515	4543	.	-	2	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	4756	5311	.	-	0	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	5394	5735	.	-	0	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	5915	6227	.	-	1	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	6388	6422	.	-	0	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	6541	6861	.	-	0	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	6994	7214	.	-	2	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	7313	7429	.	-	2	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	7766	7856	.	-	0	ID=Heinz-156-1+P+CNL+G7
+Contig156	Curated	CDS	8080	8493	.	-	0	ID=Heinz-156-1+P+CNL+G7
+ 
+Contig157	Curated	gene	4473	8222	.	-	.	ID=Heinz-157-1+I+CNL+G3
+Contig157	Curated	mRNA	4473	8222	.	-	.	ID=Heinz-157-1+I+CNL+G3
+Contig157	Curated	exon	4473	5550	.	-	.	ID=Heinz-157-1+I+CNL+G3
+Contig157	Curated	exon	5635	8222	.	-	.	ID=Heinz-157-1+I+CNL+G3
+Contig157	Curated	CDS	4473	5550	.	-	1	ID=Heinz-157-1+I+CNL+G3
+Contig157	Curated	CDS	5635	8222	.	-	0	ID=Heinz-157-1+I+CNL+G3
+ 
+Contig158	Curated	gene	3615	5315	.	-	.	ID=Heinz-158-1+I+NL+G1
+Contig158	Curated	mRNA	3615	5315	.	-	.	ID=Heinz-158-1+I+NL+G1
+Contig158	Curated	exon	3615	5315	.	-	.	ID=Heinz-158-1+I+NL+G1
+Contig158	Curated	CDS	3615	5315	.	-	0	ID=Heinz-158-1+I+NL+G1
+ 
+Contig159	Curated	gene	3914	4893	.	+	.	ID=Heinz-159-1+P+N+NA
+Contig159	Curated	mRNA	3914	4893	.	+	.	ID=Heinz-159-1+P+N+NA
+Contig159	Curated	exon	3914	3955	.	+	.	ID=Heinz-159-1+P+N+NA
+Contig159	Curated	exon	4174	4359	.	+	.	ID=Heinz-159-1+P+N+NA
+Contig159	Curated	exon	4478	4645	.	+	.	ID=Heinz-159-1+P+N+NA
+Contig159	Curated	exon	4678	4893	.	+	.	ID=Heinz-159-1+P+N+NA
+Contig159	Curated	CDS	3914	3955	.	+	0	ID=Heinz-159-1+P+N+NA
+Contig159	Curated	CDS	4174	4359	.	+	0	ID=Heinz-159-1+P+N+NA
+Contig159	Curated	CDS	4478	4645	.	+	0	ID=Heinz-159-1+P+N+NA
+Contig159	Curated	CDS	4678	4893	.	+	0	ID=Heinz-159-1+P+N+NA
+ 
+Contig160	Curated	gene	4125	6848	.	-	.	ID=Heinz-160-1+I+CNL+G15
+Contig160	Curated	mRNA	4125	6848	.	-	.	ID=Heinz-160-1+I+CNL+G15
+Contig160	Curated	exon	4125	6848	.	-	.	ID=Heinz-160-1+I+CNL+G15
+Contig160	Curated	CDS	4125	6848	.	-	0	ID=Heinz-160-1+I+CNL+G15
+ 
+Contig161	Curated	gene	4072	6598	.	+	.	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	mRNA	4072	6598	.	+	.	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	exon	4072	4354	.	+	.	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	exon	4478	4638	.	+	.	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	exon	4942	5479	.	+	.	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	exon	5788	6218	.	+	.	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	exon	6515	6598	.	+	.	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	CDS	4072	4354	.	+	0	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	CDS	4478	4638	.	+	2	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	CDS	4942	5479	.	+	0	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	CDS	5788	6218	.	+	2	ID=Heinz-161-1+P+CN+G1
+Contig161	Curated	CDS	6515	6598	.	+	0	ID=Heinz-161-1+P+CN+G1
+ 
+Contig162	Curated	gene	2649	4642	.	+	.	ID=Heinz-162-1+P+CN+NA
+Contig162	Curated	mRNA	2649	4642	.	+	.	ID=Heinz-162-1+P+CN+NA
+Contig162	Curated	exon	2649	2682	.	+	.	ID=Heinz-162-1+P+CN+NA
+Contig162	Curated	exon	3362	3472	.	+	.	ID=Heinz-162-1+P+CN+NA
+Contig162	Curated	exon	3491	4092	.	+	.	ID=Heinz-162-1+P+CN+NA
+Contig162	Curated	exon	4223	4642	.	+	.	ID=Heinz-162-1+P+CN+NA
+Contig162	Curated	CDS	2649	2682	.	+	0	ID=Heinz-162-1+P+CN+NA
+Contig162	Curated	CDS	3362	3472	.	+	2	ID=Heinz-162-1+P+CN+NA
+Contig162	Curated	CDS	3491	4092	.	+	2	ID=Heinz-162-1+P+CN+NA
+Contig162	Curated	CDS	4223	4642	.	+	0	ID=Heinz-162-1+P+CN+NA
+ 
+Contig163	Curated	gene	5032	7150	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	mRNA	5032	7150	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	5032	5140	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	5381	5558	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	5616	5838	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	5867	5933	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	6017	6447	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	6459	6522	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	6531	6650	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	6686	6822	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	6894	7031	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	exon	7046	7150	.	-	.	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	5032	5140	.	-	1	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	5381	5558	.	-	2	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	5616	5838	.	-	0	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	5867	5933	.	-	1	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	6017	6447	.	-	0	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	6459	6522	.	-	1	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	6531	6650	.	-	1	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	6686	6822	.	-	0	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	6894	7031	.	-	0	ID=Heinz-163-1+I+CN+G4
+Contig163	Curated	CDS	7046	7150	.	-	0	ID=Heinz-163-1+I+CN+G4
+ 
+Contig164	Curated	gene	2756	5221	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	mRNA	2756	5221	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	exon	2756	2940	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	exon	2965	3097	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	exon	3192	3719	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	exon	3738	4011	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	exon	4017	4144	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	exon	4677	4950	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	exon	4968	5082	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	exon	5173	5221	.	-	.	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	CDS	2756	2940	.	-	2	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	CDS	2965	3097	.	-	0	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	CDS	3192	3719	.	-	0	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	CDS	3738	4011	.	-	1	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	CDS	4017	4144	.	-	0	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	CDS	4677	4950	.	-	1	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	CDS	4968	5082	.	-	2	ID=Heinz-164-1+I+TN+GT
+Contig164	Curated	CDS	5173	5221	.	-	0	ID=Heinz-164-1+I+TN+GT
+ 
+Contig166	Curated	gene	2749	3991	.	-	.	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	mRNA	2749	3991	.	-	.	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	exon	2749	2910	.	-	.	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	exon	3044	3254	.	-	.	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	exon	3296	3349	.	-	.	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	exon	3405	3484	.	-	.	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	exon	3491	3691	.	-	.	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	exon	3824	3991	.	-	.	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	CDS	2749	2910	.	-	0	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	CDS	3044	3254	.	-	1	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	CDS	3296	3349	.	-	1	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	CDS	3405	3484	.	-	0	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	CDS	3491	3691	.	-	0	ID=Heinz-166-1+P+N+G9
+Contig166	Curated	CDS	3824	3991	.	-	0	ID=Heinz-166-1+P+N+G9
+ 
+Contig167	Curated	gene	4530	6052	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	mRNA	4530	6052	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	exon	4530	4799	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	exon	4814	5012	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	exon	5054	5192	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	exon	5201	5281	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	exon	5363	5512	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	exon	5534	5675	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	exon	5744	5854	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	exon	5894	6052	.	+	.	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	CDS	4530	4799	.	+	0	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	CDS	4814	5012	.	+	0	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	CDS	5054	5192	.	+	2	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	CDS	5201	5281	.	+	1	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	CDS	5363	5512	.	+	1	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	CDS	5534	5675	.	+	1	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	CDS	5744	5854	.	+	0	ID=Heinz-167-1+P+N+G4
+Contig167	Curated	CDS	5894	6052	.	+	0	ID=Heinz-167-1+P+N+G4
+ 
+Contig168	Curated	gene	2748	2961	.	-	.	ID=Heinz-168-1+P+N+NA
+Contig168	Curated	mRNA	2748	2961	.	-	.	ID=Heinz-168-1+P+N+NA
+Contig168	Curated	exon	2748	2873	.	-	.	ID=Heinz-168-1+P+N+NA
+Contig168	Curated	exon	2881	2961	.	-	.	ID=Heinz-168-1+P+N+NA
+Contig168	Curated	CDS	2748	2873	.	-	0	ID=Heinz-168-1+P+N+NA
+Contig168	Curated	CDS	2881	2961	.	-	0	ID=Heinz-168-1+P+N+NA
+ 
+Contig168	Curated	gene	3581	3781	.	+	.	ID=Heinz-168-2+P+N+G13
+Contig168	Curated	mRNA	3581	3781	.	+	.	ID=Heinz-168-2+P+N+G13
+Contig168	Curated	exon	3581	3781	.	+	.	ID=Heinz-168-2+P+N+G13
+Contig168	Curated	CDS	3581	3781	.	+	0	ID=Heinz-168-2+P+N+G13
+ 
+Contig169	Curated	gene	3194	8684	.	+	.	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	mRNA	3194	8684	.	+	.	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	exon	3194	3225	.	+	.	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	exon	3411	4518	.	+	.	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	exon	5137	5520	.	+	.	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	exon	6477	8075	.	+	.	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	exon	8166	8684	.	+	.	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	CDS	3194	3225	.	+	0	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	CDS	3411	4518	.	+	1	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	CDS	5137	5520	.	+	0	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	CDS	6477	8075	.	+	0	ID=Heinz-169-1+I+NL+GT
+Contig169	Curated	CDS	8166	8684	.	+	0	ID=Heinz-169-1+I+NL+GT
+ 
+Contig170	Curated	gene	3516	6320	.	-	.	ID=Heinz-170-1+I+CNL+NG
+Contig170	Curated	mRNA	3516	6320	.	-	.	ID=Heinz-170-1+I+CNL+NG
+Contig170	Curated	exon	3516	6320	.	-	.	ID=Heinz-170-1+I+CNL+NG
+Contig170	Curated	CDS	3516	6320	.	-	0	ID=Heinz-170-1+I+CNL+NG
+ 
+Contig171	Curated	gene	1214	4329	.	+	.	ID=Heinz-171-1+I+CNL+G8
+Contig171	Curated	mRNA	1214	4329	.	+	.	ID=Heinz-171-1+I+CNL+G8
+Contig171	Curated	exon	1214	1651	.	+	.	ID=Heinz-171-1+I+CNL+G8
+Contig171	Curated	exon	2110	4329	.	+	.	ID=Heinz-171-1+I+CNL+G8
+Contig171	Curated	CDS	1214	1651	.	+	0	ID=Heinz-171-1+I+CNL+G8
+Contig171	Curated	CDS	2110	4329	.	+	0	ID=Heinz-171-1+I+CNL+G8
+ 
+Contig172	Curated	gene	6308	10868	.	-	.	ID=Heinz-172-1+I+CNL+G1
+Contig172	Curated	mRNA	6308	10868	.	-	.	ID=Heinz-172-1+I+CNL+G1
+Contig172	Curated	exon	10812	10868	.	-	.	ID=Heinz-172-1+I+CNL+G1
+Contig172	Curated	exon	6308	10033	.	-	.	ID=Heinz-172-1+I+CNL+G1
+Contig172	Curated	CDS	10812	10868	.	-	0	ID=Heinz-172-1+I+CNL+G1
+Contig172	Curated	CDS	6308	10033	.	-	0	ID=Heinz-172-1+I+CNL+G1
+ 
+Contig173	Curated	gene	3925	7713	.	-	.	ID=Heinz-173-1+I+TNL+GT
+Contig173	Curated	mRNA	3925	7713	.	-	.	ID=Heinz-173-1+I+TNL+GT
+Contig173	Curated	exon	3925	4422	.	-	.	ID=Heinz-173-1+I+TNL+GT
+Contig173	Curated	exon	4549	5919	.	-	.	ID=Heinz-173-1+I+TNL+GT
+Contig173	Curated	exon	6016	7108	.	-	.	ID=Heinz-173-1+I+TNL+GT
+Contig173	Curated	exon	7211	7713	.	-	.	ID=Heinz-173-1+I+TNL+GT
+Contig173	Curated	CDS	3925	4422	.	-	0	ID=Heinz-173-1+I+TNL+GT
+Contig173	Curated	CDS	4549	5919	.	-	0	ID=Heinz-173-1+I+TNL+GT
+Contig173	Curated	CDS	6016	7108	.	-	1	ID=Heinz-173-1+I+TNL+GT
+Contig173	Curated	CDS	7211	7713	.	-	0	ID=Heinz-173-1+I+TNL+GT
+ 
+Contig174	Curated	gene	3942	4079	.	+	.	ID=Heinz-174-1+P+N+G6
+Contig174	Curated	mRNA	3942	4079	.	+	.	ID=Heinz-174-1+P+N+G6
+Contig174	Curated	exon	3942	4079	.	+	.	ID=Heinz-174-1+P+N+G6
+Contig174	Curated	CDS	3942	4079	.	+	0	ID=Heinz-174-1+P+N+G6
+ 
+Contig175	Curated	gene	3348	5747	.	-	.	ID=Heinz-175-1+I+NL+NG
+Contig175	Curated	mRNA	3348	5747	.	-	.	ID=Heinz-175-1+I+NL+NG
+Contig175	Curated	exon	3348	4497	.	-	.	ID=Heinz-175-1+I+NL+NG
+Contig175	Curated	exon	4660	5747	.	-	.	ID=Heinz-175-1+I+NL+NG
+Contig175	Curated	CDS	3348	4497	.	-	1	ID=Heinz-175-1+I+NL+NG
+Contig175	Curated	CDS	4660	5747	.	-	0	ID=Heinz-175-1+I+NL+NG
+ 
+Contig176	Curated	gene	5397	5672	.	+	.	ID=Heinz-176-1+P+N+G14
+Contig176	Curated	mRNA	5397	5672	.	+	.	ID=Heinz-176-1+P+N+G14
+Contig176	Curated	exon	5397	5672	.	+	.	ID=Heinz-176-1+P+N+G14
+Contig176	Curated	CDS	5397	5672	.	+	0	ID=Heinz-176-1+P+N+G14
+ 
+Contig177	Curated	gene	4311	6076	.	-	.	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	mRNA	4311	6076	.	-	.	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	exon	4311	4578	.	-	.	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	exon	4723	4950	.	-	.	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	exon	4964	5047	.	-	.	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	exon	5099	5326	.	-	.	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	exon	5541	5809	.	-	.	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	exon	6008	6076	.	-	.	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	CDS	4311	4578	.	-	1	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	CDS	4723	4950	.	-	1	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	CDS	4964	5047	.	-	1	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	CDS	5099	5326	.	-	1	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	CDS	5541	5809	.	-	0	ID=Heinz-177-1+P+CN+G14
+Contig177	Curated	CDS	6008	6076	.	-	0	ID=Heinz-177-1+P+CN+G14
+ 
+Contig178	Curated	gene	3735	5492	.	+	.	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	mRNA	3735	5492	.	+	.	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	exon	3735	3897	.	+	.	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	exon	3959	4036	.	+	.	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	exon	4077	4163	.	+	.	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	exon	4910	5078	.	+	.	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	exon	5123	5272	.	+	.	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	exon	5309	5492	.	+	.	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	CDS	3735	3897	.	+	0	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	CDS	3959	4036	.	+	2	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	CDS	4077	4163	.	+	2	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	CDS	4910	5078	.	+	2	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	CDS	5123	5272	.	+	1	ID=Heinz-178-1+P+TN+NA
+Contig178	Curated	CDS	5309	5492	.	+	1	ID=Heinz-178-1+P+TN+NA
+ 
+Contig179	Curated	gene	391	2913	.	+	.	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	mRNA	391	2913	.	+	.	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	exon	1463	2070	.	+	.	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	exon	2117	2514	.	+	.	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	exon	2538	2913	.	+	.	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	exon	391	423	.	+	.	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	exon	428	723	.	+	.	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	exon	799	970	.	+	.	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	exon	980	1418	.	+	.	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	CDS	1463	2070	.	+	2	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	CDS	2117	2514	.	+	0	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	CDS	2538	2913	.	+	1	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	CDS	391	423	.	+	0	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	CDS	428	723	.	+	0	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	CDS	799	970	.	+	1	ID=Heinz-179-1+I+CNL+NG
+Contig179	Curated	CDS	980	1418	.	+	0	ID=Heinz-179-1+I+CNL+NG
+ 
+Contig180	Curated	gene	4127	4420	.	+	.	ID=Heinz-180-1+P+N+G8
+Contig180	Curated	mRNA	4127	4420	.	+	.	ID=Heinz-180-1+P+N+G8
+Contig180	Curated	exon	4127	4420	.	+	.	ID=Heinz-180-1+P+N+G8
+Contig180	Curated	CDS	4127	4420	.	+	0	ID=Heinz-180-1+P+N+G8
+ 
+Contig181	Curated	gene	3439	7029	.	-	.	ID=Heinz-181-1+I+CNL+G10
+Contig181	Curated	mRNA	3439	7029	.	-	.	ID=Heinz-181-1+I+CNL+G10
+Contig181	Curated	exon	3439	7029	.	-	.	ID=Heinz-181-1+I+CNL+G10
+Contig181	Curated	CDS	3439	7029	.	-	0	ID=Heinz-181-1+I+CNL+G10
+ 
+Contig182	Curated	gene	1656	2624	.	+	.	ID=Heinz-182-1+I+N+G13
+Contig182	Curated	mRNA	1656	2624	.	+	.	ID=Heinz-182-1+I+N+G13
+Contig182	Curated	exon	1656	1705	.	+	.	ID=Heinz-182-1+I+N+G13
+Contig182	Curated	exon	1744	1998	.	+	.	ID=Heinz-182-1+I+N+G13
+Contig182	Curated	exon	2023	2173	.	+	.	ID=Heinz-182-1+I+N+G13
+Contig182	Curated	exon	2196	2624	.	+	.	ID=Heinz-182-1+I+N+G13
+Contig182	Curated	CDS	1656	1705	.	+	0	ID=Heinz-182-1+I+N+G13
+Contig182	Curated	CDS	1744	1998	.	+	1	ID=Heinz-182-1+I+N+G13
+Contig182	Curated	CDS	2023	2173	.	+	1	ID=Heinz-182-1+I+N+G13
+Contig182	Curated	CDS	2196	2624	.	+	0	ID=Heinz-182-1+I+N+G13
+ 
+Contig183	Curated	gene	2991	4277	.	-	.	ID=Heinz-183-1+P+N+NA
+Contig183	Curated	mRNA	2991	4277	.	-	.	ID=Heinz-183-1+P+N+NA
+Contig183	Curated	exon	2991	3110	.	-	.	ID=Heinz-183-1+P+N+NA
+Contig183	Curated	exon	3145	3303	.	-	.	ID=Heinz-183-1+P+N+NA
+Contig183	Curated	exon	3345	3512	.	-	.	ID=Heinz-183-1+P+N+NA
+Contig183	Curated	exon	4176	4277	.	-	.	ID=Heinz-183-1+P+N+NA
+Contig183	Curated	CDS	2991	3110	.	-	0	ID=Heinz-183-1+P+N+NA
+Contig183	Curated	CDS	3145	3303	.	-	0	ID=Heinz-183-1+P+N+NA
+Contig183	Curated	CDS	3345	3512	.	-	0	ID=Heinz-183-1+P+N+NA
+Contig183	Curated	CDS	4176	4277	.	-	0	ID=Heinz-183-1+P+N+NA
+ 
+Contig184	Curated	gene	3822	4173	.	-	.	ID=Heinz-184-1+P+N+NA
+Contig184	Curated	mRNA	3822	4173	.	-	.	ID=Heinz-184-1+P+N+NA
+Contig184	Curated	exon	3822	3962	.	-	.	ID=Heinz-184-1+P+N+NA
+Contig184	Curated	exon	4024	4173	.	-	.	ID=Heinz-184-1+P+N+NA
+Contig184	Curated	CDS	3822	3962	.	-	0	ID=Heinz-184-1+P+N+NA
+Contig184	Curated	CDS	4024	4173	.	-	0	ID=Heinz-184-1+P+N+NA
+ 
+Contig185	Curated	gene	3132	5542	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	mRNA	3132	5542	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	exon	3132	3223	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	exon	3346	3575	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	exon	3734	3828	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	exon	4362	4505	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	exon	4542	4727	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	exon	4754	4996	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	exon	5238	5295	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	exon	5325	5542	.	+	.	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	CDS	3132	3223	.	+	0	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	CDS	3346	3575	.	+	1	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	CDS	3734	3828	.	+	2	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	CDS	4362	4505	.	+	0	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	CDS	4542	4727	.	+	0	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	CDS	4754	4996	.	+	0	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	CDS	5238	5295	.	+	0	ID=Heinz-185-1+P+NL+NA
+Contig185	Curated	CDS	5325	5542	.	+	2	ID=Heinz-185-1+P+NL+NA
+ 
+Contig186	Curated	gene	2090	5206	.	+	.	ID=Heinz-186-1+I+CNL+NG
+Contig186	Curated	mRNA	2090	5206	.	+	.	ID=Heinz-186-1+I+CNL+NG
+Contig186	Curated	exon	2090	4999	.	+	.	ID=Heinz-186-1+I+CNL+NG
+Contig186	Curated	exon	5111	5206	.	+	.	ID=Heinz-186-1+I+CNL+NG
+Contig186	Curated	CDS	2090	4999	.	+	0	ID=Heinz-186-1+I+CNL+NG
+Contig186	Curated	CDS	5111	5206	.	+	0	ID=Heinz-186-1+I+CNL+NG
+ 
+Contig187	Curated	gene	3797	4249	.	-	.	ID=Heinz-187-1+P+N+G10
+Contig187	Curated	mRNA	3797	4249	.	-	.	ID=Heinz-187-1+P+N+G10
+Contig187	Curated	exon	3797	4249	.	-	.	ID=Heinz-187-1+P+N+G10
+Contig187	Curated	CDS	3797	4249	.	-	0	ID=Heinz-187-1+P+N+G10
+ 
+Contig188	Curated	gene	3754	6767	.	-	.	ID=Heinz-188-1+I+CNL+G9
+Contig188	Curated	mRNA	3754	6767	.	-	.	ID=Heinz-188-1+I+CNL+G9
+Contig188	Curated	exon	3754	3809	.	-	.	ID=Heinz-188-1+I+CNL+G9
+Contig188	Curated	exon	3945	6014	.	-	.	ID=Heinz-188-1+I+CNL+G9
+Contig188	Curated	exon	6251	6767	.	-	.	ID=Heinz-188-1+I+CNL+G9
+Contig188	Curated	CDS	3754	3809	.	-	2	ID=Heinz-188-1+I+CNL+G9
+Contig188	Curated	CDS	3945	6014	.	-	2	ID=Heinz-188-1+I+CNL+G9
+Contig188	Curated	CDS	6251	6767	.	-	0	ID=Heinz-188-1+I+CNL+G9
+ 
+Contig189	Curated	gene	3962	6655	.	-	.	ID=Heinz-189-1+I+NL+G10
+Contig189	Curated	mRNA	3962	6655	.	-	.	ID=Heinz-189-1+I+NL+G10
+Contig189	Curated	exon	3962	5383	.	-	.	ID=Heinz-189-1+I+NL+G10
+Contig189	Curated	exon	5624	6655	.	-	.	ID=Heinz-189-1+I+NL+G10
+Contig189	Curated	CDS	3962	5383	.	-	0	ID=Heinz-189-1+I+NL+G10
+Contig189	Curated	CDS	5624	6655	.	-	0	ID=Heinz-189-1+I+NL+G10
+ 
+Contig190	Curated	gene	3094	5962	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	mRNA	3094	5962	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	exon	3094	3288	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	exon	3351	3411	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	exon	3451	3778	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	exon	3802	4034	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	exon	4300	4905	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	exon	4959	5061	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	exon	5148	5307	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	exon	5389	5650	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	exon	5904	5962	.	-	.	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	CDS	3094	3288	.	-	0	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	CDS	3351	3411	.	-	1	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	CDS	3451	3778	.	-	2	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	CDS	3802	4034	.	-	1	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	CDS	4300	4905	.	-	1	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	CDS	4959	5061	.	-	2	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	CDS	5148	5307	.	-	0	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	CDS	5389	5650	.	-	1	ID=Heinz-190-1+I+CNL+G3
+Contig190	Curated	CDS	5904	5962	.	-	0	ID=Heinz-190-1+I+CNL+G3
+ 
+Contig192	Curated	gene	3006	5906	.	+	.	ID=Heinz-192-1+P+N+NA
+Contig192	Curated	mRNA	3006	5906	.	+	.	ID=Heinz-192-1+P+N+NA
+Contig192	Curated	exon	3006	5906	.	+	.	ID=Heinz-192-1+P+N+NA
+Contig192	Curated	CDS	3006	5906	.	+	0	ID=Heinz-192-1+P+N+NA
+ 
+Contig193	Curated	gene	3600	4761	.	+	.	ID=Heinz-193-1+P+N+G13
+Contig193	Curated	mRNA	3600	4761	.	+	.	ID=Heinz-193-1+P+N+G13
+Contig193	Curated	exon	3600	3631	.	+	.	ID=Heinz-193-1+P+N+G13
+Contig193	Curated	exon	3700	3755	.	+	.	ID=Heinz-193-1+P+N+G13
+Contig193	Curated	exon	3859	4183	.	+	.	ID=Heinz-193-1+P+N+G13
+Contig193	Curated	exon	4464	4761	.	+	.	ID=Heinz-193-1+P+N+G13
+Contig193	Curated	CDS	3600	3631	.	+	0	ID=Heinz-193-1+P+N+G13
+Contig193	Curated	CDS	3700	3755	.	+	1	ID=Heinz-193-1+P+N+G13
+Contig193	Curated	CDS	3859	4183	.	+	2	ID=Heinz-193-1+P+N+G13
+Contig193	Curated	CDS	4464	4761	.	+	1	ID=Heinz-193-1+P+N+G13
+ 
+Contig194	Curated	gene	3240	5152	.	-	.	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	mRNA	3240	5152	.	-	.	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	exon	3240	3563	.	-	.	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	exon	3617	3883	.	-	.	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	exon	3986	4066	.	-	.	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	exon	4072	4221	.	-	.	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	exon	4372	4641	.	-	.	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	exon	4653	4729	.	-	.	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	exon	4825	5152	.	-	.	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	CDS	3240	3563	.	-	0	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	CDS	3617	3883	.	-	0	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	CDS	3986	4066	.	-	0	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	CDS	4072	4221	.	-	0	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	CDS	4372	4641	.	-	0	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	CDS	4653	4729	.	-	2	ID=Heinz-194-1+I+N+G9
+Contig194	Curated	CDS	4825	5152	.	-	0	ID=Heinz-194-1+I+N+G9
+ 
+Contig195	Curated	gene	2646	8119	.	+	.	ID=Heinz-195-1+P+CN+G3
+Contig195	Curated	mRNA	2646	8119	.	+	.	ID=Heinz-195-1+P+CN+G3
+Contig195	Curated	exon	2646	2752	.	+	.	ID=Heinz-195-1+P+CN+G3
+Contig195	Curated	exon	2893	3280	.	+	.	ID=Heinz-195-1+P+CN+G3
+Contig195	Curated	exon	7880	8119	.	+	.	ID=Heinz-195-1+P+CN+G3
+Contig195	Curated	CDS	2646	2752	.	+	0	ID=Heinz-195-1+P+CN+G3
+Contig195	Curated	CDS	2893	3280	.	+	1	ID=Heinz-195-1+P+CN+G3
+Contig195	Curated	CDS	7880	8119	.	+	0	ID=Heinz-195-1+P+CN+G3
+ 
+Contig196	Curated	gene	3311	6465	.	-	.	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	mRNA	3311	6465	.	-	.	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	exon	3311	3378	.	-	.	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	exon	3386	3838	.	-	.	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	exon	4339	4710	.	-	.	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	exon	5669	5718	.	-	.	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	exon	6248	6465	.	-	.	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	CDS	3311	3378	.	-	2	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	CDS	3386	3838	.	-	2	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	CDS	4339	4710	.	-	2	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	CDS	5669	5718	.	-	1	ID=Heinz-196-1+P+N+G6
+Contig196	Curated	CDS	6248	6465	.	-	0	ID=Heinz-196-1+P+N+G6
+ 
+Contig197	Curated	gene	2781	3005	.	+	.	ID=Heinz-197-1+P+N+G14
+Contig197	Curated	mRNA	2781	3005	.	+	.	ID=Heinz-197-1+P+N+G14
+Contig197	Curated	exon	2781	2856	.	+	.	ID=Heinz-197-1+P+N+G14
+Contig197	Curated	exon	2896	3005	.	+	.	ID=Heinz-197-1+P+N+G14
+Contig197	Curated	CDS	2781	2856	.	+	0	ID=Heinz-197-1+P+N+G14
+Contig197	Curated	CDS	2896	3005	.	+	2	ID=Heinz-197-1+P+N+G14
+ 
+Contig198	Curated	gene	3071	5173	.	+	.	ID=Heinz-198-1+P+NL+G9
+Contig198	Curated	mRNA	3071	5173	.	+	.	ID=Heinz-198-1+P+NL+G9
+Contig198	Curated	exon	3071	3286	.	+	.	ID=Heinz-198-1+P+NL+G9
+Contig198	Curated	exon	3331	3696	.	+	.	ID=Heinz-198-1+P+NL+G9
+Contig198	Curated	exon	3732	3911	.	+	.	ID=Heinz-198-1+P+NL+G9
+Contig198	Curated	exon	3941	5173	.	+	.	ID=Heinz-198-1+P+NL+G9
+Contig198	Curated	CDS	3071	3286	.	+	0	ID=Heinz-198-1+P+NL+G9
+Contig198	Curated	CDS	3331	3696	.	+	0	ID=Heinz-198-1+P+NL+G9
+Contig198	Curated	CDS	3732	3911	.	+	0	ID=Heinz-198-1+P+NL+G9
+Contig198	Curated	CDS	3941	5173	.	+	0	ID=Heinz-198-1+P+NL+G9
+ 
+Contig200	Curated	gene	6980	7476	.	-	.	ID=Heinz-200-1+P+N+G14
+Contig200	Curated	mRNA	6980	7476	.	-	.	ID=Heinz-200-1+P+N+G14
+Contig200	Curated	exon	6980	7386	.	-	.	ID=Heinz-200-1+P+N+G14
+Contig200	Curated	exon	7401	7476	.	-	.	ID=Heinz-200-1+P+N+G14
+Contig200	Curated	CDS	6980	7386	.	-	2	ID=Heinz-200-1+P+N+G14
+Contig200	Curated	CDS	7401	7476	.	-	0	ID=Heinz-200-1+P+N+G14
+ 
+Contig201	Curated	gene	4202	8536	.	+	.	ID=Heinz-201-1+I+CNL+G8
+Contig201	Curated	mRNA	4202	8536	.	+	.	ID=Heinz-201-1+I+CNL+G8
+Contig201	Curated	exon	4202	4369	.	+	.	ID=Heinz-201-1+I+CNL+G8
+Contig201	Curated	exon	5623	5892	.	+	.	ID=Heinz-201-1+I+CNL+G8
+Contig201	Curated	exon	6299	8536	.	+	.	ID=Heinz-201-1+I+CNL+G8
+Contig201	Curated	CDS	4202	4369	.	+	0	ID=Heinz-201-1+I+CNL+G8
+Contig201	Curated	CDS	5623	5892	.	+	0	ID=Heinz-201-1+I+CNL+G8
+Contig201	Curated	CDS	6299	8536	.	+	0	ID=Heinz-201-1+I+CNL+G8
+ 
+Contig202	Curated	gene	3987	4435	.	+	.	ID=Heinz-202-1+P+N+G10
+Contig202	Curated	mRNA	3987	4435	.	+	.	ID=Heinz-202-1+P+N+G10
+Contig202	Curated	exon	3987	4047	.	+	.	ID=Heinz-202-1+P+N+G10
+Contig202	Curated	exon	4242	4435	.	+	.	ID=Heinz-202-1+P+N+G10
+Contig202	Curated	CDS	3987	4047	.	+	0	ID=Heinz-202-1+P+N+G10
+Contig202	Curated	CDS	4242	4435	.	+	2	ID=Heinz-202-1+P+N+G10
+ 
+Contig203	Curated	gene	3559	3799	.	+	.	ID=Heinz-203-1+P+N+G1
+Contig203	Curated	mRNA	3559	3799	.	+	.	ID=Heinz-203-1+P+N+G1
+Contig203	Curated	exon	3559	3594	.	+	.	ID=Heinz-203-1+P+N+G1
+Contig203	Curated	exon	3662	3799	.	+	.	ID=Heinz-203-1+P+N+G1
+Contig203	Curated	CDS	3559	3594	.	+	0	ID=Heinz-203-1+P+N+G1
+Contig203	Curated	CDS	3662	3799	.	+	0	ID=Heinz-203-1+P+N+G1
+ 
+Contig204	Curated	gene	715	3484	.	-	.	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	mRNA	715	3484	.	-	.	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	exon	2502	3123	.	-	.	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	exon	3130	3190	.	-	.	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	exon	3211	3284	.	-	.	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	exon	3294	3484	.	-	.	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	exon	715	732	.	-	.	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	CDS	2502	3123	.	-	1	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	CDS	3130	3190	.	-	2	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	CDS	3211	3284	.	-	1	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	CDS	3294	3484	.	-	0	ID=Heinz-204-1+P+CN+G10
+Contig204	Curated	CDS	715	732	.	-	0	ID=Heinz-204-1+P+CN+G10
+ 
+Contig205	Curated	gene	2781	6668	.	+	.	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	mRNA	2781	6668	.	+	.	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	exon	2781	3120	.	+	.	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	exon	3383	4052	.	+	.	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	exon	4073	4211	.	+	.	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	exon	4228	5002	.	+	.	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	exon	5090	5546	.	+	.	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	exon	5604	6534	.	+	.	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	exon	6543	6668	.	+	.	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	CDS	2781	3120	.	+	0	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	CDS	3383	4052	.	+	2	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	CDS	4073	4211	.	+	1	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	CDS	4228	5002	.	+	0	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	CDS	5090	5546	.	+	2	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	CDS	5604	6534	.	+	1	ID=Heinz-205-1+I+CNL+G4
+Contig205	Curated	CDS	6543	6668	.	+	0	ID=Heinz-205-1+I+CNL+G4
+ 
+Contig206	Curated	gene	4403	7012	.	+	.	ID=Heinz-206-1+I+CNL+NG
+Contig206	Curated	mRNA	4403	7012	.	+	.	ID=Heinz-206-1+I+CNL+NG
+Contig206	Curated	exon	4403	7012	.	+	.	ID=Heinz-206-1+I+CNL+NG
+Contig206	Curated	CDS	4403	7012	.	+	0	ID=Heinz-206-1+I+CNL+NG
+ 
+Contig207	Curated	gene	3602	5592	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	mRNA	3602	5592	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	3602	3713	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	3729	3943	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	3992	4323	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	4504	4630	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	4658	4704	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	4734	4789	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	4801	4924	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	4930	5099	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	5153	5365	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	exon	5381	5592	.	-	.	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	3602	3713	.	-	1	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	3729	3943	.	-	0	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	3992	4323	.	-	2	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	4504	4630	.	-	0	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	4658	4704	.	-	2	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	4734	4789	.	-	1	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	4801	4924	.	-	2	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	4930	5099	.	-	1	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	5153	5365	.	-	1	ID=Heinz-207-1+P+CNL+G3
+Contig207	Curated	CDS	5381	5592	.	-	0	ID=Heinz-207-1+P+CNL+G3
+ 
+Contig208	Curated	gene	3651	7591	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	mRNA	3651	7591	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	3651	3740	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	3895	3963	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	4128	4376	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	4425	4609	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	5167	5468	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	5532	5992	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	6166	6352	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	6683	6938	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	7090	7415	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	exon	7425	7591	.	-	.	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	3651	3740	.	-	0	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	3895	3963	.	-	0	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	4128	4376	.	-	0	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	4425	4609	.	-	2	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	5167	5468	.	-	1	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	5532	5992	.	-	0	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	6166	6352	.	-	1	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	6683	6938	.	-	2	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	7090	7415	.	-	1	ID=Heinz-208-1+P+CN+G10
+Contig208	Curated	CDS	7425	7591	.	-	0	ID=Heinz-208-1+P+CN+G10
+ 
+Contig209	Curated	gene	3355	5931	.	-	.	ID=Heinz-209-1+I+CNL+G14
+Contig209	Curated	mRNA	3355	5931	.	-	.	ID=Heinz-209-1+I+CNL+G14
+Contig209	Curated	exon	3355	5931	.	-	.	ID=Heinz-209-1+I+CNL+G14
+Contig209	Curated	CDS	3355	5931	.	-	0	ID=Heinz-209-1+I+CNL+G14
+ 
+Contig210	Curated	gene	2064	4820	.	-	.	ID=Heinz-210-1+I+CNL+G12
+Contig210	Curated	mRNA	2064	4820	.	-	.	ID=Heinz-210-1+I+CNL+G12
+Contig210	Curated	exon	2064	3549	.	-	.	ID=Heinz-210-1+I+CNL+G12
+Contig210	Curated	exon	3577	4820	.	-	.	ID=Heinz-210-1+I+CNL+G12
+Contig210	Curated	CDS	2064	3549	.	-	1	ID=Heinz-210-1+I+CNL+G12
+Contig210	Curated	CDS	3577	4820	.	-	0	ID=Heinz-210-1+I+CNL+G12
+ 
+Contig211	Curated	gene	4307	4658	.	+	.	ID=Heinz-211-1+P+N+G4
+Contig211	Curated	mRNA	4307	4658	.	+	.	ID=Heinz-211-1+P+N+G4
+Contig211	Curated	exon	4307	4344	.	+	.	ID=Heinz-211-1+P+N+G4
+Contig211	Curated	exon	4394	4658	.	+	.	ID=Heinz-211-1+P+N+G4
+Contig211	Curated	CDS	4307	4344	.	+	0	ID=Heinz-211-1+P+N+G4
+Contig211	Curated	CDS	4394	4658	.	+	1	ID=Heinz-211-1+P+N+G4
+ 
+Contig212	Curated	gene	3099	5572	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	mRNA	3099	5572	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	exon	3099	3316	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	exon	3353	3657	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	exon	3695	4074	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	exon	4114	4155	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	exon	4213	4460	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	exon	4506	4789	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	exon	4842	4974	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	exon	5012	5145	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	exon	5172	5572	.	+	.	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	CDS	3099	3316	.	+	0	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	CDS	3353	3657	.	+	1	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	CDS	3695	4074	.	+	2	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	CDS	4114	4155	.	+	0	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	CDS	4213	4460	.	+	0	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	CDS	4506	4789	.	+	1	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	CDS	4842	4974	.	+	2	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	CDS	5012	5145	.	+	1	ID=Heinz-212-1+I+CN+G5
+Contig212	Curated	CDS	5172	5572	.	+	2	ID=Heinz-212-1+I+CN+G5
+ 
+Contig213	Curated	gene	3986	4322	.	+	.	ID=Heinz-213-1+P+N+G13
+Contig213	Curated	mRNA	3986	4322	.	+	.	ID=Heinz-213-1+P+N+G13
+Contig213	Curated	exon	3986	4032	.	+	.	ID=Heinz-213-1+P+N+G13
+Contig213	Curated	exon	4175	4322	.	+	.	ID=Heinz-213-1+P+N+G13
+Contig213	Curated	CDS	3986	4032	.	+	0	ID=Heinz-213-1+P+N+G13
+Contig213	Curated	CDS	4175	4322	.	+	1	ID=Heinz-213-1+P+N+G13
+ 
+Contig214	Curated	gene	1946	2197	.	+	.	ID=Heinz-214-1+P+N+G13
+Contig214	Curated	mRNA	1946	2197	.	+	.	ID=Heinz-214-1+P+N+G13
+Contig214	Curated	exon	1946	2197	.	+	.	ID=Heinz-214-1+P+N+G13
+Contig214	Curated	CDS	1946	2197	.	+	0	ID=Heinz-214-1+P+N+G13
+ 
+Contig215	Curated	gene	3758	4106	.	+	.	ID=Heinz-215-1+P+N+G14
+Contig215	Curated	mRNA	3758	4106	.	+	.	ID=Heinz-215-1+P+N+G14
+Contig215	Curated	exon	3758	3883	.	+	.	ID=Heinz-215-1+P+N+G14
+Contig215	Curated	exon	3924	4106	.	+	.	ID=Heinz-215-1+P+N+G14
+Contig215	Curated	CDS	3758	3883	.	+	0	ID=Heinz-215-1+P+N+G14
+Contig215	Curated	CDS	3924	4106	.	+	0	ID=Heinz-215-1+P+N+G14
+ 
+Contig216	Curated	gene	3332	3583	.	-	.	ID=Heinz-216-1+P+N+G13
+Contig216	Curated	mRNA	3332	3583	.	-	.	ID=Heinz-216-1+P+N+G13
+Contig216	Curated	exon	3332	3583	.	-	.	ID=Heinz-216-1+P+N+G13
+Contig216	Curated	CDS	3332	3583	.	-	0	ID=Heinz-216-1+P+N+G13
+ 
+Contig217	Curated	gene	3581	3835	.	+	.	ID=Heinz-217-1+P+N+G14
+Contig217	Curated	mRNA	3581	3835	.	+	.	ID=Heinz-217-1+P+N+G14
+Contig217	Curated	exon	3581	3835	.	+	.	ID=Heinz-217-1+P+N+G14
+Contig217	Curated	CDS	3581	3835	.	+	0	ID=Heinz-217-1+P+N+G14
+ 
+Contig219	Curated	gene	3764	4042	.	+	.	ID=Heinz-219-1+P+N+G12
+Contig219	Curated	mRNA	3764	4042	.	+	.	ID=Heinz-219-1+P+N+G12
+Contig219	Curated	exon	3764	4042	.	+	.	ID=Heinz-219-1+P+N+G12
+Contig219	Curated	CDS	3764	4042	.	+	0	ID=Heinz-219-1+P+N+G12
+ 
+Contig220	Curated	gene	2949	3666	.	+	.	ID=Heinz-220-1+P+N+NA
+Contig220	Curated	mRNA	2949	3666	.	+	.	ID=Heinz-220-1+P+N+NA
+Contig220	Curated	exon	2949	3106	.	+	.	ID=Heinz-220-1+P+N+NA
+Contig220	Curated	exon	3223	3323	.	+	.	ID=Heinz-220-1+P+N+NA
+Contig220	Curated	exon	3408	3563	.	+	.	ID=Heinz-220-1+P+N+NA
+Contig220	Curated	exon	3581	3666	.	+	.	ID=Heinz-220-1+P+N+NA
+Contig220	Curated	CDS	2949	3106	.	+	0	ID=Heinz-220-1+P+N+NA
+Contig220	Curated	CDS	3223	3323	.	+	1	ID=Heinz-220-1+P+N+NA
+Contig220	Curated	CDS	3408	3563	.	+	2	ID=Heinz-220-1+P+N+NA
+Contig220	Curated	CDS	3581	3666	.	+	2	ID=Heinz-220-1+P+N+NA
+ 
+Contig221	Curated	gene	2803	3139	.	-	.	ID=Heinz-221-1+P+N+G13
+Contig221	Curated	mRNA	2803	3139	.	-	.	ID=Heinz-221-1+P+N+G13
+Contig221	Curated	exon	2803	2950	.	-	.	ID=Heinz-221-1+P+N+G13
+Contig221	Curated	exon	3093	3139	.	-	.	ID=Heinz-221-1+P+N+G13
+Contig221	Curated	CDS	2803	2950	.	-	1	ID=Heinz-221-1+P+N+G13
+Contig221	Curated	CDS	3093	3139	.	-	0	ID=Heinz-221-1+P+N+G13
+ 
+Contig222	Curated	gene	6040	9931	.	-	.	ID=Heinz-222-1+I+CNL+G1
+Contig222	Curated	mRNA	6040	9931	.	-	.	ID=Heinz-222-1+I+CNL+G1
+Contig222	Curated	exon	6040	9813	.	-	.	ID=Heinz-222-1+I+CNL+G1
+Contig222	Curated	exon	9908	9931	.	-	.	ID=Heinz-222-1+I+CNL+G1
+Contig222	Curated	CDS	6040	9813	.	-	0	ID=Heinz-222-1+I+CNL+G1
+Contig222	Curated	CDS	9908	9931	.	-	0	ID=Heinz-222-1+I+CNL+G1
+ 
+Contig222	Curated	gene	15608	15733	.	-	.	ID=Heinz-222-2+P+N+G3
+Contig222	Curated	mRNA	15608	15733	.	-	.	ID=Heinz-222-2+P+N+G3
+Contig222	Curated	exon	15608	15733	.	-	.	ID=Heinz-222-2+P+N+G3
+Contig222	Curated	CDS	15608	15733	.	-	0	ID=Heinz-222-2+P+N+G3
+ 
+Contig222	Curated	gene	21686	25652	.	-	.	ID=Heinz-222-3+I+CNL+G1
+Contig222	Curated	mRNA	21686	25652	.	-	.	ID=Heinz-222-3+I+CNL+G1
+Contig222	Curated	exon	21686	25534	.	-	.	ID=Heinz-222-3+I+CNL+G1
+Contig222	Curated	exon	25629	25652	.	-	.	ID=Heinz-222-3+I+CNL+G1
+Contig222	Curated	CDS	21686	25534	.	-	0	ID=Heinz-222-3+I+CNL+G1
+Contig222	Curated	CDS	25629	25652	.	-	0	ID=Heinz-222-3+I+CNL+G1
+ 
+Contig222	Curated	gene	29364	33265	.	-	.	ID=Heinz-222-4+I+CN+G1
+Contig222	Curated	mRNA	29364	33265	.	-	.	ID=Heinz-222-4+I+CN+G1
+Contig222	Curated	exon	29364	31397	.	-	.	ID=Heinz-222-4+I+CN+G1
+Contig222	Curated	exon	31425	31850	.	-	.	ID=Heinz-222-4+I+CN+G1
+Contig222	Curated	exon	31855	33147	.	-	.	ID=Heinz-222-4+I+CN+G1
+Contig222	Curated	exon	33242	33265	.	-	.	ID=Heinz-222-4+I+CN+G1
+Contig222	Curated	CDS	29364	31397	.	-	0	ID=Heinz-222-4+I+CN+G1
+Contig222	Curated	CDS	31425	31850	.	-	0	ID=Heinz-222-4+I+CN+G1
+Contig222	Curated	CDS	31855	33147	.	-	0	ID=Heinz-222-4+I+CN+G1
+Contig222	Curated	CDS	33242	33265	.	-	0	ID=Heinz-222-4+I+CN+G1
+ 
+Contig222	Curated	gene	41166	44580	.	-	.	ID=Heinz-222-5+I+CNL+G8
+Contig222	Curated	mRNA	41166	44580	.	-	.	ID=Heinz-222-5+I+CNL+G8
+Contig222	Curated	exon	41166	43367	.	-	.	ID=Heinz-222-5+I+CNL+G8
+Contig222	Curated	exon	44110	44580	.	-	.	ID=Heinz-222-5+I+CNL+G8
+Contig222	Curated	CDS	41166	43367	.	-	0	ID=Heinz-222-5+I+CNL+G8
+Contig222	Curated	CDS	44110	44580	.	-	0	ID=Heinz-222-5+I+CNL+G8
+ 
+Contig222	Curated	gene	50582	54508	.	+	.	ID=Heinz-222-6+I+CNL+G1
+Contig222	Curated	mRNA	50582	54508	.	+	.	ID=Heinz-222-6+I+CNL+G1
+Contig222	Curated	exon	50582	54508	.	+	.	ID=Heinz-222-6+I+CNL+G1
+Contig222	Curated	CDS	50582	54508	.	+	0	ID=Heinz-222-6+I+CNL+G1
+ 
+Contig223	Curated	gene	8110	9570	.	+	.	ID=Heinz-223-1+P+N+G6
+Contig223	Curated	mRNA	8110	9570	.	+	.	ID=Heinz-223-1+P+N+G6
+Contig223	Curated	exon	8110	9570	.	+	.	ID=Heinz-223-1+P+N+G6
+Contig223	Curated	CDS	8110	9570	.	+	0	ID=Heinz-223-1+P+N+G6
+ 
+Contig224	Curated	gene	5968	8508	.	-	.	ID=Heinz-224-1+I+CN+G11
+Contig224	Curated	mRNA	5968	8508	.	-	.	ID=Heinz-224-1+I+CN+G11
+Contig224	Curated	exon	5968	8508	.	-	.	ID=Heinz-224-1+I+CN+G11
+Contig224	Curated	CDS	5968	8508	.	-	0	ID=Heinz-224-1+I+CN+G11
+ 
+Contig224	Curated	gene	15769	18315	.	-	.	ID=Heinz-224-2+I+CN+G11
+Contig224	Curated	mRNA	15769	18315	.	-	.	ID=Heinz-224-2+I+CN+G11
+Contig224	Curated	exon	15769	18315	.	-	.	ID=Heinz-224-2+I+CN+G11
+Contig224	Curated	CDS	15769	18315	.	-	0	ID=Heinz-224-2+I+CN+G11
+ 
+Contig225	Curated	gene	3587	7033	.	+	.	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	mRNA	3587	7033	.	+	.	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	exon	3587	4088	.	+	.	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	exon	4347	5410	.	+	.	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	exon	5789	6124	.	+	.	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	exon	6312	6645	.	+	.	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	exon	6691	6795	.	+	.	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	exon	6804	7033	.	+	.	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	CDS	3587	4088	.	+	0	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	CDS	4347	5410	.	+	2	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	CDS	5789	6124	.	+	0	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	CDS	6312	6645	.	+	0	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	CDS	6691	6795	.	+	2	ID=Heinz-225-1+I+TNL+GT
+Contig225	Curated	CDS	6804	7033	.	+	2	ID=Heinz-225-1+I+TNL+GT
+ 
+Contig226	Curated	gene	6296	10096	.	+	.	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	mRNA	6296	10096	.	+	.	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	exon	6296	7010	.	+	.	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	exon	7622	8016	.	+	.	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	exon	8225	8607	.	+	.	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	exon	8939	9150	.	+	.	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	exon	9264	10096	.	+	.	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	CDS	6296	7010	.	+	0	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	CDS	7622	8016	.	+	2	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	CDS	8225	8607	.	+	0	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	CDS	8939	9150	.	+	1	ID=Heinz-226-1+I+RNL+GR
+Contig226	Curated	CDS	9264	10096	.	+	2	ID=Heinz-226-1+I+RNL+GR
+ 
+Contig227	Curated	gene	3105	7471	.	-	.	ID=Heinz-227-1+I+CN+G3
+Contig227	Curated	mRNA	3105	7471	.	-	.	ID=Heinz-227-1+I+CN+G3
+Contig227	Curated	exon	3105	5176	.	-	.	ID=Heinz-227-1+I+CN+G3
+Contig227	Curated	exon	5250	6888	.	-	.	ID=Heinz-227-1+I+CN+G3
+Contig227	Curated	exon	7385	7471	.	-	.	ID=Heinz-227-1+I+CN+G3
+Contig227	Curated	CDS	3105	5176	.	-	2	ID=Heinz-227-1+I+CN+G3
+Contig227	Curated	CDS	5250	6888	.	-	0	ID=Heinz-227-1+I+CN+G3
+Contig227	Curated	CDS	7385	7471	.	-	0	ID=Heinz-227-1+I+CN+G3
+ 
+Contig228	Curated	gene	4096	8065	.	+	.	ID=Heinz-228-1+I+CNL+G1
+Contig228	Curated	mRNA	4096	8065	.	+	.	ID=Heinz-228-1+I+CNL+G1
+Contig228	Curated	exon	4096	4119	.	+	.	ID=Heinz-228-1+I+CNL+G1
+Contig228	Curated	exon	4202	8065	.	+	.	ID=Heinz-228-1+I+CNL+G1
+Contig228	Curated	CDS	4096	4119	.	+	0	ID=Heinz-228-1+I+CNL+G1
+Contig228	Curated	CDS	4202	8065	.	+	0	ID=Heinz-228-1+I+CNL+G1
+ 
+Contig229	Curated	gene	2664	5453	.	-	.	ID=Heinz-229-1+I+NL+NG
+Contig229	Curated	mRNA	2664	5453	.	-	.	ID=Heinz-229-1+I+NL+NG
+Contig229	Curated	exon	2664	5453	.	-	.	ID=Heinz-229-1+I+NL+NG
+Contig229	Curated	CDS	2664	5453	.	-	0	ID=Heinz-229-1+I+NL+NG
+ 
+Contig230	Curated	gene	2143	5959	.	-	.	ID=Heinz-230-1+I+CNL+G3
+Contig230	Curated	mRNA	2143	5959	.	-	.	ID=Heinz-230-1+I+CNL+G3
+Contig230	Curated	exon	2143	3226	.	-	.	ID=Heinz-230-1+I+CNL+G3
+Contig230	Curated	exon	3315	5959	.	-	.	ID=Heinz-230-1+I+CNL+G3
+Contig230	Curated	CDS	2143	3226	.	-	1	ID=Heinz-230-1+I+CNL+G3
+Contig230	Curated	CDS	3315	5959	.	-	0	ID=Heinz-230-1+I+CNL+G3
+ 
+Contig231	Curated	gene	2432	12037	.	+	.	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	mRNA	2432	12037	.	+	.	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	exon	10761	11267	.	+	.	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	exon	11402	12037	.	+	.	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	exon	2432	2913	.	+	.	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	exon	7480	8593	.	+	.	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	exon	8852	9277	.	+	.	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	exon	9579	10688	.	+	.	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	CDS	10761	11267	.	+	0	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	CDS	11402	12037	.	+	0	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	CDS	2432	2913	.	+	0	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	CDS	7480	8593	.	+	1	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	CDS	8852	9277	.	+	0	ID=Heinz-231-1+I+TNL+GT
+Contig231	Curated	CDS	9579	10688	.	+	0	ID=Heinz-231-1+I+TNL+GT
+ 
+Contig232	Curated	gene	3488	4766	.	-	.	ID=Heinz-232-1+P+TN+GT
+Contig232	Curated	mRNA	3488	4766	.	-	.	ID=Heinz-232-1+P+TN+GT
+Contig232	Curated	exon	3488	3684	.	-	.	ID=Heinz-232-1+P+TN+GT
+Contig232	Curated	exon	3741	3960	.	-	.	ID=Heinz-232-1+P+TN+GT
+Contig232	Curated	exon	4158	4248	.	-	.	ID=Heinz-232-1+P+TN+GT
+Contig232	Curated	exon	4288	4766	.	-	.	ID=Heinz-232-1+P+TN+GT
+Contig232	Curated	CDS	3488	3684	.	-	2	ID=Heinz-232-1+P+TN+GT
+Contig232	Curated	CDS	3741	3960	.	-	0	ID=Heinz-232-1+P+TN+GT
+Contig232	Curated	CDS	4158	4248	.	-	1	ID=Heinz-232-1+P+TN+GT
+Contig232	Curated	CDS	4288	4766	.	-	0	ID=Heinz-232-1+P+TN+GT
+ 
+Contig232	Curated	gene	5989	10769	.	-	.	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	mRNA	5989	10769	.	-	.	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	exon	10291	10769	.	-	.	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	exon	5989	6468	.	-	.	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	exon	6551	7840	.	-	.	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	exon	8569	8856	.	-	.	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	exon	8969	9570	.	-	.	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	exon	9597	10069	.	-	.	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	CDS	10291	10769	.	-	0	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	CDS	5989	6468	.	-	0	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	CDS	6551	7840	.	-	0	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	CDS	8569	8856	.	-	0	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	CDS	8969	9570	.	-	2	ID=Heinz-232-2+I+TNL+GT
+Contig232	Curated	CDS	9597	10069	.	-	1	ID=Heinz-232-2+I+TNL+GT
+ 
+Contig233	Curated	gene	3992	8471	.	+	.	ID=Heinz-233-1+I+TNL+GT
+Contig233	Curated	mRNA	3992	8471	.	+	.	ID=Heinz-233-1+I+TNL+GT
+Contig233	Curated	exon	3992	4485	.	+	.	ID=Heinz-233-1+I+TNL+GT
+Contig233	Curated	exon	4566	5655	.	+	.	ID=Heinz-233-1+I+TNL+GT
+Contig233	Curated	exon	6017	6289	.	+	.	ID=Heinz-233-1+I+TNL+GT
+Contig233	Curated	exon	6819	8471	.	+	.	ID=Heinz-233-1+I+TNL+GT
+Contig233	Curated	CDS	3992	4485	.	+	0	ID=Heinz-233-1+I+TNL+GT
+Contig233	Curated	CDS	4566	5655	.	+	1	ID=Heinz-233-1+I+TNL+GT
+Contig233	Curated	CDS	6017	6289	.	+	0	ID=Heinz-233-1+I+TNL+GT
+Contig233	Curated	CDS	6819	8471	.	+	0	ID=Heinz-233-1+I+TNL+GT
+ 
+Contig233	Curated	gene	10052	12679	.	+	.	ID=Heinz-233-2+I+CNL+G2
+Contig233	Curated	mRNA	10052	12679	.	+	.	ID=Heinz-233-2+I+CNL+G2
+Contig233	Curated	exon	10052	12679	.	+	.	ID=Heinz-233-2+I+CNL+G2
+Contig233	Curated	CDS	10052	12679	.	+	0	ID=Heinz-233-2+I+CNL+G2
+ 
+Contig233	Curated	gene	13341	13803	.	+	.	ID=Heinz-233-3+P+N+G2
+Contig233	Curated	mRNA	13341	13803	.	+	.	ID=Heinz-233-3+P+N+G2
+Contig233	Curated	exon	13341	13618	.	+	.	ID=Heinz-233-3+P+N+G2
+Contig233	Curated	exon	13644	13803	.	+	.	ID=Heinz-233-3+P+N+G2
+Contig233	Curated	CDS	13341	13618	.	+	0	ID=Heinz-233-3+P+N+G2
+Contig233	Curated	CDS	13644	13803	.	+	1	ID=Heinz-233-3+P+N+G2
+ 
+Contig234	Curated	gene	3148	5802	.	-	.	ID=Heinz-234-1+I+CNL+G16
+Contig234	Curated	mRNA	3148	5802	.	-	.	ID=Heinz-234-1+I+CNL+G16
+Contig234	Curated	exon	3148	5802	.	-	.	ID=Heinz-234-1+I+CNL+G16
+Contig234	Curated	CDS	3148	5802	.	-	0	ID=Heinz-234-1+I+CNL+G16
+ 
+Contig234	Curated	gene	16463	19060	.	+	.	ID=Heinz-234-2+I+CNL+G16
+Contig234	Curated	mRNA	16463	19060	.	+	.	ID=Heinz-234-2+I+CNL+G16
+Contig234	Curated	exon	16463	19060	.	+	.	ID=Heinz-234-2+I+CNL+G16
+Contig234	Curated	CDS	16463	19060	.	+	0	ID=Heinz-234-2+I+CNL+G16
+ 
+Contig235	Curated	gene	10237	15928	.	-	.	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	mRNA	10237	15928	.	-	.	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	exon	10237	10296	.	-	.	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	exon	10464	10967	.	-	.	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	exon	11104	11574	.	-	.	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	exon	11711	12181	.	-	.	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	exon	13355	15928	.	-	.	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	CDS	10237	10296	.	-	0	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	CDS	10464	10967	.	-	0	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	CDS	11104	11574	.	-	0	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	CDS	11711	12181	.	-	0	ID=Heinz-235-1+I+CNL+G10
+Contig235	Curated	CDS	13355	15928	.	-	0	ID=Heinz-235-1+I+CNL+G10
+ 
+Contig236	Curated	gene	2372	4123	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	mRNA	2372	4123	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	exon	2372	2484	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	exon	2592	2756	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	exon	2787	2958	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	exon	3025	3093	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	exon	3133	3359	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	exon	3524	3632	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	exon	3640	3789	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	exon	4076	4123	.	-	.	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	CDS	2372	2484	.	-	2	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	CDS	2592	2756	.	-	2	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	CDS	2787	2958	.	-	0	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	CDS	3025	3093	.	-	0	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	CDS	3133	3359	.	-	2	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	CDS	3524	3632	.	-	0	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	CDS	3640	3789	.	-	0	ID=Heinz-236-1+P+N+G4
+Contig236	Curated	CDS	4076	4123	.	-	0	ID=Heinz-236-1+P+N+G4
+ 
+Contig237	Curated	gene	2345	4012	.	-	.	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	mRNA	2345	4012	.	-	.	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	exon	2345	2491	.	-	.	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	exon	2516	2613	.	-	.	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	exon	2668	2882	.	-	.	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	exon	3071	3191	.	-	.	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	exon	3419	3733	.	-	.	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	exon	3883	4012	.	-	.	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	CDS	2345	2491	.	-	0	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	CDS	2516	2613	.	-	2	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	CDS	2668	2882	.	-	1	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	CDS	3071	3191	.	-	2	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	CDS	3419	3733	.	-	2	ID=Heinz-237-1+P+NL+G4
+Contig237	Curated	CDS	3883	4012	.	-	0	ID=Heinz-237-1+P+NL+G4
+ 
+Contig238	Curated	gene	9443	13736	.	-	.	ID=Heinz-238-1+I+CNL+G1
+Contig238	Curated	mRNA	9443	13736	.	-	.	ID=Heinz-238-1+I+CNL+G1
+Contig238	Curated	exon	12299	13107	.	-	.	ID=Heinz-238-1+I+CNL+G1
+Contig238	Curated	exon	13629	13736	.	-	.	ID=Heinz-238-1+I+CNL+G1
+Contig238	Curated	exon	9443	12194	.	-	.	ID=Heinz-238-1+I+CNL+G1
+Contig238	Curated	CDS	12299	13107	.	-	0	ID=Heinz-238-1+I+CNL+G1
+Contig238	Curated	CDS	13629	13736	.	-	0	ID=Heinz-238-1+I+CNL+G1
+Contig238	Curated	CDS	9443	12194	.	-	1	ID=Heinz-238-1+I+CNL+G1
+ 
+Contig239	Curated	gene	5443	9151	.	-	.	ID=Heinz-239-1+I+CNL+G3
+Contig239	Curated	mRNA	5443	9151	.	-	.	ID=Heinz-239-1+I+CNL+G3
+Contig239	Curated	exon	5443	6520	.	-	.	ID=Heinz-239-1+I+CNL+G3
+Contig239	Curated	exon	6627	9151	.	-	.	ID=Heinz-239-1+I+CNL+G3
+Contig239	Curated	CDS	5443	6520	.	-	1	ID=Heinz-239-1+I+CNL+G3
+Contig239	Curated	CDS	6627	9151	.	-	0	ID=Heinz-239-1+I+CNL+G3
+ 
+Contig240	Curated	gene	3941	9091	.	-	.	ID=Heinz-240-1+I+CNL+G3
+Contig240	Curated	mRNA	3941	9091	.	-	.	ID=Heinz-240-1+I+CNL+G3
+Contig240	Curated	exon	3941	5099	.	-	.	ID=Heinz-240-1+I+CNL+G3
+Contig240	Curated	exon	5188	8664	.	-	.	ID=Heinz-240-1+I+CNL+G3
+Contig240	Curated	exon	8682	9091	.	-	.	ID=Heinz-240-1+I+CNL+G3
+Contig240	Curated	CDS	3941	5099	.	-	1	ID=Heinz-240-1+I+CNL+G3
+Contig240	Curated	CDS	5188	8664	.	-	1	ID=Heinz-240-1+I+CNL+G3
+Contig240	Curated	CDS	8682	9091	.	-	0	ID=Heinz-240-1+I+CNL+G3
+ 
+Contig241	Curated	gene	1792	4356	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	mRNA	1792	4356	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	1792	1856	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	1904	2063	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	2099	2198	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	2203	2400	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	2417	2486	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	2578	2647	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	2727	3012	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	3025	3542	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	3782	3995	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	exon	4151	4356	.	+	.	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	1792	1856	.	+	0	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	1904	2063	.	+	1	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	2099	2198	.	+	0	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	2203	2400	.	+	2	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	2417	2486	.	+	2	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	2578	2647	.	+	1	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	2727	3012	.	+	0	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	3025	3542	.	+	2	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	3782	3995	.	+	0	ID=Heinz-241-1+I+CNL+G1
+Contig241	Curated	CDS	4151	4356	.	+	2	ID=Heinz-241-1+I+CNL+G1
+ 
+Contig242	Curated	gene	3840	9361	.	-	.	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	mRNA	3840	9361	.	-	.	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	exon	3840	4514	.	-	.	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	exon	4601	5743	.	-	.	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	exon	5914	6189	.	-	.	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	exon	6288	7371	.	-	.	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	exon	8853	9361	.	-	.	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	CDS	3840	4514	.	-	0	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	CDS	4601	5743	.	-	0	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	CDS	5914	6189	.	-	0	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	CDS	6288	7371	.	-	1	ID=Heinz-242-1+I+TNL+GT
+Contig242	Curated	CDS	8853	9361	.	-	0	ID=Heinz-242-1+I+TNL+GT
+ 
+Contig243	Curated	gene	1298	4021	.	+	.	ID=Heinz-243-1+I+CNL+G2
+Contig243	Curated	mRNA	1298	4021	.	+	.	ID=Heinz-243-1+I+CNL+G2
+Contig243	Curated	exon	1298	2421	.	+	.	ID=Heinz-243-1+I+CNL+G2
+Contig243	Curated	exon	2473	4021	.	+	.	ID=Heinz-243-1+I+CNL+G2
+Contig243	Curated	CDS	1298	2421	.	+	0	ID=Heinz-243-1+I+CNL+G2
+Contig243	Curated	CDS	2473	4021	.	+	1	ID=Heinz-243-1+I+CNL+G2
+ 
+Contig244	Curated	gene	3014	6813	.	+	.	ID=Heinz-244-1+I+CNL+NG
+Contig244	Curated	mRNA	3014	6813	.	+	.	ID=Heinz-244-1+I+CNL+NG
+Contig244	Curated	exon	3014	5323	.	+	.	ID=Heinz-244-1+I+CNL+NG
+Contig244	Curated	exon	5386	6547	.	+	.	ID=Heinz-244-1+I+CNL+NG
+Contig244	Curated	exon	6731	6813	.	+	.	ID=Heinz-244-1+I+CNL+NG
+Contig244	Curated	CDS	3014	5323	.	+	0	ID=Heinz-244-1+I+CNL+NG
+Contig244	Curated	CDS	5386	6547	.	+	0	ID=Heinz-244-1+I+CNL+NG
+Contig244	Curated	CDS	6731	6813	.	+	2	ID=Heinz-244-1+I+CNL+NG
+ 
+Contig245	Curated	gene	2548	6664	.	-	.	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	mRNA	2548	6664	.	-	.	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	exon	2548	2660	.	-	.	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	exon	2744	3407	.	-	.	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	exon	3543	4448	.	-	.	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	exon	4546	4977	.	-	.	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	exon	5061	6165	.	-	.	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	exon	6240	6664	.	-	.	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	CDS	2548	2660	.	-	2	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	CDS	2744	3407	.	-	0	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	CDS	3543	4448	.	-	0	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	CDS	4546	4977	.	-	0	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	CDS	5061	6165	.	-	1	ID=Heinz-245-1+I+TNL+GT
+Contig245	Curated	CDS	6240	6664	.	-	0	ID=Heinz-245-1+I+TNL+GT
+ 
+Contig246	Curated	gene	3064	6138	.	+	.	ID=Heinz-246-1+I+CNL+G10
+Contig246	Curated	mRNA	3064	6138	.	+	.	ID=Heinz-246-1+I+CNL+G10
+Contig246	Curated	exon	3064	6138	.	+	.	ID=Heinz-246-1+I+CNL+G10
+Contig246	Curated	CDS	3064	6138	.	+	0	ID=Heinz-246-1+I+CNL+G10
+ 
+Contig247	Curated	gene	2346	4803	.	-	.	ID=Heinz-247-1+I+CNL+G14
+Contig247	Curated	mRNA	2346	4803	.	-	.	ID=Heinz-247-1+I+CNL+G14
+Contig247	Curated	exon	2346	4541	.	-	.	ID=Heinz-247-1+I+CNL+G14
+Contig247	Curated	exon	4627	4803	.	-	.	ID=Heinz-247-1+I+CNL+G14
+Contig247	Curated	CDS	2346	4541	.	-	0	ID=Heinz-247-1+I+CNL+G14
+Contig247	Curated	CDS	4627	4803	.	-	0	ID=Heinz-247-1+I+CNL+G14
+ 
+Contig248	Curated	gene	4274	5773	.	-	.	ID=Heinz-248-1+P+CN+G10
+Contig248	Curated	mRNA	4274	5773	.	-	.	ID=Heinz-248-1+P+CN+G10
+Contig248	Curated	exon	4274	4630	.	-	.	ID=Heinz-248-1+P+CN+G10
+Contig248	Curated	exon	4849	5041	.	-	.	ID=Heinz-248-1+P+CN+G10
+Contig248	Curated	exon	5085	5356	.	-	.	ID=Heinz-248-1+P+CN+G10
+Contig248	Curated	exon	5663	5773	.	-	.	ID=Heinz-248-1+P+CN+G10
+Contig248	Curated	CDS	4274	4630	.	-	0	ID=Heinz-248-1+P+CN+G10
+Contig248	Curated	CDS	4849	5041	.	-	1	ID=Heinz-248-1+P+CN+G10
+Contig248	Curated	CDS	5085	5356	.	-	0	ID=Heinz-248-1+P+CN+G10
+Contig248	Curated	CDS	5663	5773	.	-	0	ID=Heinz-248-1+P+CN+G10
+ 
+Contig249	Curated	gene	4334	8829	.	+	.	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	mRNA	4334	8829	.	+	.	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	exon	4334	4760	.	+	.	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	exon	5094	6193	.	+	.	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	exon	6306	6587	.	+	.	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	exon	6965	7087	.	+	.	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	exon	7219	7980	.	+	.	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	exon	8087	8260	.	+	.	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	exon	8620	8829	.	+	.	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	CDS	4334	4760	.	+	0	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	CDS	5094	6193	.	+	2	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	CDS	6306	6587	.	+	0	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	CDS	6965	7087	.	+	0	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	CDS	7219	7980	.	+	0	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	CDS	8087	8260	.	+	0	ID=Heinz-249-1+I+TNL+GT
+Contig249	Curated	CDS	8620	8829	.	+	0	ID=Heinz-249-1+I+TNL+GT
+ 
+Contig249	Curated	gene	10111	17834	.	+	.	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	mRNA	10111	17834	.	+	.	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	exon	10111	10589	.	+	.	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	exon	10870	10981	.	+	.	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	exon	11732	11817	.	+	.	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	exon	14252	15146	.	+	.	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	exon	15269	15556	.	+	.	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	exon	15977	17269	.	+	.	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	exon	17364	17834	.	+	.	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	CDS	10111	10589	.	+	0	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	CDS	10870	10981	.	+	1	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	CDS	11732	11817	.	+	0	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	CDS	14252	15146	.	+	1	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	CDS	15269	15556	.	+	0	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	CDS	15977	17269	.	+	0	ID=Heinz-249-2+I+TNL+GT
+Contig249	Curated	CDS	17364	17834	.	+	0	ID=Heinz-249-2+I+TNL+GT
+ 
